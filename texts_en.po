@@ -1,4 +1,3 @@
-
 #: smth
 msgid "chooselanguage"
 msgstr "Choose your language\nВыберите язык бота\n\nItalian, German, Portuguese, Persian - in test mode. If you find mistakes - feel free to write @tgcreator"
