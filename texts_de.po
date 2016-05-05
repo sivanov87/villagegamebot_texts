@@ -225,4 +225,3 @@ msgstr "Du wurdest von %villagename% auf Level %level% ::-village-:: angegriffen
 #: smth
 msgid "tip_money"
 msgstr "Gold ::-moneybag-:: ist die Währung des Spiels. Du verdienst sie indem du ::-bread-:: verkaufst oder Quests 🚀 und Schlachten ⚔ gewinnst."
-...
