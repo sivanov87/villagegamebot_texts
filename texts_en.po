@@ -1,0 +1,232 @@
+﻿-
+msgid "chooselanguage"
+msgstr "Choose your language\nВыберите язык бота\n\nItalian, German, Portuguese, Persian - in test mode. If you find mistakes - feel free to write @tgcreator"
+-
+msgid "feedback"
+msgstr "Please, write your feedback about bot in the next message::-baloon-::\nAlso you can write to chat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+-
+msgid "botisstopped"
+msgstr "You unsubscribe. Now you will not receive notification of it. You can always sign up again by typing /start"
+-
+msgid "ratebot"
+msgstr "Please, rate this bot"
+-
+msgid "thanks"
+msgstr "Thank you!"
+-
+msgid "help"
+msgstr "You are playing the first strategy game of Telegram. You can grow crops::-bread-::, change them to gold::-moneybag-::, run quests🚀, fight with other players ⚔, and develop your village.\r\nEnjoy!\r\n\r\nSupport chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\n\r\nNews channel - @VillageGameEn\r\n\r\n/chooselanguage - choose language"
+-
+msgid "village_description"
+msgstr "Village %villagename% (Level %level%::-village-::, %level_percents%%)\n\nWorkers: %workers% ::-worker-::\nBread: %bread% / %max_bread% ::-bread-::\nGold: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\nMedals: %medals% ::-medal-::"
+-
+msgid "friend_added"
+msgstr "A friend was added. You received 1 ::-worker-:: and 5 ::-moneybag-::\nInvite friends /invite_friends"
+-
+msgid "working_yet"
+msgstr "You are currently working. Wait a short while. You can run quests /quests"
+-
+msgid "work_started"
+msgstr "You start to work and harvest 60::-bread-::! And now you can run /quests"
+-
+msgid "promocode_accept"
+msgstr "Promocode accepted. Gold -  %gold% "
+-
+msgid "promocode_reject"
+msgstr "Bad promocode."
+-
+msgid "work_finished"
+msgstr "Work is finished, my lord! Work - /work"
+-
+msgid "delimeter"
+msgstr "::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::"
+-
+msgid "tutorial_1"
+msgstr "You go through fields and see that the purse with 51 coins::-moneybag-:: lies on the road."
+-
+msgid "tutorial_2"
+msgstr "That's good fortune! Then, you see two peasants ::-worker-::::-worker-::. And there you have a brilliant idea - to hire them and to establish a settlement here."
+-
+msgid "tutorial_3"
+msgstr "Well, the peasants are employed. By the way, now is the time to sell your harvest of 2000 ::-bread-:: that you can earn 20 ::-moneybag-:: from."
+-
+msgid "tutorial_4"
+msgstr "Excellent! The harvest matures with time, so we recommend that you periodically go into the game and collect it.\nNow it's time to get the money for the secret information - it is necessary to find the secret codes and enter them in the game. To get started go to @VillageGameEn channel, copy the code from the message which says \\\"Secret code: <code>\\\" and send it to this bot."
+-
+msgid "tutorial_5"
+msgstr "Excellent! The harvest matures with time, so we recommend that you periodically go into the game and collect it.\nNow you need to develop the village. First, it would be good to take on new workers. One way to do this is to invite friends to the game by link %reflink%. Each one brings you one worker ::-worker-:: and 5 ::-moneybag-::. Or start /work"
+-
+msgid "tutorial_4_no"
+msgstr "You have entered an incorrect code. Unfortunately, we are unable to charge you money :(.\r\n\r\nIn the future, you can find the codes in the channels or from friends.\r\nNow you need to develop the village. First, it would be good to take on new workers. One way to do this is to invite friends to the game by link %reflink%. Each one brings you one worker ::-worker-:: and 5 ::-moneybag-::."
+-
+msgid "harvested"
+msgstr "You sold %bread_diff% ::-bread-:: for %gold_diff% ::-moneybag-::, great!"
+-
+msgid "tutorial_3_no"
+msgstr "It is necessary to gather the harvest, otherwise it will rot. :("
+-
+msgid "top_before"
+msgstr "Best players::-medal-::"
+-
+msgid "need_harvest"
+msgstr "Your fields are filled. It is necessary to gather the harvest, otherwise the bread will start to rot - /harvest"
+-
+msgid "not_harvested"
+msgstr "Harvest too little. Wait for until there are at least 100 ::-bread-:: or work - /work "
+-
+msgid "quest_1_description"
+msgstr "The caravan passes near your village. It asks you for protection. It needs %start_power% ::-sword-::. For its defense you get %gold% ::-moneybag-::."
+-
+msgid "quest_1_good"
+msgstr "Excellent! The caravan passed without any problems, and you enjoy your profits!"
+-
+msgid "quest_1_question"
+msgstr "The caravan was attacked and your guards barely keep it defended. Send the aid of %add_power% ::-sword-:: or they will die!"
+-
+msgid "quest_1_win"
+msgstr "Your troops protected the caravan and you got the gold."
+-
+msgid "quest_1_fail"
+msgstr "You did not send reinforcements, and the caravan along with defenders was destroyed...."
+-
+msgid "quest_2_description"
+msgstr "Bandits attacked a village. The mayor asked for help - to disperse the bandits you need to send an army of %start_power% ::-sword-::. Victory promises a handsome reward of %gold% ::-moneybag-::."
+-
+msgid "quest_2_good"
+msgstr "These bandits were cowards! They ran away, seeing your army. It was too easy, but the elders gave you the promised gold."
+-
+msgid "quest_2_question"
+msgstr "The bandits were some strong guys - they took your team to the ring. To win, you need to hire additional troops of %add_power% ::-sword-::."
+-
+msgid "quest_2_win"
+msgstr "Your squad came to the rescue, destroyed all the robbers, and you take a pile of gold!"
+-
+msgid "quest_2_fail"
+msgstr "Your squad has been destroyed..."
+-
+msgid "quests"
+msgstr "You can choose a quest, which performing will cost a fee.\r\nTo recruit 1 ::-sword-:: you spend 1 ::-moneybag-::."
+-
+msgid "quest_no_money"
+msgstr "You do not have enough money for this quest. Invite your friends(/invite_friends), look for promotional codes(@VillageGameEn), harvest your crops - you need money!"
+-
+msgid "battles"
+msgstr "You can fight against other players and win medals ::-medal-::. To do this, you need to find the enemy and attack him.\r\nFor every search you pay 1 ::-moneybag-:: regardless of the outcome."
+-
+msgid "battle_start"
+msgstr "Your opponent is %villagename%, level %level%. To attack, you need %start_power% ::-sword-::\r\nYou will be able to earn %gold_diff% ::-moneybag-:: and %medals_diff% ::-medal-::.\r\n1 ::-sword-:: costs 1 ::-moneybag-::."
+-
+msgid "battle_question"
+msgstr "During the battle, the enemy raised a militia, which surrounds our army. To save yourself you need to send reinforcements of %add_power%::-sword-::, otherwise your army will die!"
+-
+msgid "battle_win"
+msgstr "You won the battle and took %gold% ::-moneybag-:: and %medals% ::-medal-::."
+-
+msgid "battle_fail"
+msgstr "Our troops withdrew from the superior forces of the enemy  it is a terrible loss!"
+-
+msgid "battle_good"
+msgstr "Our troops, without any problems, invaded the village and looted %gold%::-moneybag-:: and got %medals%::-medal-::."
+-
+msgid "battle_no_money"
+msgstr "You cannot send an army, since you do not have enough money. :("
+-
+msgid "quest_3_description"
+msgstr "The inhabitant of a remote farm is tormented by wolves - they steal his cattle. He offered to pay %gold% ::-moneybag-:: for your help of %start_power% ::-sword-::."
+-
+msgid "quest_3_good"
+msgstr "Wolves run away at just the sight of you. You easily earn the money ::-moneybag-::."
+-
+msgid "quest_3_question"
+msgstr "our squad cannot cope, and if you do not send reinforcements of %add_power% ::-sword-::, you get nothing."
+-
+msgid "quest_3_fail"
+msgstr "You could not help the farmer ... sorry."
+-
+msgid "quest_3_win"
+msgstr "Reinforcements were able to overrun the wolves. The grateful resident paid you fully."
+-
+msgid "tip_bread"
+msgstr "Workers ::-worker-:: harvest ::-bread-:: for you, and you sell it for ::-moneybag-::."
+-
+msgid "tip_worker"
+msgstr "Workers ::-worker-:: grow ::-bread-::. Their number can be increased by inviting friends using /invite_friends"
+-
+msgid "tip_medal"
+msgstr "Medals ::-medal-:: measure your valor. You get them in battles⚔"
+-
+msgid "tip_level"
+msgstr "Village Level ::-village-:: - development indicators, it increases from earnings ::-moneybag-::, hired ::-worker-:: and earned ::-medal-::"
+-
+msgid "tip_battles"
+msgstr "Battles⚔ - battles with other players. Look for opponents and defeat them!"
+-
+msgid "tip_quests"
+msgstr "Quests🚀 - the opportunity to earn ::-moneybag-::."
+-
+msgid "tip_sword"
+msgstr "In the battles and quests you hire mercenaries ::-sword-::.\n1 ::-sword-:: costs 1 ::-moneybag-::"
+-
+msgid "tip_promocode"
+msgstr "You can get ::-moneybag-::s for promocodes. Look for them everywhere (for example, @VillageGameEn) and send them to the bot."
+-
+msgid "invite_friends"
+msgstr "Workers ::-worker-:: are the main resource of your village. They grow crops ::-bread-::, which you sell for gold coins ::-moneybag-::. You can get ::-worker-:: by inviting friends to the game.\nFor each friend who has followed the link %reflink%, you will get 1 worker ::-worker-::.\nYou can either write or forward them the previous message 🔝."
+-
+msgid "template_share"
+msgstr "Help me - go to link %reflink%, for which I'll get worker ::-worker-:: and gold ::-moneybag-:: in Telegram's first strategy game.\nBy the way, join us - it's an interesting game ::-baloon-::."
+-
+msgid "defense_win"
+msgstr "You were attacked by %villagename% of level %level% ::-village-::. He spent %power% ::-sword-:: but did not succeed.\nVictory is yours!"
+-
+msgid "defense_fail"
+msgstr "You were attacked by %villagename% of level %level% ::-village-::. He spent %power% ::-sword-:: and was able to defeat you, stealing %gold% ::-moneybag-::.\r\n"
+-
+msgid "tip_money"
+msgstr "Gold ::-moneybag-:: is the main currency of the game. You can get it by growing and selling ::-bread-:: and by performing and winning quests🚀 and battles⚔"
+-
+msgid "tip_chat"
+msgstr "Welcome to support chat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+-
+msgid "top_24_before"
+msgstr "Best players last 24 hour::-medal-::"
+-
+msgid "top_level"
+msgstr "Best players lvl %level%::-medal-::"
+-
+msgid "no_money"
+msgstr "Unfortunately, you have no money::-moneybag-::...\nTo receive them - wait bread ::-bread-:: won't ripen yet::"
+-
+msgid "no_revenge"
+msgstr "Impossible to revenge."
+-
+msgid "friend_inactive"
+msgstr "Your friend %villagename% %user_name% doesn't play for a long time and the worker who has come for him, has escaped from you.\r\nAsk the friend to return to game, and the worker will return!"
+-
+msgid "friend_return"
+msgstr "Your friend of %villagename% %user_name% has returned to game, and the worker has returned too!"
+-
+msgid "war_quest"
+msgstr "Previous code: AWARQUEST2DONEURAYA\n\nEnemies have brought together huge army and have put forward to your borders. The quicker you will be able to collect a militia, the more simply you will overcome the enemy.\nFor a victory it is necessary to gather 100 000::-sword-:: and not less than 1000 participants::-village-:: have to take part in fight. \nFor a victory the promo code on 110::-moneybag-::will be given - enter fight!\n1::-sword-:: = 1::-moneybag-::\n\nArmy: %swords%::-sword-:: (%swords_percents%%)\nYour troops: %your_swords%::-sword-:: (%your_swords_percents%%)\nParticipants: %villages%::-village-::(%villages_percents%%)"
+-
+msgid "swords_added"
+msgstr "Your reinforsment %swords%::-sword-:: is sent!"
+-
+msgid "shop"
+msgstr "In shop you can get useful things:)\nNow purchase of the 50 ::-moneybag-:: is available for 5 diamonds ::-diamond-::"
+-
+msgid "gold_is_bought"
+msgstr "You have bought 50::-moneybag-:: for 5::-diamond-::"
+-
+msgid "no_diamonds"
+msgstr "You don't have enough diamond ::-diamonds-:: for purchase commission :(\n"
+-
+msgid "it"
+msgstr "Italian"
+-
+msgid "pt"
+msgstr "Portuguese"
+-
+msgid "ge"
+msgstr "German"
+...
