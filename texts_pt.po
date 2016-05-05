@@ -1,4 +1,3 @@
-
 #: smth
 msgid "feedback"
 msgstr "Por favor, dê seu feedback sobre o bot na próxima mensagem.::-baloon-::\nAh! Você também pode entrar no chat sobre o jogo aqui: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
@@ -234,4 +233,3 @@ msgstr "Você foi atacado por %villagename% de nível %level% ::-village-::. Ele
 #: smth
 msgid "tip_money"
 msgstr "Ouro ::-moneybag-:: é a moeda principal do jogo. Você pode conseguir ouro produzindo e vendendo ::-bread-:: e vencer missões 🚀 e batalhas ⚔."
-...
