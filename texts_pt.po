@@ -1,0 +1,237 @@
+
+#: smth
+msgid "feedback"
+msgstr "Por favor, dê seu feedback sobre o bot na próxima mensagem.::-baloon-::\nAh! Você também pode entrar no chat sobre o jogo aqui: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+
+#: smth
+msgid "botisstopped"
+msgstr "Você cancelou sua inscrição, agora não receberá mais mensagens do bot. Mas você sempre pode voltar, basta enviar /start."
+
+#: smth
+msgid "ratebot"
+msgstr "Por favor, que tal avaliar esse bot? C:"
+
+#: smth
+msgid "thanks"
+msgstr "Obrigada!"
+
+#: smth
+msgid "help"
+msgstr "Você está jogando o primeiro jogo de estratégia do Telegram. Você pode plantar trigo para fazer pães ::-bread-::, trocá-los por ouro ::-moneybag-::, participar de quests 🚀, lutar com outros jogadores ⚔, e desenvolver sua vila.\nDivirta-se!\n\nChat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\nChannel: @VillageGameEn\n\n/chooselanguage: choose language/выберите язык бота/escolha idioma"
+
+#: smth
+msgid "friend_added"
+msgstr "Um amigo foi adicionado. Você recebeu 1 ::-worker-:: e 5 ::-moneybag-::"
+
+#: smth
+msgid "working_yet"
+msgstr "Você já está trabalhando. Espere um momento."
+
+#: smth
+msgid "work_started"
+msgstr "Você começou a trabalhar e colheu 20 ::-bread-::!"
+
+#: smth
+msgid "promocode_accept"
+msgstr "Promocode aceito. Ouro: %gold%"
+
+#: smth
+msgid "promocode_reject"
+msgstr "Promocode ruim. :/"
+
+#: smth
+msgid "work_finished"
+msgstr "Trabalho terminado, meu senhor!"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Você está passeando no campo e vê uma bolsa jogada na estrada contendo 11 moedas ::-moneybag-::."
+
+#: smth
+msgid "tutorial_2"
+msgstr "Que sorte! Então você vê dois camponeses ::-worker-::::-worker-::. E aí você tem uma brilhante ideia — contratá-los e fundar um assentamento aqui."
+
+#: smth
+msgid "tutorial_3"
+msgstr "Bom, os camponeses estão contratados. A propósito, agora é hora de vender sua colheita de 2000 ::-bread-:: e você ganha 20 ::-moneybag-:: ."
+
+#: smth
+msgid "tutorial_4"
+msgstr " e envie para esse bot."
+
+#: smth
+msgid "tutorial_5"
+msgstr "Você enviou um código e ganhou dinheiro. No futuro, você pode achar códigos no canal.\nAgora você precisa desenvolver sua vila. Primeiro, seria bom contratar novos trabalhadores. Um modo de fazer isso é convidando amigos para o jogo usando o link %reflink%. Cada amigo traz um novo trabalhador ::-worker-:: e 5 ::-moneybag-::."
+
+#: smth
+msgid "tutorial_4_no"
+msgstr "Você enviou um código incorreto. Infelizmente não podemos te entregar dinheiro :C.\n\nNo futuro, você pode conseguir códigos no canal ou com amigos.\nAgora você precisa desenvolver sua vila. Primeiro, seria bom contratar novos trabalhadores. Um modo de fazer isso é convidando amigos para o jogo usando o link %reflink%. Cada amigo traz um novo trabalhador ::-worker-:: e 3 ::-moneybag-::."
+
+#: smth
+msgid "harvested"
+msgstr "Você vendeu %bread_diff% ::-bread-:: por %gold_diff% ::-moneybag-::, que ótimo!"
+
+#: smth
+msgid "tutorial_3_no"
+msgstr "Você precisa fazer a colheita, ou vai apodrecer. :C"
+
+#: smth
+msgid "top_before"
+msgstr "Melhores jogadores ::-medal-::"
+
+#: smth
+msgid "need_harvest"
+msgstr "Seu campo está cheio. Você precisa fazer a colheita, ou seu pão vai começar a apodrecer."
+
+#: smth
+msgid "not_harvested"
+msgstr "A produção ainda está pouca. Espere até ter 100 ::-bread-::."
+
+#: smth
+msgid "quest_1_description"
+msgstr "Uma caravana passa perto de sua vila. Ela pede sua proteção. É necessário %start_power% ::-sword-::. Pela sua defesa, você ganha %gold% ::-moneybag-::."
+
+#: smth
+msgid "quest_1_good"
+msgstr "Excelente! A caravana passou sem problemas, aproveite seu lucro!"
+
+#: smth
+msgid "quest_1_question"
+msgstr "A caravana foi atacada e seus guardas mal conseguem defendê-la. Mande a ajuda de  %add_power% ::-sword-:: ou eles morrerão!"
+
+#: smth
+msgid "quest_1_win"
+msgstr "Sua tropa protegeu a caravana e você conseguiu o ouro."
+
+#: smth
+msgid "quest_1_fail"
+msgstr "Você não enviou reforços, a caravana e os defensores foram destruidos...."
+
+#: smth
+msgid "quest_2_description"
+msgstr "Bandidos atacaram a vila. O prefeito pediu ajuda — para debandar os bandidos, você precisa enviar uma frota de  %start_power% ::-sword-::. Uma vitória promete uma bela quantia de  %gold% ::-moneybag-::."
+
+#: smth
+msgid "quest_2_good"
+msgstr "Esses bandidos eram covardes! Fugiram ao ver sua tropa. Foi fácil, mas você ganhou o ouro prometido."
+
+#: smth
+msgid "quest_2_question"
+msgstr "Os bandidos eram uns caras fortes — eles enfrentaram seu time. Para ganhar, você precisa contratar uma tropa adicional de  %add_power% ::-sword-::."
+
+#: smth
+msgid "quest_2_win"
+msgstr "Sua tropa veio para o resgate, destruiu todos os assaltantes, e você ganha uma pilha de ouro!"
+
+#: smth
+msgid "quest_2_fail"
+msgstr "Sua tropa foi destruída...."
+
+#: smth
+msgid "quests"
+msgstr "Você pode escolher uma missão, que vai custar uma taxa para realizar.\r\nPara recrutar 1 ::-sword-:: você gasta 1 ::-moneybag-::."
+
+#: smth
+msgid "quest_no_money"
+msgstr "Você não tem dinheiro suficiente para essa missão. Convide seus amigos, procure códigos promocionais, faça a colheita — você precisa de dinheiro!"
+
+#: smth
+msgid "battles"
+msgstr "Você pode lutar contra outros jogadores e ganhar medalhas ::-medal-::. Para fazer isso, você precisa achar o inimigo e atacá-lo.\r\nPara cara procura você paga 1 ::-moneybag-:: independente do resultado."
+
+#: smth
+msgid "battle_start"
+msgstr "Seu inimigo é %villagename%, nível %level%. Para atacar, você precisa de %start_power% ::-sword-::\r\nVocê poderá ganhar %gold_diff% ::-moneybag-:: e %medals_diff% ::-medal-::.\r\n1 ::-sword-:: custa 1 ::-moneybag-::."
+
+#: smth
+msgid "battle_question"
+msgstr "Durante a batalha, o inimigo levantou uma milícia, que rodeou nossos soldados. Para nos salvar, você precisa enviar reforços de %add_power% ::-sword-::, ou você e seus homens morrerão!"
+
+#: smth
+msgid "battle_win"
+msgstr "Você venceu a batalha e ganhou %gold% ::-moneybag-:: e %medals% ::-medal-::."
+
+#: smth
+msgid "battle_fail"
+msgstr "Nossas tropas se retiraram devido a força superior do inimigo — é uma perda horrível!"
+
+#: smth
+msgid "battle_good"
+msgstr "Nossas tropas, sem problemas, invadiu a vila e pilhou %gold% ::-moneybag-:: e conseguiu %medals% ::-medal-::."
+
+#: smth
+msgid "battle_no_money"
+msgstr "Você não pode enviar uma frota, já que você não tem dinheiro suficiente. :C"
+
+#: smth
+msgid "quest_3_description"
+msgstr "O morador de uma fazenda distante está sendo atormentado por lobos — eles roubam de seu castelo. Ele ofereceu o pagamento de %gold% ::-moneybag-:: por sua ajuda de %start_power% ::-sword-::."
+
+#: smth
+msgid "quest_3_good"
+msgstr "Lobos fogem só por ver você. Você ganhou o dinheiro facilmente ::-moneybag-::."
+
+#: smth
+msgid "quest_3_question"
+msgstr "Seu time não foi suficiente, e se você não enviar reforços de %add_power% ::-sword-::, você não ganha nada."
+
+#: smth
+msgid "quest_3_fail"
+msgstr "Você não foi capaz de ajudar o fazendeiro... desculpa."
+
+#: smth
+msgid "quest_3_win"
+msgstr "Os reforços foram capazes de derrotar os loboss. O morador agradecido te pagou bem."
+
+#: smth
+msgid "tip_bread"
+msgstr "Trabalhadores ::-worker-:: colheita ::-bread-:: para você, e você pode vender por ::-moneybag-::."
+
+#: smth
+msgid "tip_worker"
+msgstr "Trabalhadores ::-worker-:: produzem ::-bread-::. A quantidade de trabalhadores pode ser aumentada convidando amigos usando /invite_friends."
+
+#: smth
+msgid "tip_medal"
+msgstr "Medalhas ::-medal-:: Medem seu valor. Você as ganha em batalhas ⚔."
+
+#: smth
+msgid "tip_level"
+msgstr "Nível da vila ::-village-:: - indicador de desenvolmimento, isso aumenta ganhando ::-moneybag-::, contratando ::-worker-:: e ganhando ::-medal-::"
+
+#: smth
+msgid "tip_battles"
+msgstr "Batalhas⚔ - batalhas com outros jogadores. Procure oponentes e derrote-os!"
+
+#: smth
+msgid "tip_quests"
+msgstr "Missões🚀 - a oportunidade de ganhar ::-moneybag-::."
+
+#: smth
+msgid "tip_sword"
+msgstr "Nas batalhas e missões você contrata mercenários: ::-sword-::.\r\n1 ::-sword-:: custa 1 ::-moneybag-::."
+
+#: smth
+msgid "tip_promocode"
+msgstr "Você pode conseguir ::-moneybag-::s com promocodes. Procure por eles em todo lugar e envie-os para o bot."
+
+#: smth
+msgid "invite_friends"
+msgstr "Trabalhadores ::-worker-:: são o principal recurso da sua vila. Eles fazem a produção e colheita de ::-bread-::, que você vende por moedas de ouro ::-moneybag-::. Você pode conseguir ::-worker-:: convidando amigos para o jogo.\nPor cada amigo que entrar no link %reflink%, você ganha 1 trabalhador ::-worker-::.\nVocê pode tanto escrever o link ou reencaminhar a mensagem anterior 🔝."
+
+#: smth
+msgid "template_share"
+msgstr "Ajude-me — vá no link %reflink%, e assim eu ganharei trabalhadores::-worker-:: e ouro ::-moneybag-:: no primeiro jogo de estratégia do Telegram.\nA propósito, junte-se a nós — é um ótimo jogo ::-baloon-::."
+
+#: smth
+msgid "defense_win"
+msgstr "Você foi atacado por %villagename% de nível %level% ::-village-::. Ele gastou %power% ::-sword-:: mas não obteve sucesso.\r\n A vitória é sua!"
+
+#: smth
+msgid "defense_fail"
+msgstr "Você foi atacado por %villagename% de nível %level% ::-village-::. Ele gastou %power% ::-sword-:: e foi capaz de te derrotar, roubando %gold% ::-moneybag-::."
+
+#: smth
+msgid "tip_money"
+msgstr "Ouro ::-moneybag-:: é a moeda principal do jogo. Você pode conseguir ouro produzindo e vendendo ::-bread-:: e vencer missões 🚀 e batalhas ⚔."
+...
