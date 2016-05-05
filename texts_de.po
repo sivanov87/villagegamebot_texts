@@ -1,4 +1,3 @@
-﻿
 #: smth
 msgid "thanks"
 msgstr "Dankeschön!"
