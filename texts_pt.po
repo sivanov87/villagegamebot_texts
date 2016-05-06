@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-05-06 04:56+0000\n"
-"Last-Translator: guest <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-06 13:56+0000\n"
+"Last-Translator: Mércurie Janeai <mercurie_janeai@hotmail.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
 "Language: pt\n"
@@ -283,8 +283,8 @@ msgstr ""
 #: smth
 msgid "tip_money"
 msgstr ""
-"Ouro ::-moneybag-:: é a moeda principal do jogo. Você pode conseguir ouro "
-"produzindo e vendendo ::-bread-:: e fazendo e vencendo em missões"
+"Ouro ::-moneybag-:: é a moeda principal do jogo. Você pode conseguí-la "
+"produzindo e vendendo ::-bread-:: e fazendo e vencendo missões"
 
 #: smth
 #, fuzzy
@@ -342,3 +342,59 @@ msgstr ""
 #: smth
 msgid "swords_added"
 msgstr "Seus reforços de %swords%::-sword-:: foram enviados!"
+
+#: smth
+msgid "chooselanguage"
+msgstr ""
+"Escolha o idioma\n"
+"\n"
+"Italiano, Alemão, Português, Persa - em modo de testes. Se você encontrar "
+"algum erro - sinta-se livre para \n"
+"me escrever @tgcreator"
+
+#: smth
+msgid "shop"
+msgstr ""
+"Na loja você pode conseguir coisas úteis:)\n"
+"Agora compra de 50 ::-moneybag-:: esta disponível por 5 diamantes "
+"::-diamond-::"
+
+#: smth
+msgid "gold_is_bought"
+msgstr "Você comprou 50::-moneybag-:: por 5::-diamond-::"
+
+#: smth
+msgid "no_diamonds"
+msgstr ""
+"Você não tem diamantes ::-diamonds-:: suficientes para comprar comissão :(\n"
+
+#: smth
+msgid "it"
+msgstr "Italiano"
+
+#: smth
+msgid "pt"
+msgstr "Português"
+
+#: smth
+msgid "ge"
+msgstr "Alemão"
+
+#: smth
+msgid "war_quest"
+msgstr ""
+"Código anterior: AWARQUEST2DONEURAYA\n"
+"\n"
+"Inimigos trouxeram juntos um enorme exército e puseram na frente da sua "
+"fronteira. Quanto mais rápido vocês juntarem uma milícia, mais fácil vocês "
+"irão superar o inimigo.\n"
+"Para uma vitória é necessário reunir\n"
+"100 000::-sword-:: e não menos que 1000 participantes::-village-:: tem que "
+"participar da luta. \n"
+"Para uma vitória um código promocional de 110::-moneybag-::será dado  - enre "
+"na luta!\n"
+"1::-sword-:: = 1::-moneybag-::\n"
+"\n"
+"Exército: %swords%::-sword-:: (%swords_percents%%)\n"
+"Suas tropas: %your_swords%::-sword-:: (%your_swords_percents%%)\n"
+"Participantes: %villages%::-village-::(%villages_percents%%)"
