@@ -1,14 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-06 11:38+0000\n"
+"PO-Revision-Date: 2016-05-06 11:42+0000\n"
+"Last-Translator: David Lüder <david@example.com>\n"
+"Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/texts/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
 #: smth
 msgid "thanks"
-msgstr "Dankeschön!"
+msgstr "Danke!"
 
 #: smth
 msgid "help"
-msgstr "Du spielst das erste strategische Spiel auf Telegram. Bau Getreide an ::-bread-::, tausche es gegen Gold ::-moneybag-::, erfülle Quests 🚀, kämpfe gegen andere Spieler ⚔ und level dein Dorf.\r\nViel Spaß!\r\nChat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\nChannel: @VillageGameEn\r\n\r\n/chooselanguage - choose language"
+msgstr ""
+"Dies ist das erste strategische Spiel in Telegram. Baue Getreide an "
+"::-bread-::, tausche es gegen Gold ::-moneybag-:: und erfülle Quests"
 
 #: smth
 msgid "village_description"
-msgstr "%villagename%'s Dorf: (Level %level%::-village-::, %level_percents%%)\r\n\r\nArbeiter: %workers% ::-worker-::\r\nBrot: %bread% / %max_bread% ::-bread-::\r\nGold: %gold% ::-moneybag-:: %diamonds%::-diamond-::\r\nMedailen: %medals% ::-medal-::"
+msgstr ""
+"%villagename%'s Dorf: (Level %level%::-village-::, %level_percents%%)\n"
+"\n"
+"Arbeiter: %workers% ::-worker-::\n"
+"Brot: %bread% / %max_bread% ::-bread-::\n"
+"Gold: %gold% ::-moneybag-:: %diamonds%::-diamond-::\n"
+"Medallien: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
@@ -225,3 +249,22 @@ msgstr "Du wurdest von %villagename% auf Level %level% ::-village-:: angegriffen
 #: smth
 msgid "tip_money"
 msgstr "Gold ::-moneybag-:: ist die Währung des Spiels. Du verdienst sie indem du ::-bread-:: verkaufst oder Quests 🚀 und Schlachten ⚔ gewinnst."
+
+#: smth
+msgid "feedback"
+msgstr ""
+"Bitte schreibe dein Feedback zu dem Bot in die nächste Nachricht ::-baloon-:;"
+"\n"
+"Außerdem kannst du unserem Chat beitreten: "
+"https://telegram.me/joinchat/B31JfT7fWt7AfsIhuMGoZg"
+
+#: smth
+msgid "botisstopped"
+msgstr ""
+"Du hast den Bot beendet. Nun wirst du keine weiteren Benachrichtigungen "
+"erhalten.\n"
+"Der Bot kann jederzeit mit \"/start\" aktiviert werden."
+
+#: smth
+msgid "ratebot"
+msgstr "Bitte bewerte den Bot!"
