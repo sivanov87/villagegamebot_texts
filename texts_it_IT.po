@@ -1,3 +1,17 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-06 08:53+0000\n"
+"Last-Translator: Pietro De Luca <Pietro@tsic.it>\n"
+"Language-Team: Italian <http://translate.villagegamebot.tgroups.me/projects/v"
+"illagegamebot/texts/it/>\n"
+"Language: it_IT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+"Benvenuto nel primo gioco strategico mai creato prima su Telegram. Coltiva: "
+":-bread-::, convertilo in oro ::-moneybag-::, completa le missioni\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 #: smth
 msgid "thanks"
 msgstr "Grazie!"
@@ -221,3 +235,10 @@ msgstr "Siamo stati attaccati %villagename% livello %level% ::-village-::. Ha ut
 #: smth
 msgid "tip_money"
 msgstr "Oro ::-moneybag-:: - la moneta del gioco. Puoi incrementare il loro numero coltivando ::-bread-::, completando le missioni🚀 e combattendo⚔"
+
+#: smth
+msgid "feedback"
+msgstr ""
+"Perfavore, scrivi la taua recensione nel prossimo messaggio::-baloon-::\n"
+"Also you can write to chat - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
