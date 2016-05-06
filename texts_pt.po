@@ -1,14 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-06 00:03+0000\n"
+"PO-Revision-Date: 2016-05-06 04:56+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
+"s/villagegamebot/texts/pt/>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
 #: smth
 msgid "feedback"
 msgstr "Por favor, dê seu feedback sobre o bot na próxima mensagem.::-baloon-::\nAh! Você também pode entrar no chat sobre o jogo aqui: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
-msgstr "Você cancelou sua inscrição, agora não receberá mais mensagens do bot. Mas você sempre pode voltar, basta enviar /start."
+msgstr ""
+"Você cancelou sua inscrição, agora não receberá mais mensagens do bot. Mas "
+"você sempre pode voltar, basta enviar /start"
 
 #: smth
 msgid "ratebot"
-msgstr "Por favor, que tal avaliar esse bot? C:"
+msgstr "Por favor, avalie o bot"
 
 #: smth
 msgid "thanks"
@@ -20,31 +38,38 @@ msgstr "Você está jogando o primeiro jogo de estratégia do Telegram. Você po
 
 #: smth
 msgid "friend_added"
-msgstr "Um amigo foi adicionado. Você recebeu 1 ::-worker-:: e 5 ::-moneybag-::"
+msgstr ""
+"Um amigo foi adicionado. Você recebeu 1 ::-worker-:: e 5 ::-moneybag-::\n"
+"Convide amigos /invite_friends"
 
 #: smth
 msgid "working_yet"
-msgstr "Você já está trabalhando. Espere um momento."
+msgstr ""
+"Você já está trabalhando. Espere um momento. Você pode fazer missões /quests"
 
 #: smth
 msgid "work_started"
-msgstr "Você começou a trabalhar e colheu 20 ::-bread-::!"
+msgstr ""
+"Você começou a trabalhar e colheu 20 ::-bread-::! Agora você pode fazer "
+"missões /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr "Promocode aceito. Ouro: %gold%"
+msgstr "Promocode aceito. Ouro: %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr "Promocode ruim. :/"
+msgstr "Promocode rejeitado."
 
 #: smth
 msgid "work_finished"
-msgstr "Trabalho terminado, meu senhor!"
+msgstr "Trabalho terminado, meu senhor! Trabalhar - /work"
 
 #: smth
 msgid "tutorial_1"
-msgstr "Você está passeando no campo e vê uma bolsa jogada na estrada contendo 11 moedas ::-moneybag-::."
+msgstr ""
+"Você está passeando no campo e vê uma bolsa jogada na estrada contendo 51 "
+"moedas ::-moneybag-::."
 
 #: smth
 msgid "tutorial_2"
@@ -52,15 +77,29 @@ msgstr "Que sorte! Então você vê dois camponeses ::-worker-::::-worker-::. E 
 
 #: smth
 msgid "tutorial_3"
-msgstr "Bom, os camponeses estão contratados. A propósito, agora é hora de vender sua colheita de 2000 ::-bread-:: e você ganha 20 ::-moneybag-:: ."
+msgstr ""
+"Bom, os camponeses foram contratados. A propósito, agora é hora de vender "
+"sua colheita de 2000 ::-bread-:: e você ganha 20 ::-moneybag-:: ."
 
 #: smth
 msgid "tutorial_4"
-msgstr " e envie para esse bot."
+msgstr ""
+"Excelente! A colheita amadurece com o tempo, por isso recomendamos que você "
+"periodicamente venha ao jogo para recolhê-la.\n"
+"Agora é hora de conseguir o dinheiro para as informações secretas - é "
+"necessário encontrar os códigos secretos e inseri-los no jogo. Para começar, "
+"vá ao canal @VillageGameEn, copie o código da mensagem que diz \\\"Código "
+"secreto: <code>\\\" e o envie para este bot."
 
 #: smth
 msgid "tutorial_5"
-msgstr "Você enviou um código e ganhou dinheiro. No futuro, você pode achar códigos no canal.\nAgora você precisa desenvolver sua vila. Primeiro, seria bom contratar novos trabalhadores. Um modo de fazer isso é convidando amigos para o jogo usando o link %reflink%. Cada amigo traz um novo trabalhador ::-worker-:: e 5 ::-moneybag-::."
+msgstr ""
+"Excelente! A colheita amadurece com o tempo, por isso recomendamos que você "
+"periodicamente venha ao jogo para recolhê-la.\n"
+"Agora você precisa desenvolver sua vila. Primeiro, seria bom contratar novos "
+"trabalhadores. Um modo de fazer isso é convidando amigos para o jogo usando "
+"o link %reflink%. Cada amigo traz um novo trabalhador ::-worker-:: e 5 "
+"::-moneybag-::. Ou comece a trabalhar /work"
 
 #: smth
 msgid "tutorial_4_no"
@@ -80,11 +119,15 @@ msgstr "Melhores jogadores ::-medal-::"
 
 #: smth
 msgid "need_harvest"
-msgstr "Seu campo está cheio. Você precisa fazer a colheita, ou seu pão vai começar a apodrecer."
+msgstr ""
+"Seu campo está cheio. Você precisa fazer a colheita, ou seu pão vai começar "
+"a apodrecer - /harvest"
 
 #: smth
 msgid "not_harvested"
-msgstr "A produção ainda está pouca. Espere até ter 100 ::-bread-::."
+msgstr ""
+"A produção ainda está pouca. Espere até ter 100 ::-bread-:: ou trabalhe - /"
+"work "
 
 #: smth
 msgid "quest_1_description"
@@ -188,11 +231,13 @@ msgstr "Trabalhadores ::-worker-:: colheita ::-bread-:: para você, e você pode
 
 #: smth
 msgid "tip_worker"
-msgstr "Trabalhadores ::-worker-:: produzem ::-bread-::. A quantidade de trabalhadores pode ser aumentada convidando amigos usando /invite_friends."
+msgstr ""
+"Trabalhadores ::-worker-:: produzem ::-bread-::. A quantidade de "
+"trabalhadores pode ser aumentada convidando amigos usando /invite_friends"
 
 #: smth
 msgid "tip_medal"
-msgstr "Medalhas ::-medal-:: Medem seu valor. Você as ganha em batalhas ⚔."
+msgstr "Medalhas ::-medal-:: medem seu valor. Você as ganha em batalhas⚔"
 
 #: smth
 msgid "tip_level"
@@ -208,7 +253,9 @@ msgstr "Missões🚀 - a oportunidade de ganhar ::-moneybag-::."
 
 #: smth
 msgid "tip_sword"
-msgstr "Nas batalhas e missões você contrata mercenários: ::-sword-::.\r\n1 ::-sword-:: custa 1 ::-moneybag-::."
+msgstr ""
+"Nas batalhas e missões você contrata mercenários: ::-sword-::.\n"
+"1 ::-sword-:: custa 1 ::-moneybag-::"
 
 #: smth
 msgid "tip_promocode"
@@ -228,8 +275,70 @@ msgstr "Você foi atacado por %villagename% de nível %level% ::-village-::. Ele
 
 #: smth
 msgid "defense_fail"
-msgstr "Você foi atacado por %villagename% de nível %level% ::-village-::. Ele gastou %power% ::-sword-:: e foi capaz de te derrotar, roubando %gold% ::-moneybag-::."
+msgstr ""
+"Você foi atacado por %villagename% de nível %level% ::-village-::. Ele "
+"gastou %power% ::-sword-:: e foi capaz de te derrotar, roubando %gold% "
+"::-moneybag-::.\n"
 
 #: smth
 msgid "tip_money"
-msgstr "Ouro ::-moneybag-:: é a moeda principal do jogo. Você pode conseguir ouro produzindo e vendendo ::-bread-:: e vencer missões 🚀 e batalhas ⚔."
+msgstr ""
+"Ouro ::-moneybag-:: é a moeda principal do jogo. Você pode conseguir ouro "
+"produzindo e vendendo ::-bread-:: e fazendo e vencendo em missões"
+
+#: smth
+#, fuzzy
+msgid "delimeter"
+msgstr ""
+"::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::"
+
+#: smth
+msgid "village_description"
+msgstr ""
+"Vila %villagename% (Nível %level%::-village-::, %level_percents%%)\n"
+"\n"
+"Trabalhadores: %workers% ::-worker-::\n"
+"Pães: %bread% / %max_bread% ::-bread-::\n"
+"Ouro: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"Medalhas: %medals% ::-medal-::"
+
+#: smth
+msgid "tip_chat"
+msgstr ""
+"Bem vindo ao chat de suporte - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+
+#: smth
+msgid "top_24_before"
+msgstr "Melhores jogadores nas últimas 24 horas::-medal-::"
+
+#: smth
+msgid "top_level"
+msgstr "Melhores jogadores no nível %level%::-medal-::"
+
+#: smth
+msgid "no_money"
+msgstr ""
+"Infelizmente, você não tem dinheiro::-moneybag-::...\n"
+"Para receber - espere os pães ::-bread-:: ::"
+
+#: smth
+msgid "no_revenge"
+msgstr "Impossível se vingar."
+
+#: smth
+msgid "friend_inactive"
+msgstr ""
+"Seu amigo %villagename% %user_name% não joga há muito tempo e o trabalhador "
+"que veio com ele escapou de você.\n"
+"Peça para o seu amigo voltar ao jogo e o trabalhador retornará!"
+
+#: smth
+msgid "friend_return"
+msgstr ""
+"O seu amigo %villagename% %user_name% voltou ao jogo, e o trabalhador também "
+"voltou!"
+
+#: smth
+msgid "swords_added"
+msgstr "Seus reforços de %swords%::-sword-:: foram enviados!"
