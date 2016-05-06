@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 05:40+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-06 17:12+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
+"illagegamebot/texts/es/>\n"
 "Language: es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,307 +13,465 @@ msgstr ""
 #: smth
 msgid "chooselanguage"
 msgstr ""
+"Elige tu idioma\n"
+"\n"
+"Italiano, alemán, portugués, persa -en pruebas, si encuentras errores "
+"siéntete libre de escribir a @tgcreator-"
 
 #: smth
 msgid "feedback"
 msgstr ""
+"Por favor, escribe tus comentarios sobre el bot en el siguiente "
+"mensaje::-baloon-::\n"
+"También puedes escribir en el chat - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"Te das de baja. Ya no recibirás notificaciones de este bot. Siempre puedes "
+"volver a suscribirte escribiendo /start"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Por favor, valora este bot"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "¡Gracias!"
 
 #: smth
 msgid "help"
 msgstr ""
+"Estás jugando al primer juego de estrategia de Telegram. Puedes cultivar "
+"alimento::-bread-::, venderlos por oro::-moneybag-::, realizar cruzadas"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"Pueblo %villagename% (Nivel %level%::-village-::, %level_percents%%)\n"
+"\n"
+"Aldeanos: %workers% ::-worker-::\n"
+"Alimento: %bread% / %max_bread% ::-bread-::\n"
+"Oro: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"Medallas: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"Se añadió un amigo. Recibes 1 ::-worker-:: y 5 ::-moneybag-::\n"
+"Invita más amigos /invite_friends"
 
 #: smth
 msgid "working_yet"
 msgstr ""
+"Ya estás trabajando actualmente. Espera un poco. Mientras, puedes realizar "
+"cruzadas /quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"¡Comienzas a trabajar y cosechas 60::-bread-::! Y ahora puedes realizar "
+"/quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "Código promocional aceptado. Oro - %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "Código promocional erróneo."
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "¡Trabajo finalizado, mi señor! Trabajar - /work"
 
 #: smth
 msgid "delimeter"
 msgstr ""
+"::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::"
 
 #: smth
 msgid "tutorial_1"
 msgstr ""
+"Caminas por los campos y encuentras el saco con 51 monedas ::-moneybag-:: en "
+"medio del camino."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
+"¡Eso sí es buena suerte! En ese momento, ves dos campesinos  "
+"::-worker-::::-worker-::. Y te asalta una brillante idea - contratarles y "
+"establecer un campamento aquí."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"Bien, los campesions están empleados. Por cierto, es el momento de vender tu "
+"cosecha de 2000 ::-bread-:: y así ganar 20 ::-moneybag-::."
 
 #: smth
 msgid "tutorial_4"
 msgstr ""
+"¡Excelente! La cosecha madura con el tiempo, así que te recomiendo "
+"periódicamente entrar en el juego y recolectarla.\n"
+"Ahora es el momento de obtener dinero mediante información secreta - hay que "
+"encontrar los códigos secretos e introducirlos en el juego. Para empezar ve "
+"al canal @VillageGameEn, copia el código del mensaje que dice \\\"Secret "
+"code: <code>\\\" y envíalo a este bot."
 
 #: smth
 msgid "tutorial_5"
 msgstr ""
+"¡Excelente! La cosecha madura con el tiempo, así que te recomiendo "
+"periódicamente entrar en el juego y recolectarla.\n"
+"Ahora necesitas desarrollar el pueblo. Primero, estaría bien adquirir nuevos "
+"trabajadores. Un modo de hacerlo es invitar amigos al juego mediante el link "
+"%reflink%. Cada uno te dará un trabajador ::-worker-:: y 5 ::-moneybag-::. O "
+"comienza a trabajar /work"
 
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
+"Has introducido un código incorrecto. Desafortunadamente, no podemos darte "
+"dinero :(.\n"
+"\n"
+"En el futuro, puedes encontrar los códigos en los canales del juego o pueden "
+"dártelos tus amigos.\n"
+"Ahora necesitas desarrollar el pueblo. En primer lugar, estaría bien "
+"conseguir nuevos obreros. Una manera de hacerlo es invitar amigos al juego "
+"mediante el link %reflink%. Cada uno te dará un trabajador ::-worker-:: y 5 "
+"::-moneybag-::."
 
 #: smth
 msgid "harvested"
 msgstr ""
+"Vendiste %bread_diff% ::-bread-:: por %gold_diff% ::-moneybag-::, ¡bien!"
 
 #: smth
 msgid "tutorial_3_no"
-msgstr ""
+msgstr "Es necesario recolectar la cosecha, si no se pudrirá. :("
 
 #: smth
 msgid "top_before"
-msgstr ""
+msgstr "Mejores jugadores ::-medal-::"
 
 #: smth
 msgid "need_harvest"
 msgstr ""
+"Tus campos están completos. Es necesario recolectar la cosecha, o el "
+"alimento comenzará a pudrirse - /harvest"
 
 #: smth
 msgid "not_harvested"
 msgstr ""
+"Cosecha demasiado escasa. Espera hasta tener al menos 100 ::-bread-:: o "
+"trabaja - /work "
 
 #: smth
 msgid "quest_1_description"
 msgstr ""
+"La caravana pasa cerca de tu pueblo. Solicita tu protección. Necesita "
+"%start_power% ::-sword-::. Por su defensa obtendrás %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_1_good"
 msgstr ""
+"¡Excelente! ¡La caravana pasó sin problemas, y tú disfrutas de tus "
+"beneficios!"
 
 #: smth
 msgid "quest_1_question"
 msgstr ""
+"La caravana fue atacada y tus guardias apenas pueden defenderla. ¡Envía la "
+"ayuda de %add_power% ::-sword-:: o morirán!"
 
 #: smth
 msgid "quest_1_win"
-msgstr ""
+msgstr "Tus tropas protegieron la caravana y obtuviste el oro."
 
 #: smth
 msgid "quest_1_fail"
 msgstr ""
+"No enviaste refuerzos, y la caravana y sus defensores fueron aniquilados..."
 
 #: smth
 msgid "quest_2_description"
 msgstr ""
+"Los bandidos atacaron un pueblo. Su alcalde solicita ayuda - para dispersar "
+"los bandidos necesitas enviar un ejército de %start_power% ::-sword-::. La "
+"victoria promete una grata recompensa de %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_2_good"
 msgstr ""
+"¡Menudos bandidos cobardes! Huyeron al ver tu ejército. Demasiado sencillo, "
+"pero los ancianos igualmente te dieron el oro prometido."
 
 #: smth
 msgid "quest_2_question"
 msgstr ""
+"Los bandidos son unos tipos rudos - ponen a tu equipo en dificultades. Para "
+"ganar, necesitas contratar %add_power% ::-sword-:: tropas adicionales."
 
 #: smth
 msgid "quest_2_win"
 msgstr ""
+"Tu escuadrón acudió al rescate, machacó a todos los ladrones, ¡y tú obtienes "
+"una montaña de oro!"
 
 #: smth
 msgid "quest_2_fail"
-msgstr ""
+msgstr "Tu escuadrón ha sido destruido..."
 
 #: smth
 msgid "quests"
 msgstr ""
+"Puedes elegir una cruzada, que te costará una cantidad realizar.\n"
+"Para reclutar 1 ::-sword-:: gastarás 1 ::-moneybag-::."
 
 #: smth
 msgid "quest_no_money"
 msgstr ""
+"No tienes suficiente dinero para esta cruzada. Invita a tus amigos "
+"(/invite_friends), busca códigos promocionales (@VillageGameEn), recolecta "
+"tus plantaciones - ¡necesitas dinero!"
 
 #: smth
 msgid "battles"
 msgstr ""
+"Puedes luchar contra otros jugadores y ganar medallas ::-medal-::. Para "
+"ello, necesitas encontrar el enemigo y atacarle.\n"
+"En cada búsqueda invertirás 1 ::-moneybag-:: independientemente de lo que "
+"suceda después."
 
 #: smth
 msgid "battle_start"
 msgstr ""
+"Tu oponente es %villagename%, nivel %level%. Para atacar necesitas "
+"%start_power% ::-sword-::\n"
+"Podrás obtener %gold_diff% ::-moneybag-:: y %medals_diff% ::-medal-::.\n"
+"1 ::-sword-:: cuesta 1 ::-moneybag-::."
 
 #: smth
 msgid "battle_question"
 msgstr ""
+"Durante la batalla, el enemigo convocó una milicia que rodeó tu ejército. "
+"Para salvarte necesitas enviar refuerzos de %add_power% ::-sword-::, ¡de lo "
+"contrario tu ejército perecerá!"
 
 #: smth
 msgid "battle_win"
 msgstr ""
+"Ganaste la batalla y tomaste %gold% ::-moneybag-:: y %medals% ::-medal-::."
 
 #: smth
 msgid "battle_fail"
 msgstr ""
+"Tus tropas huyeron de las fuerzas superiores del enemigo... ¡qué terrible "
+"pérdida!"
 
 #: smth
 msgid "battle_good"
 msgstr ""
+"Tus tropas invadieron el pueblo y obtuvieron sin problemas %gold% "
+"::-moneybag-:: y %medals%::-medal-::."
 
 #: smth
 msgid "battle_no_money"
-msgstr ""
+msgstr "No puedes enviar un ejército, ya que no tienes dinero suficiente. :("
 
 #: smth
 msgid "quest_3_description"
 msgstr ""
+"El habitante de una granja remota está siendo acechado por lobos que diezman "
+"su ganado. Te ofrece %gold% ::-moneybag-:: para que le ayudes con "
+"%start_power% ::-sword-::."
 
 #: smth
 msgid "quest_3_good"
 msgstr ""
+"Los lobos huyen nada más verte. Fácilmente ganas el dinero ::-moneybag-::."
 
 #: smth
 msgid "quest_3_question"
 msgstr ""
+"Tu escuadrón no da la talla, y no envías los refuerzos de %add_power% "
+"::-sword-::. No obtienes nada."
 
 #: smth
 msgid "quest_3_fail"
-msgstr ""
+msgstr "No pudiste ayudar al granjero... lo siento."
 
 #: smth
 msgid "quest_3_win"
 msgstr ""
+"Los refuerzos pudieron espantar a los lobos. El agradecido granjero te paga "
+"lo acordado."
 
 #: smth
 msgid "tip_bread"
 msgstr ""
+"Los obreros ::-worker-:: cosechan ::-bread-:: para ti, y lo vendes por "
+"::-moneybag-::."
 
 #: smth
 msgid "tip_worker"
 msgstr ""
+"Los obreros ::-worker-:: recolectan ::-bread-::. Puedes incrementar su "
+"número invitando amigos mediante /invite_friends"
 
 #: smth
 msgid "tip_medal"
 msgstr ""
+"Las medallas ::-medal-:: Miden tu coraje. Puedes obtenerlas en las batallas ⚔"
 
 #: smth
 msgid "tip_level"
 msgstr ""
+"Nivel del pueblo ::-village-:: - indicadores de desarrollo, aumentan "
+"mediante ganancias ::-moneybag-::, empleados ::-worker-:: y distinciones "
+"::-medal-::"
 
 #: smth
 msgid "tip_battles"
-msgstr ""
+msgstr "Battles ⚔ - Peleas con otros jugadores. ¡Busca oponentes y derrótalos!"
 
 #: smth
 msgid "tip_quests"
-msgstr ""
+msgstr "Cruzadas"
 
 #: smth
 msgid "tip_sword"
 msgstr ""
+"En las batallas y cruzadas contratas mercenarios ::-sword-::.\n"
+"1 ::-sword-:: cuesta 1 ::-moneybag-::"
 
 #: smth
 msgid "tip_promocode"
 msgstr ""
+"Puedes obtener ::-moneybag-::s mediante códigos promocionales. Búscalos en "
+"todas partes (por ejemplo, en @VillageGameEn) y envíaselos al bot."
 
 #: smth
 msgid "invite_friends"
 msgstr ""
+"Los aldeanos ::-worker-:: son el recurso principal de tu pueblo. Obtienen "
+"alimento ::-bread-::, que vendes por monedas de oro ::-moneybag-::. Puedes "
+"obtener ::-worker-:: invitando a tus amigos al juego.\n"
+"Por cada amigo que siga el link %reflink%, obtendrás 1 aldeano ::-worker-::."
+"\n"
+"Puedes reenviar o reescribir el mensaje anterior. "
 
 #: smth
 msgid "template_share"
 msgstr ""
+"Ayúdame - sigue el enlace %reflink%, por lo que obtendré un aldeano "
+"::-worker-:: y oro ::-moneybag-:: en el primer juego de estrategia de "
+"Telegram.\n"
+"Por cierto, únete a nosotros, es un juego interesante ::-baloon-::."
 
 #: smth
 msgid "defense_win"
 msgstr ""
+"Has sido atacado por %villagename% de nivel %level% ::-village-::. Gastó "
+"%power% ::-sword-:: pero no tuvo éxito.\n"
+"¡La victoria es tuya!"
 
 #: smth
 msgid "defense_fail"
 msgstr ""
+"Fuiste atacado por %villagename% de nivel %level% ::-village-::. Gastó "
+"%power% ::-sword-:: y te derrotó, robando %gold% ::-moneybag-::.\n"
 
 #: smth
 msgid "tip_money"
 msgstr ""
+"El oro ::-moneybag-:: es la moneda principal del juego. Puedes ganarlo "
+"vendiendo las cosechas ::-bread-:: y realizando y ganando cruzadas"
 
 #: smth
 msgid "tip_chat"
 msgstr ""
+"Bienvenido al chat de soporte - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "top_24_before"
-msgstr ""
+msgstr "Mejores jugadores en las últimas 24 horas ::-medal-::"
 
 #: smth
 msgid "top_level"
-msgstr ""
+msgstr "Mejores jugadores de nivel %level%::-medal-::"
 
 #: smth
 msgid "no_money"
 msgstr ""
+"Desafortunadamente, no tienes dinero ::-moneybag-::...\n"
+"Para conseguirlo, espera a que la cosecha ::-bread-:: madure."
 
 #: smth
 msgid "no_revenge"
-msgstr ""
+msgstr "La venganza es inviable."
 
 #: smth
 msgid "friend_inactive"
 msgstr ""
+"Tu amigo %villagename% %user_name% no juega desde hace mucho y el aldeano "
+"que vino de su parte ha escapado.\n"
+"¡Pide a tu amigo que vuelva al juego, y el aldeano regresará!"
 
 #: smth
 msgid "friend_return"
 msgstr ""
+"¡Tu amigo de %villagename% %user_name% ha regresado al juego, y también lo "
+"ha hecho el adeano!"
 
 #: smth
 msgid "war_quest"
 msgstr ""
+"Código anterior: AWARQUEST2DONEURAYA\n"
+"\n"
+"Los enemigos han reunido un gran ejército y está asentado en la frontera. "
+"Cuanto más rápido reúnas una milicia, con mayor facilidad superarás al "
+"enemigo.\n"
+"Para vencer es necesario reunir 100.000 ::-sword-:: y no menos de 1000 "
+"::-village-:: participantes tienen que tomar parte en la batalla.\n"
+"Por la victoria se obtendrá un código promocional de 110 ::-moneybag-:: - ¡"
+"entra en la lucha!\n"
+"1::-sword-:: = 1::-moneybag-::\n"
+"\n"
+"Ejército: %swords%::-sword-:: (%swords_percents%%)\n"
+"Tus tropas: %your_swords%::-sword-:: (%your_swords_percents%%)\n"
+"Participantes: %villages%::-village-::(%villages_percents%%)"
 
 #: smth
 msgid "swords_added"
-msgstr ""
+msgstr "¡Han sido enviados tus refuerzos de %swords% ::-sword-::!"
 
 #: smth
 msgid "shop"
 msgstr ""
+"En la tienda puedes conseguir cosas muy útiles :)\n"
+"Ahora mismo están disponibles 50 ::-moneybag-:: por 5 diamantes ::-diamond-::"
 
 #: smth
 msgid "gold_is_bought"
-msgstr ""
+msgstr "Has comprado 50 ::-moneybag-:: por 5 ::-diamond-::"
 
 #: smth
 msgid "no_diamonds"
 msgstr ""
+"No tienes diamantes suficientes ::-diamonds-:: para realizar la compra :/\n"
 
 #: smth
 msgid "it"
-msgstr ""
+msgstr "Italiano"
 
 #: smth
 msgid "pt"
-msgstr ""
+msgstr "Portugués"
 
 #: smth
 msgid "ge"
-msgstr ""
+msgstr "Alemán"
