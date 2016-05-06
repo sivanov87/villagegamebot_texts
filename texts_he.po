@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 15:10+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-06 17:50+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Hebrew <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/texts/he/>\n"
 "Language: he\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,35 +12,50 @@ msgstr ""
 
 #: smth
 msgid "chooselanguage"
-msgstr ""
+msgstr "בחר את השפה הרצויה שלך"
 
 #: smth
 msgid "feedback"
-msgstr ""
+msgstr "אנא כתוב את המשוב שלך לגבי הבוט בהודעה הבאה"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"ביקשת להפסיק להיות מנוי. מעתה לא תקבל התראות לגביו. תוכל להרשם מחדש בכל זמן "
+"בעתיד ע\"י כתיבת start/"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "אנא תן משוב לבוט זה"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "תודה לך!"
 
 #: smth
 msgid "help"
 msgstr ""
+"זהו משחק האסטרטגיה הראשון בטלגרם.\n"
+"תוכל לגדל גידולים::-bread-::, למכור אותם תמורת זהב ::-moneybag-:: ולצאת "
+"להרפתקאות"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"הכפר של %villagename% (רמה  %level_percents%%, %level%::-village-::)\n"
+"\n"
+"פועלים: %workers% ::-worker-::\n"
+"לחם: %bread% / %max_bread% ::-bread-::\n"
+"זהב: %gold% ::-moneybag-::\n"
+"%diamonds% ::-diamond-::\n"
+"מדליות: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"חבר חדש נוסף.\n"
+"קבילת 1  ::-worker-:: ו-5 ::-moneybag-::\n"
+"הזמן חברים נוספים - /invite_friends"
 
 #: smth
 msgid "working_yet"
@@ -51,15 +67,17 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "קוד סודי התקבל. בונוס זהב - %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "טעות בקוד סודי"
 
 #: smth
 msgid "work_finished"
 msgstr ""
+"סיימנו לעבוד, אדוני!\n"
+"לעבוד שוב -  /work"
 
 #: smth
 msgid "delimeter"
