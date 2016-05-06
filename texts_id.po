@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-06 05:40+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: id\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
+#: smth
+msgid "chooselanguage"
+msgstr ""
+
+#: smth
+msgid "feedback"
+msgstr ""
+
+#: smth
+msgid "botisstopped"
+msgstr ""
+
+#: smth
+msgid "ratebot"
+msgstr ""
+
+#: smth
+msgid "thanks"
+msgstr ""
+
+#: smth
+msgid "help"
+msgstr ""
+
+#: smth
+msgid "village_description"
+msgstr ""
+
+#: smth
+msgid "friend_added"
+msgstr ""
+
+#: smth
+msgid "working_yet"
+msgstr ""
+
+#: smth
+msgid "work_started"
+msgstr ""
+
+#: smth
+msgid "promocode_accept"
+msgstr ""
+
+#: smth
+msgid "promocode_reject"
+msgstr ""
+
+#: smth
+msgid "work_finished"
+msgstr ""
+
+#: smth
+msgid "delimeter"
+msgstr ""
+
+#: smth
+msgid "tutorial_1"
+msgstr ""
+
+#: smth
+msgid "tutorial_2"
+msgstr ""
+
+#: smth
+msgid "tutorial_3"
+msgstr ""
+
+#: smth
+msgid "tutorial_4"
+msgstr ""
+
+#: smth
+msgid "tutorial_5"
+msgstr ""
+
+#: smth
+msgid "tutorial_4_no"
+msgstr ""
+
+#: smth
+msgid "harvested"
+msgstr ""
+
+#: smth
+msgid "tutorial_3_no"
+msgstr ""
+
+#: smth
+msgid "top_before"
+msgstr ""
+
+#: smth
+msgid "need_harvest"
+msgstr ""
+
+#: smth
+msgid "not_harvested"
+msgstr ""
+
+#: smth
+msgid "quest_1_description"
+msgstr ""
+
+#: smth
+msgid "quest_1_good"
+msgstr ""
+
+#: smth
+msgid "quest_1_question"
+msgstr ""
+
+#: smth
+msgid "quest_1_win"
+msgstr ""
+
+#: smth
+msgid "quest_1_fail"
+msgstr ""
+
+#: smth
+msgid "quest_2_description"
+msgstr ""
+
+#: smth
+msgid "quest_2_good"
+msgstr ""
+
+#: smth
+msgid "quest_2_question"
+msgstr ""
+
+#: smth
+msgid "quest_2_win"
+msgstr ""
+
+#: smth
+msgid "quest_2_fail"
+msgstr ""
+
+#: smth
+msgid "quests"
+msgstr ""
+
+#: smth
+msgid "quest_no_money"
+msgstr ""
+
+#: smth
+msgid "battles"
+msgstr ""
+
+#: smth
+msgid "battle_start"
+msgstr ""
+
+#: smth
+msgid "battle_question"
+msgstr ""
+
+#: smth
+msgid "battle_win"
+msgstr ""
+
+#: smth
+msgid "battle_fail"
+msgstr ""
+
+#: smth
+msgid "battle_good"
+msgstr ""
+
+#: smth
+msgid "battle_no_money"
+msgstr ""
+
+#: smth
+msgid "quest_3_description"
+msgstr ""
+
+#: smth
+msgid "quest_3_good"
+msgstr ""
+
+#: smth
+msgid "quest_3_question"
+msgstr ""
+
+#: smth
+msgid "quest_3_fail"
+msgstr ""
+
+#: smth
+msgid "quest_3_win"
+msgstr ""
+
+#: smth
+msgid "tip_bread"
+msgstr ""
+
+#: smth
+msgid "tip_worker"
+msgstr ""
+
+#: smth
+msgid "tip_medal"
+msgstr ""
+
+#: smth
+msgid "tip_level"
+msgstr ""
+
+#: smth
+msgid "tip_battles"
+msgstr ""
+
+#: smth
+msgid "tip_quests"
+msgstr ""
+
+#: smth
+msgid "tip_sword"
+msgstr ""
+
+#: smth
+msgid "tip_promocode"
+msgstr ""
+
+#: smth
+msgid "invite_friends"
+msgstr ""
+
+#: smth
+msgid "template_share"
+msgstr ""
+
+#: smth
+msgid "defense_win"
+msgstr ""
+
+#: smth
+msgid "defense_fail"
+msgstr ""
+
+#: smth
+msgid "tip_money"
+msgstr ""
+
+#: smth
+msgid "tip_chat"
+msgstr ""
+
+#: smth
+msgid "top_24_before"
+msgstr ""
+
+#: smth
+msgid "top_level"
+msgstr ""
+
+#: smth
+msgid "no_money"
+msgstr ""
+
+#: smth
+msgid "no_revenge"
+msgstr ""
+
+#: smth
+msgid "friend_inactive"
+msgstr ""
+
+#: smth
+msgid "friend_return"
+msgstr ""
+
+#: smth
+msgid "war_quest"
+msgstr ""
+
+#: smth
+msgid "swords_added"
+msgstr ""
+
+#: smth
+msgid "shop"
+msgstr ""
+
+#: smth
+msgid "gold_is_bought"
+msgstr ""
+
+#: smth
+msgid "no_diamonds"
+msgstr ""
+
+#: smth
+msgid "it"
+msgstr ""
+
+#: smth
+msgid "pt"
+msgstr ""
+
+#: smth
+msgid "ge"
+msgstr ""
