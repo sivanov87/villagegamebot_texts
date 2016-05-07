@@ -1,4 +1,3 @@
-
 #: smth
 msgid "chooselanguage"
 msgstr "زبان خود را انتخاب فرمایید"
