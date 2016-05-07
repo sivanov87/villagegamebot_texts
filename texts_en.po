@@ -1,15 +1,3 @@
-msgid ""
-msgstr ""
-"PO-Revision-Date: 2016-05-06 15:10+0000\n"
-"Last-Translator: guest <guest@example.com>\n"
-"Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
-"illagegamebot/texts/en/>\n"
-"Language: en\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.7-dev\n"
-"Content-Transfer-Encoding: 8bit\n"
-
 #: smth
 msgid "feedback"
 msgstr "Please, write your feedback about bot in the next message::-baloon-::\nAlso you can write to chat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
