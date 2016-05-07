@@ -1,4 +1,5 @@
-﻿#: smth
+
+#: smth
 msgid "help"
 msgstr "📚Hilfe"
 
