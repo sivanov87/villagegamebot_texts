@@ -1,0 +1,151 @@
+﻿#: smth
+msgid "help"
+msgstr "📚Помощь"
+
+#: smth
+msgid "top"
+msgstr "🏆ТОП"
+
+#: smth
+msgid "feedback"
+msgstr "📢Отзыв"
+
+#: smth
+msgid "chatlink"
+msgstr "Чат"
+
+#: smth
+msgid "mainmenu"
+msgstr "Главное меню"
+
+#: smth
+msgid "ratebot"
+msgstr "Оцените бота ::-like-::"
+
+#: smth
+msgid "cancel"
+msgstr "Отмена"
+
+#: smth
+msgid "start"
+msgstr "Старт"
+
+#: smth
+msgid "reject"
+msgstr "Отклонить"
+
+#: smth
+msgid "next"
+msgstr "Следующая фотография"
+
+#: smth
+msgid "work"
+msgstr "🍞Работать"
+
+#: smth
+msgid "village"
+msgstr "Деревня"
+
+#: smth
+msgid "tutorial_1"
+msgstr "💰Взять монеты!"
+
+#: smth
+msgid "tutorial_2"
+msgstr "🏘Основать деревню"
+
+#: smth
+msgid "harvest"
+msgstr "💰Продать урожай"
+
+#: smth
+msgid "quest_add_power"
+msgstr "🗡Отправить подмогу!"
+
+#: smth
+msgid "quest_no_power"
+msgstr "👎У нас нет на это ресурсов"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️Защитить караван"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Спасти деревню"
+
+#: smth
+msgid "quests"
+msgstr "Квесты🚀"
+
+#: smth
+msgid "quest_accept"
+msgstr "Выполнить задание🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Не сейчас"
+
+#: smth
+msgid "battles"
+msgstr "В бой!⚔"
+
+#: smth
+msgid "search_opponent"
+msgstr "Поиск противника👁"
+
+#: smth
+msgid "battle_no_power"
+msgstr "У нас нет ресурсов на это 👎"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Отправить пополнение!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Начать бой!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️Разогнать волков"
+
+#: smth
+msgid "refresh_data"
+msgstr "Обновить данные🔃"
+
+#: smth
+msgid "return_to_village"
+msgstr "В деревню🔙"
+
+#: smth
+msgid "invite_friends"
+msgstr "Получить рабочих::-worker-::"
+
+#: smth
+msgid "ao"
+msgstr "АО"
+
+#: smth
+msgid "revenge"
+msgstr "Месть"
+
+#: smth
+msgid "swords_10"
+msgstr "Малое ополчение 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "Большое ополчение 100::-sword-::"
+
+#: smth
+msgid "war_quest"
+msgstr "⚔Военный квест⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Магазин"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Купить 50::-moneybag-:: за 5::-diamond-::"

@@ -1,0 +1,171 @@
+﻿#: smth
+msgid "help"
+msgstr "📚راهنما"
+
+#: smth
+msgid "mainmenu"
+msgstr "منوی اصلی"
+
+#: smth
+msgid "Cancel"
+msgstr "لغو"
+
+#: smth
+msgid "next"
+msgstr "عکس بعدی"
+
+#: smth
+msgid "top"
+msgstr "🏆برترین بازیکنان"
+
+#: smth
+msgid "chooselanguage"
+msgstr "انتخاب زبان"
+
+#: smth
+msgid "feedback"
+msgstr "📢تماس با ما"
+
+#: smth
+msgid "chatlink"
+msgstr "چت"
+
+#: smth
+msgid "star1"
+msgstr "::-star-::"
+
+#: smth
+msgid "stars2"
+msgstr "::-star-::::-star-::"
+
+#: smth
+msgid "stars3"
+msgstr "::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars4"
+msgstr "::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars5"
+msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "ratebot"
+msgstr "امتیاز به ما ::-like-::"
+
+#: smth
+msgid "start"
+msgstr "شروع"
+
+#: smth
+msgid "work"
+msgstr "🍞زراعت کردن"
+
+#: smth
+msgid "quests"
+msgstr "🚀ماجراجویی"
+
+#: smth
+msgid "quest_accept"
+msgstr "🗡رفتن به ماجراجویی"
+
+#: smth
+msgid "quest_reject"
+msgstr "فعلا نه"
+
+#: smth
+msgid "battles"
+msgstr "⚔مبارزات"
+
+#: smth
+msgid "search_opponent"
+msgstr "👁جستجوی حریف"
+
+#: smth
+msgid "battle_no_power"
+msgstr "👎طلا کم است"
+
+#: smth
+msgid "reject"
+msgstr "ردکردن"
+
+#: smth
+msgid "battle_add_power"
+msgstr "🗡ارسال نیروی پشتیبانی !"
+
+#: smth
+msgid "battle_start"
+msgstr "⚔حمله!"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️گرگ ها"
+
+#: smth
+msgid "village"
+msgstr "دهکده"
+
+#: smth
+msgid "refresh_data"
+msgstr "🔃بروزرسانی اطلاعات"
+
+#: smth
+msgid "tutorial_1"
+msgstr "💰گرفتن سکه ها!"
+
+#: smth
+msgid "return_to_village"
+msgstr "🔙بازگشت به دهکده"
+
+#: smth
+msgid "tutorial_2"
+msgstr "🏘پیدا کردن یک دهکده"
+
+#: smth
+msgid "invite_friends"
+msgstr "::-worker-::افزایش کارگرها"
+
+#: smth
+msgid "harvest"
+msgstr "💰فروش محصولات"
+
+#: smth
+msgid "quest_add_power"
+msgstr "🗡ارسال نیروی پشتیبانی!"
+
+#: smth
+msgid "quest_no_power"
+msgstr "👎بدون منابع"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️محافظت از کاروانیان"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️نجات دهکده"
+
+#: smth
+msgid "revenge"
+msgstr "گرفتن انتقام"
+
+#: smth
+msgid "swords_10"
+msgstr "لشگر کوچک 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "لشگر عظیم 100::-sword-::"
+
+#: smth
+msgid "war_quest"
+msgstr "ماجراجویی جنگی"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::فروشگاه"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "خرید 50::-moneybag-:: for 5::-diamond-::"

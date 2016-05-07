@@ -1,0 +1,107 @@
+#: smth
+msgid "help"
+msgstr "📚Aiuto"
+
+#: smth
+msgid "work"
+msgstr "🍞Lavoro!"
+
+#: smth
+msgid "quests"
+msgstr "Missioni🚀"
+
+#: smth
+msgid "quest_accept"
+msgstr "Ricerca diretta🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Non adesso"
+
+#: smth
+msgid "battles"
+msgstr "⚔Battaglie"
+
+#: smth
+msgid "search_opponent"
+msgstr "Cerchi l'avversario👁"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Poco oro👎"
+
+#: smth
+msgid "reject"
+msgstr "Reject"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Mandi il rinforzo!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Attacco!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️Lupi"
+
+#: smth
+msgid "refresh_data"
+msgstr "Informazioni🔃"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Monete di presa!💰"
+
+#: smth
+msgid "return_to_village"
+msgstr "Al villaggio🔙"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Trovato un villaggio🏘"
+
+#: smth
+msgid "invite_friends"
+msgstr "Ottieni lavoratori::-worker-::"
+
+#: smth
+msgid "harvest"
+msgstr "Vendi il pane💰"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Mandi rinforzi! 🗡"
+
+#: smth
+msgid "quest_no_power"
+msgstr "Nessuna risorsa👎"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️Proteggi la carovana"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Salva il villaggio"
+
+#: smth
+msgid "swords_10"
+msgstr "Piccolo gruppo 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "Gran gruppo 100::-sword-::"
+
+#: smth
+msgid "war_quest"
+msgstr "⚔Ricerca di guerra⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Negozio"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Compri 50::-moneybag-:: per 5::-diamond-::"
