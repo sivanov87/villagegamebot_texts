@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 05:40+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-07 07:10+0000\n"
+"Last-Translator: Mossi <guest@example.com>\n"
+"Language-Team: Uzbek <http://translate.villagegamebot.tgroups.me/projects/vil"
+"lagegamebot/texts/uz/>\n"
 "Language: uz\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -12,54 +13,80 @@ msgstr ""
 #: smth
 msgid "chooselanguage"
 msgstr ""
+"Choose your language\n"
+"Выберите язык бота\n"
+"\n"
+"Italian, German, Portuguese, Persian - in test mode. If you find mistakes - "
+"feel free to write @tgcreator"
 
 #: smth
 msgid "feedback"
 msgstr ""
+"Iltimos, bot haqidagi o'z fikr-mulohazangizni shu hatdan so'ng "
+"qoldiring::-baloon-::\n"
+"Yana siz bizning gruppamizdayam yozishingiz mumkim - "
+"https://telegram.me/joinchat/B31JfT5pkNY3tASfkuh-Wg"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"Sizning obunangiz o'chirildi. Hozir siz botdan bildirishnimalarni "
+"ololmaysiz. Yana obuna bo'lish uchun /start"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Iltimos, ushbu botga baxo bering"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "Raxmat!"
 
 #: smth
 msgid "help"
 msgstr ""
+"Siz Telegramdegi birinchi strategiya o'yinni o'ynayapsiz. Siz hosilni "
+"o'stirib::-bread-::, ularni oltinga ::-moneybag-:: almashtirishingiz,  "
+"topshiriqlar bajarishingiz mumkin"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"%villagename% qishlog'i (%level%::-vilgae-::chi bosqich, %level_percents%%)\n"
+"\n"
+"Ishchilar: %workers% ::-worker-::\n"
+"Non: %bread% / %max_bread% ::-bread-::\n"
+"Oltin: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"Medallar: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"Do'st qo'shildi. Siz 1ta ::-worker-:: va 5 ::-moneybag-:: oldingiz\n"
+"Do'stlarni chaqirish /invite_friends"
 
 #: smth
 msgid "working_yet"
 msgstr ""
+"Siz hozir ishlayabsiz. Biroz kuting. Siz topshiriqlar bajarishingiz mumkin "
+"/quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"Siz ishlashni boshladingiz va 60::-bread-:: hosil oldingiz! Endi siz "
+"topshiriqlar bajarishingiz mumkin /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "Promokod qabul qilindi. Oltin - %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "Hato promokod."
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "Ish tugadi, lord! Ishlash - /work"
 
 #: smth
 msgid "delimeter"
@@ -68,78 +95,128 @@ msgstr ""
 #: smth
 msgid "tutorial_1"
 msgstr ""
+"Siz dala bo'ylab ketyabsiz va 51 tangali::-moneybag-:: hamyon yerda "
+"yotganini ko'rib qoldingiz."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
+"Bu yaxshi boylik! Keyin, siz 2ta dehqonni::-worker-::::-worker-:: ko'rdiz. "
+"Va sizda porloq fikr paydo bo'ldi - ularni yonlash va bu yerda qishloq "
+"tashkil etish."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"Xo'sh, dehqonlar ish bilan taminlandi. Aytganchali, hozir sizning "
+"2000::-bread-:: hosilingizni sotish vaqti, siz bunga 20::-moneybag-:: "
+"olishingiz mumkim."
 
 #: smth
 msgid "tutorial_4"
 msgstr ""
+"Ajoyib! Hosil birozdan keyin pishadi, shuning uchun sizga vaqti-vaqti bilan "
+"o'yinga kirib, hosilni yig'ishni tavfsiya etamiz.\n"
+"Hozir maxfiy ma'lumot uchun pul olish vaqti -  siz maxfiy kodni topishingiz "
+"va uni o'yinga yozishingiz kerak. Boshlash uchun @VillageGameRu kanaliga "
+"kiring, \\\"Секретный код: <kod>\\\" degan yozuvni toping va uni shu botga "
+"jo'nating."
 
 #: smth
 msgid "tutorial_5"
 msgstr ""
+"Ajoyib! Hosil birozdan keyin pishadi, shuning uchun sizga vaqti-vaqti bilan "
+"o'yinga kirib, hosilni yig'ishni tavfsiya etamiz.\n"
+"Endi hozir siz qishloqni rivojlantirishingiz kerak. Birinchidan, yangi "
+"ishchilar olsangiz yaxshi bo'lardi. Buning uchun do'stlaringizga ushbu "
+"havolani %reflink% jo'nating. Har bir do'stingiz uchun siz 2ta "
+"ishchi::-worker-:: va 5 ::-moneybag-:: olasiz. Yoki ishlashni boshlang /work"
 
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
+"Siz hato kod terdingiz. Afsuski, sizga pul bera olmaymiz :(.\n"
+"\n"
+"Kelajakda, siz kodlarni kanallarda yoki do'stlaringizdan olishingiz mumkin.\n"
+"Hozir siz qishloqni rivojlantirishingiz kerak. Birinchidan, yangi ishchilar "
+"olsangiz yaxshi bo'lardi. Buning uchun do'stlaringizga ushbu havolani "
+"%reflink% jo'nating. Har bir do'stingiz uchun siz 2ta ishchi::-worker-:: va "
+"5 ::-moneybag-:: olasiz."
 
 #: smth
 msgid "harvested"
 msgstr ""
+"Siz %bread_diff% ::-bread-::ni %gold_diff% ::-moneybag-:: ga sotdingiz, "
+"qoyil!"
 
 #: smth
 msgid "tutorial_3_no"
-msgstr ""
+msgstr "Hosilni yig'ish kerak, aks holda u chirib qoladi. :("
 
 #: smth
 msgid "top_before"
-msgstr ""
+msgstr "Eng zo\\'r o\\'yinchilar::-medal-::"
 
 #: smth
 msgid "need_harvest"
 msgstr ""
+"Sizning dalalaringiz to'ldi. Hosilni yig'ish kerak, aks holda u chirishni "
+"boshlaydi. :("
 
 #: smth
 msgid "not_harvested"
 msgstr ""
+"Hosil juda oz. U 100 ::-bread-:: bo\\'lguncha kuting  yoki ishlang - /work "
 
 #: smth
 msgid "quest_1_description"
 msgstr ""
+"Karvon sizning qishlog'ingiz oldidan o'tdi. U sizni himoyangizni so'radi. "
+"Buning uchun %start_power% ::-sword-:: kerak. Ularni himoya qilsangiz siz "
+"%gold% ::-moneybag-:: olasiz."
 
 #: smth
 msgid "quest_1_good"
 msgstr ""
+"Ajoyib! Karvon hechqanday muammosiz o'tib ketdi, va siz olgan foydangizdan "
+"bahramand bo'ling!"
 
 #: smth
 msgid "quest_1_question"
 msgstr ""
+"Karvonga hujum qilindi va sizning askarlarlarimgiz zo'rg'a uni himoya "
+"qilishyabdi. %add_power%::-sword-:: yordam jo'nating, aks holda ular o'ladi!"
 
 #: smth
 msgid "quest_1_win"
-msgstr ""
+msgstr "Sizning askarlaringiz karvonni himoya qilishdi va siz oltin oldiz."
 
 #: smth
 msgid "quest_1_fail"
 msgstr ""
+"Siz yordam jo\\'natmadingiz, va karvon himoyachilar bilan birga vayron "
+"qilindi..."
 
 #: smth
 msgid "quest_2_description"
 msgstr ""
+"Banditlar qishloqqa hujum qilishdi. Hokim yordam so\\'radi - banditlarni yo\\"
+"'qatish uchun siz %start_power%::-sword-:: hajmidagi armiya jo\\'natishingiz "
+"kerak. U  g'alaba uchun bir chiroyli mukofot - %gold%::-moneybag-:: va\\'da "
+"qildi."
 
 #: smth
 msgid "quest_2_good"
 msgstr ""
+"Bu banditlar qo'rqoq ekan! Ular sizning armiyangizni ko\\'rishi bilan, "
+"qochib qoldi.Bu juda oson ish bo\\'ldi, lekin oqsoqollar va\\'da qilgan "
+"pullarini berishdi."
 
 #: smth
 msgid "quest_2_question"
 msgstr ""
+"Banditlar ancha baquvvat ekan - ular sizni o'rab olishdi. Yutish uchun "
+"%add_power%::-sword-:: jo'natishingiz kerak."
 
 #: smth
 msgid "quest_2_win"
