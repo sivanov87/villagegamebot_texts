@@ -12,10 +12,6 @@ msgid "en"
 msgstr "🇬🇧English"
 
 #: smth
-msgid "ru"
-msgstr "🇷🇺Русский"
-
-#: smth
 msgid "chooselanguage"
 msgstr "Choose language"
 
@@ -32,44 +28,12 @@ msgid "mainmenu"
 msgstr "Main menu"
 
 #: smth
-msgid "star1"
-msgstr "::-star-::"
-
-#: smth
-msgid "stars2"
-msgstr "::-star-::::-star-::"
-
-#: smth
-msgid "stars3"
-msgstr "::-star-::::-star-::::-star-::"
-
-#: smth
-msgid "stars4"
-msgstr "::-star-::::-star-::::-star-::::-star-::"
-
-#: smth
-msgid "stars5"
-msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
-
-#: smth
 msgid "ratebot"
 msgstr "Rate me ::-like-::"
 
 #: smth
 msgid "cancel"
 msgstr "Cancel"
-
-#: smth
-msgid "start"
-msgstr "Start"
-
-#: smth
-msgid "next"
-msgstr "Next photo"
-
-#: smth
-msgid "fa"
-msgstr "فارسی🇮🇷"
 
 #: smth
 msgid "work"
@@ -160,18 +124,6 @@ msgid "quest_2"
 msgstr "⭐️⭐️⭐️Save the village"
 
 #: smth
-msgid "alphaomega"
-msgstr "AAAlphaomega"
-
-#: smth
-msgid "ao"
-msgstr "AO"
-
-#: smth
-msgid "revenge"
-msgstr "Revenge"
-
-#: smth
 msgid "swords_10"
 msgstr "Small troop 10::-sword-::"
 
@@ -190,15 +142,3 @@ msgstr "::-diamond-::Shop"
 #: smth
 msgid "buy_50_gold"
 msgstr "Buy 50::-moneybag-:: for 5::-diamond-::"
-
-#: smth
-msgid "it"
-msgstr "🇮🇹Italiano"
-
-#: smth
-msgid "de"
-msgstr "🇩🇪Deutsch"
-
-#: smth
-msgid "pt"
-msgstr "Português"
