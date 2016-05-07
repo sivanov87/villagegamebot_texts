@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-05-06 14:16+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-07 06:51+0000\n"
+"Last-Translator: Mércurie Janeai <mercurie_janeai@hotmail.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
 "Language: pt\n"
@@ -50,16 +50,16 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"Você começou a trabalhar e colheu 20 ::-bread-::! Agora você pode fazer "
+"Você começou a trabalhar e colheu 60 ::-bread-::! Agora você pode fazer "
 "missões /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr "Promocode aceito. Ouro: %gold% "
+msgstr "Código promocional aceito. Ouro: %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr "Promocode rejeitado."
+msgstr "Código promocional rejeitado."
 
 #: smth
 msgid "work_finished"
@@ -103,7 +103,15 @@ msgstr ""
 
 #: smth
 msgid "tutorial_4_no"
-msgstr "Você enviou um código incorreto. Infelizmente não podemos te entregar dinheiro :C.\n\nNo futuro, você pode conseguir códigos no canal ou com amigos.\nAgora você precisa desenvolver sua vila. Primeiro, seria bom contratar novos trabalhadores. Um modo de fazer isso é convidando amigos para o jogo usando o link %reflink%. Cada amigo traz um novo trabalhador ::-worker-:: e 3 ::-moneybag-::."
+msgstr ""
+"Você enviou um código incorreto. Infelizmente não podemos te entregar o "
+"dinheiro :C.\n"
+"\n"
+"No futuro, você pode conseguir códigos no canal ou com amigos.\n"
+"Agora você precisa desenvolver sua vila. Primeiro, seria bom contratar novos "
+"trabalhadores. Um modo de fazer isso é convidando amigos para o jogo usando "
+"o link %reflink%. Cada amigo traz um novo trabalhador ::-worker-:: e 5 "
+"::-moneybag-::."
 
 #: smth
 msgid "harvested"
@@ -147,11 +155,15 @@ msgstr "Sua tropa protegeu a caravana e você conseguiu o ouro."
 
 #: smth
 msgid "quest_1_fail"
-msgstr "Você não enviou reforços, a caravana e os defensores foram destruidos...."
+msgstr ""
+"Você não enviou reforços, a caravana e os defensores foram destruídos...."
 
 #: smth
 msgid "quest_2_description"
-msgstr "Bandidos atacaram a vila. O prefeito pediu ajuda — para debandar os bandidos, você precisa enviar uma frota de  %start_power% ::-sword-::. Uma vitória promete uma bela quantia de  %gold% ::-moneybag-::."
+msgstr ""
+"Bandidos atacaram a vila. O prefeito pediu ajuda — para debandar os "
+"bandidos, você precisa enviar uma frota de  %start_power% ::-sword-::. Uma "
+"vitória promete uma bela recompensa de  %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_2_good"
