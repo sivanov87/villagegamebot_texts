@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-05-07 06:51+0000\n"
-"Last-Translator: Mércurie Janeai <mercurie_janeai@hotmail.com>\n"
+"PO-Revision-Date: 2016-05-07 23:37+0000\n"
+"Last-Translator: augusto <augusto@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
 "Language: pt\n"
@@ -16,7 +16,10 @@ msgstr ""
 
 #: smth
 msgid "feedback"
-msgstr "Por favor, dê seu feedback sobre o bot na próxima mensagem.::-baloon-::\nAh! Você também pode entrar no chat sobre o jogo aqui: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+msgstr ""
+"Por favor, dê sua opinião sobre o bot na próxima mensagem.::-baloon-::\n"
+"Ah! Você também pode entrar no chat sobre o jogo aqui: "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
@@ -55,7 +58,7 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr "Código promocional aceito. Ouro: %gold% "
+msgstr "Código promocional aceito. Ouro - -%gold%-::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
@@ -296,7 +299,7 @@ msgstr ""
 msgid "tip_money"
 msgstr ""
 "Ouro ::-moneybag-:: é a moeda principal do jogo. Você pode conseguí-la "
-"produzindo e vendendo ::-bread-:: e fazendo e vencendo missões"
+"produzindo e vendendo ::-bread-:: e fazendo e vencendo missões🚀 e batalhas⚔"
 
 #: smth
 msgid "delimeter"
