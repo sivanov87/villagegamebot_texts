@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-07 22:59+0000\n"
+"PO-Revision-Date: 2016-05-07 23:30+0000\n"
 "Last-Translator: augusto <augusto@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/buttons/pt/>\n"
@@ -75,9 +75,8 @@ msgid "return_to_village"
 msgstr "Ir para a vila🔙"
 
 #: smth
-#, fuzzy
 msgid "tutorial_2"
-msgstr "Achou a vila🏘"
+msgstr "Achou uma vila🏘"
 
 #: smth
 msgid "invite_friends"
@@ -110,3 +109,47 @@ msgstr "⚔Guerra⚔"
 #: smth
 msgid "shop"
 msgstr "::-diamond-::Loja"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Comprar 50::-moneybag-:: por 5::-diamond-::"
+
+#: smth
+msgid "top"
+msgstr "🏆Ranque"
+
+#: smth
+msgid "feedback"
+msgstr "Dar Opinião"
+
+#: smth
+msgid "ratebot"
+msgstr "Avaliar ::-like-::"
+
+#: smth
+msgid "quests"
+msgstr "🚀Missões"
+
+#: smth
+msgid "quest_accept"
+msgstr "Fazer missão🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Agora não"
+
+#: smth
+msgid "battles"
+msgstr "Batalhas⚔"
+
+#: smth
+msgid "search_opponent"
+msgstr "Procurar oponente👁"
+
+#: smth
+msgid "swords_10"
+msgstr "Pequena tropa 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "Grande tropa 100::-sword-::"
