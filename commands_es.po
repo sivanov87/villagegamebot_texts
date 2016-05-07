@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: 2016-05-07 22:48+0000\n"
+"PO-Revision-Date: 2016-05-07 22:50+0000\n"
 "Last-Translator: Lucas Kado <guest@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/es/>\n"
@@ -24,7 +24,7 @@ msgstr "🏆TOP"
 
 #: smth
 msgid "chooselanguage"
-msgstr "Elige un idioma"
+msgstr "Elige idioma"
 
 #: smth
 msgid "feedback"
@@ -56,7 +56,7 @@ msgstr "🚀Cruzadas"
 
 #: smth
 msgid "quest_accept"
-msgstr "Acudir a la cruzada🗡"
+msgstr "Ir a la cruzada🗡"
 
 #: smth
 msgid "quest_reject"
@@ -80,7 +80,7 @@ msgstr "Rechazar"
 
 #: smth
 msgid "battle_add_power"
-msgstr "¡Enviar refuerzos!🗡"
+msgstr "¡Enviad refuerzos!🗡"
 
 #: smth
 msgid "battle_start"
@@ -100,7 +100,7 @@ msgstr "🔃Actualizar información"
 
 #: smth
 msgid "tutorial_1"
-msgstr "¡Coger las monedas!💰"
+msgstr "¡Coge las monedas!💰"
 
 #: smth
 msgid "return_to_village"
@@ -108,7 +108,7 @@ msgstr "Al pueblo🔙"
 
 #: smth
 msgid "tutorial_2"
-msgstr "Busca un pueblo🏘"
+msgstr "Encuentra un pueblo🏘"
 
 #: smth
 msgid "invite_friends"
