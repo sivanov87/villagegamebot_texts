@@ -1,0 +1,203 @@
+﻿#: smth
+msgid "help"
+msgstr "📚Help"
+
+#: smth
+msgid "top"
+msgstr "🏆TOP"
+
+#: smth
+msgid "en"
+msgstr "🇬🇧English"
+
+#: smth
+msgid "ru"
+msgstr "🇷🇺Русский"
+
+#: smth
+msgid "chooselanguage"
+msgstr "Choose language"
+
+#: smth
+msgid "feedback"
+msgstr "📢Feedback"
+
+#: smth
+msgid "chatlink"
+msgstr "Chat"
+
+#: smth
+msgid "mainmenu"
+msgstr "Main menu"
+
+#: smth
+msgid "star1"
+msgstr "::-star-::"
+
+#: smth
+msgid "stars2"
+msgstr "::-star-::::-star-::"
+
+#: smth
+msgid "stars3"
+msgstr "::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars4"
+msgstr "::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars5"
+msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "ratebot"
+msgstr "Rate me ::-like-::"
+
+#: smth
+msgid "cancel"
+msgstr "Cancel"
+
+#: smth
+msgid "start"
+msgstr "Start"
+
+#: smth
+msgid "next"
+msgstr "Next photo"
+
+#: smth
+msgid "fa"
+msgstr "فارسی🇮🇷"
+
+#: smth
+msgid "work"
+msgstr "🍞Work!"
+
+#: smth
+msgid "quests"
+msgstr "Quests🚀"
+
+#: smth
+msgid "quest_accept"
+msgstr "Run quest🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Not now"
+
+#: smth
+msgid "battles"
+msgstr "Battles⚔"
+
+#: smth
+msgid "search_opponent"
+msgstr "Search opponent👁"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Few gold👎"
+
+#: smth
+msgid "reject"
+msgstr "Reject"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Send reinforcement!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Attack!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️Wolves"
+
+#: smth
+msgid "village"
+msgstr "Village"
+
+#: smth
+msgid "refresh_data"
+msgstr "Update info🔃"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Grab coins!💰"
+
+#: smth
+msgid "return_to_village"
+msgstr "To village🔙"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Found a village🏘"
+
+#: smth
+msgid "invite_friends"
+msgstr "Get workers::-worker-::"
+
+#: smth
+msgid "harvest"
+msgstr "Sell bread💰"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Send reinforcements! 🗡"
+
+#: smth
+msgid "quest_no_power"
+msgstr "No resources👎"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️Protect the caravan"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Save the village"
+
+#: smth
+msgid "alphaomega"
+msgstr "AAAlphaomega"
+
+#: smth
+msgid "ao"
+msgstr "AO"
+
+#: smth
+msgid "revenge"
+msgstr "Revenge"
+
+#: smth
+msgid "swords_10"
+msgstr "Small troop 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "Large troop 100::-sword-::"
+
+#: smth
+msgid "war_quest"
+msgstr "⚔War quest⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Shop"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Buy 50::-moneybag-:: for 5::-diamond-::"
+
+#: smth
+msgid "it"
+msgstr "🇮🇹Italiano"
+
+#: smth
+msgid "de"
+msgstr "🇩🇪Deutsch"
+
+#: smth
+msgid "pt"
+msgstr "Português"

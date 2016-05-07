@@ -1,0 +1,107 @@
+﻿#: smth
+msgid "help"
+msgstr "📚Hilfe"
+
+#: smth
+msgid "work"
+msgstr "🍞Arbeiten!"
+
+#: smth
+msgid "quests"
+msgstr "🚀Suchen"
+
+#: smth
+msgid "quest_accept"
+msgstr "Geführte Suche🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Nicht jetzt"
+
+#: smth
+msgid "battles"
+msgstr "⚔Kämpfe"
+
+#: smth
+msgid "search_opponent"
+msgstr "Suchen Sie Gegner👁"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Wenige Gold👎"
+
+#: smth
+msgid "reject"
+msgstr "Zurückweisen"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Senden Sie Verstärkung!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Angriff!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️Wölfe"
+
+#: smth
+msgid "refresh_data"
+msgstr "Info🔃"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Griffmünzen!💰"
+
+#: smth
+msgid "return_to_village"
+msgstr "Dorf🔙"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Gefunden ein Dorf🏘"
+
+#: smth
+msgid "invite_friends"
+msgstr "Arbeiter::-worker-::"
+
+#: smth
+msgid "harvest"
+msgstr "Verkaufen Sie Brot💰"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Senden Sie Verstärkungen! 🗡"
+
+#: smth
+msgid "quest_no_power"
+msgstr "Keine Mittel👎"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️Schützen Sie den Wohnwagen"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Sparen Sie das Dorf"
+
+#: smth
+msgid "swords_10"
+msgstr "Kleine Truppe 10::-sword-::"
+
+#: smth
+msgid "swords_10-"
+msgstr "Große Truppe 100::-sword-::"
+
+#: smth
+msgid "war_quest"
+msgstr "⚔Kriegssuche⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Geschäft"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Kaufen Sie 50::-moneybag-:: für 5::-diamond-::"
