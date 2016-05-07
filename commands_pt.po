@@ -3,11 +3,102 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-07 22:55+0000\n"
+"Last-Translator: augusto <augusto@example.com>\n"
+"Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
+"s/villagegamebot/buttons/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
+#: smth
+msgid "mainmenu"
+msgstr "Menu principal"
+
+#: smth
+msgid "chooselanguage"
+msgstr "Escolher língua"
+
+#: smth
+msgid "chatlink"
+msgstr "Bate-papo"
+
+#: smth 
+msgid "help"
+msgstr "📚Ajuda"
+
+#: smth
+msgid "cancel"
+msgstr "Cancelar"
+
+#: smth
+msgid "work"
+msgstr "🍞Trabalhar!"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Pouco ouro👎"
+
+#: smth
+msgid "reject"
+msgstr "Rejeitar"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Mandar reforços!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Atacar!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️Lobos"
+
+#: smth
+msgid "village"
+msgstr "Vila"
+
+#: smth
+msgid "refresh_data"
+msgstr "🔃Atualizar informações"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Pegar moedas!💰"
+
+#: smth
+msgid "return_to_village"
+msgstr "Ir para a vila🔙"
+
+#: smth
+#, fuzzy
+msgid "tutorial_2"
+msgstr "Achou a vila🏘"
+
+#: smth
+msgid "invite_friends"
+msgstr "Consiga trabalhadores::-worker-::"
+
+#: smth
+msgid "harvest"
+msgstr "Vender pão💰"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Mandar reforços! 🗡"
+
+#: smth
+msgid "quest_no_power"
+msgstr "Sem recursos👎"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️Proteger a caravana"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Salvar a vila"
