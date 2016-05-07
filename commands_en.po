@@ -7,10 +7,6 @@ msgid "top"
 msgstr "🏆TOP"
 
 #: smth
-msgid "en"
-msgstr "🇬🇧English"
-
-#: smth
 msgid "chooselanguage"
 msgstr "Choose language"
 
