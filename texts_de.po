@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 11:38+0000\n"
-"PO-Revision-Date: 2016-05-07 10:08+0000\n"
+"PO-Revision-Date: 2016-05-07 10:09+0000\n"
 "Last-Translator: Mossi <guest@example.com>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/de/>\n"
@@ -306,7 +306,7 @@ msgid "botisstopped"
 msgstr ""
 "Du hast den Bot beendet. Nun wirst du keine weiteren Benachrichtigungen von "
 "ihm erhalten.\n"
-"Der Bot kann jederzeit mit \"/start\" wieder aktiviert werden."
+"Der Bot kann jederzeit mit /start wieder aktiviert werden."
 
 #: smth
 msgid "ratebot"
@@ -391,7 +391,7 @@ msgstr "Portugiesisch"
 
 #: smth
 msgid "top_level"
-msgstr "Beste Spieler nach Level %level%::-medal-::"
+msgstr "Beste Spieler LvL %level%::-medal-::"
 
 #: smth
 msgid "war_quest"
