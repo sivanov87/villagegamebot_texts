@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:22+0000\n"
-"PO-Revision-Date: 2016-05-07 22:22+0000\n"
+"PO-Revision-Date: 2016-05-07 22:41+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/ru/>\n"
@@ -57,7 +57,7 @@ msgstr "Следующая фотография"
 
 #: smth
 msgid "work"
-msgstr "🍞Работать"
+msgstr "🍞Работать!"
 
 #: smth
 msgid "village"
@@ -65,7 +65,7 @@ msgstr "Деревня"
 
 #: smth
 msgid "tutorial_1"
-msgstr "💰Взять монеты!"
+msgstr "Взять монеты!💰"
 
 #: smth
 msgid "tutorial_2"
@@ -77,7 +77,7 @@ msgstr "💰Продать урожай"
 
 #: smth
 msgid "quest_add_power"
-msgstr "🗡Отправить подмогу!"
+msgstr "Отправить подмогу! 🗡"
 
 #: smth
 msgid "quest_no_power"
@@ -93,7 +93,7 @@ msgstr "⭐️⭐️⭐️Спасти деревню"
 
 #: smth
 msgid "quests"
-msgstr "Квесты🚀"
+msgstr "🚀Квесты"
 
 #: smth
 msgid "quest_accept"
@@ -129,7 +129,7 @@ msgstr "⭐️Разогнать волков"
 
 #: smth
 msgid "refresh_data"
-msgstr "Обновить данные🔃"
+msgstr "🔃Обновить данные"
 
 #: smth
 msgid "return_to_village"
