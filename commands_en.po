@@ -140,4 +140,4 @@ msgstr "::-diamond-::Shop"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "Buy 50::-moneybag-:: for 5::-diamond-::"
+msgstr "Buy 50 ::-moneybag-:: for 5::-diamond-::"
