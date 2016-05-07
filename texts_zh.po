@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-07 07:54+0000\n"
+"PO-Revision-Date: 2016-05-07 07:57+0000\n"
 "Last-Translator: Mossi <guest@example.com>\n"
 "Language-Team: Chinese <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/zh/>\n"
@@ -52,7 +52,10 @@ msgstr ""
 
 #: smth
 msgid "friend_added"
-msgstr "一位好友接受了您的邀請。您獲贈了 1 位 ::-worker-:: 及 5袋 ::-moneybag-::"
+msgstr ""
+"一位好友接受了您的邀請。您獲贈了 1 位 ::-worker-:: 及 5袋 ::-moneybag-::\n"
+"\n"
+"請邀請您的朋友 /invite_friends"
 
 #: smth
 msgid "working_yet"
@@ -260,7 +263,7 @@ msgstr "獎牌 ::-medal-:: 決定了您的江湖地位。你可以在戰鬥⚔�
 #: smth
 msgid "tip_level"
 msgstr ""
-"村莊的等級 ::-village-:: - 是發展程度的指標，透過賺錢 ::-moneybag-::、聘請 ::-worker-:: 及奪取 "
+"村莊的等級 ::-village-:: - 是發展程度的指標，透過賺錢 ::-moneybag-::、聘請 ::-worker-:: 以及奪取 "
 "::-medal-:: 可以提升等級"
 
 #: smth
@@ -293,8 +296,9 @@ msgstr ""
 #: smth
 msgid "template_share"
 msgstr ""
-"請幫忙 - 到%reflink% 加入Telegram上的首款策略遊戲，助我獲得新工人::-worker-:: 及金錢 ::-moneybag-::。\n"
-"這遊戲十分有趣。 ::-baloon-::"
+"請施以援手 - 到%reflink% 加入Telegram上的首款策略遊戲，助我獲得新工人::-worker-:: 及金錢 ::-moneybag-::。"
+"\n"
+"這遊戲十分有趣。::-baloon-::"
 
 #: smth
 msgid "defense_win"
