@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-07 07:10+0000\n"
+"PO-Revision-Date: 2016-05-07 17:21+0000\n"
 "Last-Translator: Mossi <guest@example.com>\n"
 "Language-Team: Uzbek <http://translate.villagegamebot.tgroups.me/projects/vil"
 "lagegamebot/texts/uz/>\n"
@@ -221,18 +221,26 @@ msgstr ""
 #: smth
 msgid "quest_2_win"
 msgstr ""
+"Sizning qo'shiningiz yordamga keldi,  banditlar hammasi yo'q qilindi, va siz "
+"bir qancha pul toldiz!"
 
 #: smth
 msgid "quest_2_fail"
-msgstr ""
+msgstr "Sizning qo'shiningiz yo'q qilindi..."
 
 #: smth
 msgid "quests"
 msgstr ""
+"Siz tofshiriqni tanlashingiz mumkin. Ularni bajarsangiz siz pul olishingiz "
+"mumkin.\n"
+"1 ::-sword-:: yonlash uchun sizga 1 ::-moneybag-:: kerak."
 
 #: smth
 msgid "quest_no_money"
 msgstr ""
+"Sizda bu topshiriq uchun yetarli pul yo'q. Do'stlaringizni chaqiring "
+"(/invite_friends), promokodlar izlang (@VillageGameRu), hosilingizni yig'ing "
+"- sizga pul kerak!"
 
 #: smth
 msgid "battles"
