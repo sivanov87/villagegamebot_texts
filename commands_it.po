@@ -1,3 +1,4 @@
+
 #: smth
 msgid "help"
 msgstr "📚Aiuto"
