@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-07 21:17+0000\n"
+"PO-Revision-Date: 2016-05-07 21:20+0000\n"
 "Last-Translator: Mossi <guest@example.com>\n"
 "Language-Team: Hungarian <http://translate.villagegamebot.tgroups.me/projects"
 "/villagegamebot/buttons/hu/>\n"
@@ -69,3 +69,35 @@ msgstr "Visszautasít"
 #: smth
 msgid "battle_add_power"
 msgstr "Erősítés küldése!"
+
+#: smth
+msgid "battle_start"
+msgstr "Megtámadom!"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐Farkasok"
+
+#: smth
+msgid "village"
+msgstr "Falu"
+
+#: smth
+msgid "refresh_data"
+msgstr "Információk frissítése"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Érmék elvétele!"
+
+#: smth
+msgid "return_to_village"
+msgstr "A faluhoz"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Találtunk egy falut"
+
+#: smth
+msgid "invite_friends"
+msgstr "Több munkás::-munkás-::"
