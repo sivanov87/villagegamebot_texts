@@ -10,7 +10,7 @@ msgstr ""
 "X-Generator: Weblate 2.7-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: smth
+#: smth1
 msgid "chooselanguage"
 msgstr "Choose your language\nВыберите язык бота\n\nItalian, German, Portuguese, Persian - in test mode. If you find mistakes - feel free to write @tgcreator"
 
