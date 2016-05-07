@@ -10,10 +10,6 @@ msgstr ""
 "X-Generator: Weblate 2.7-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: smth1
-msgid "chooselanguage"
-msgstr "Choose your language\nВыберите язык бота\n\nItalian, German, Portuguese, Persian - in test mode. If you find mistakes - feel free to write @tgcreator"
-
 #: smth
 msgid "feedback"
 msgstr "Please, write your feedback about bot in the next message::-baloon-::\nAlso you can write to chat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
@@ -52,7 +48,7 @@ msgstr "You start to work and harvest 60::-bread-::! And now you can run /quests
 
 #: smth
 msgid "promocode_accept"
-msgstr "Promocode accepted. Gold -  %gold% "
+msgstr "Promocode accepted. Gold - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
@@ -61,10 +57,6 @@ msgstr "Bad promocode."
 #: smth
 msgid "work_finished"
 msgstr "Work is finished, my lord! Work - /work"
-
-#: smth
-msgid "delimeter"
-msgstr "::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::"
 
 #: smth
 msgid "tutorial_1"
@@ -279,14 +271,6 @@ msgid "no_revenge"
 msgstr "Impossible to revenge."
 
 #: smth
-msgid "friend_inactive"
-msgstr "Your friend %villagename% %user_name% doesn't play for a long time and the worker who has come for him, has escaped from you.\r\nAsk the friend to return to game, and the worker will return!"
-
-#: smth
-msgid "friend_return"
-msgstr "Your friend of %villagename% %user_name% has returned to game, and the worker has returned too!"
-
-#: smth
 msgid "war_quest"
 msgstr "Previous code: AWARQUEST2DONEURAYA\n\nEnemies have brought together huge army and have put forward to your borders. The quicker you will be able to collect a militia, the more simply you will overcome the enemy.\nFor a victory it is necessary to gather 100 000::-sword-:: and not less than 1000 participants::-village-:: have to take part in fight. \nFor a victory the promo code on 110::-moneybag-::will be given - enter fight!\n1::-sword-:: = 1::-moneybag-::\n\nArmy: %swords%::-sword-:: (%swords_percents%%)\nYour troops: %your_swords%::-sword-:: (%your_swords_percents%%)\nParticipants: %villages%::-village-::(%villages_percents%%)"
 
@@ -305,15 +289,3 @@ msgstr "You have bought 50::-moneybag-:: for 5::-diamond-::"
 #: smth
 msgid "no_diamonds"
 msgstr "You don't have enough diamond ::-diamonds-:: for purchase commission :(\n"
-
-#: smth
-msgid "it"
-msgstr "Italian"
-
-#: smth
-msgid "pt"
-msgstr "Portuguese"
-
-#: smth
-msgid "ge"
-msgstr "German"
