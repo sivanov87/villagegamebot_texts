@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-08 07:51+0000\n"
+"PO-Revision-Date: 2016-05-08 16:25+0000\n"
 "Last-Translator: Lucas Kado <guest@example.com>\n"
 "Language-Team: Hungarian <http://translate.villagegamebot.tgroups.me/projects"
 "/villagegamebot/texts/hu/>\n"
@@ -74,8 +74,8 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"Az emberek elkezdtek dolgozni, 60 kenyérre valóért ::-bread-::! Addig is "
-"kalandozhatsz /quest"
+"Az emberek elkezdtek dolgozni, 60 ::-bread-::-t! Addig is kalandozhatsz "
+"/quest"
 
 #: smth
 msgid "promocode_accept"
@@ -87,7 +87,7 @@ msgstr "Helytelen kód. Dolgozhatsz /work vagy kalandozhatsz /quests"
 
 #: smth
 msgid "work_finished"
-msgstr "Befejezték a munkát, nagyuram! Újra dolgozhatnak - /work"
+msgstr "Befejezték a munkát, nagyuram! Az emberek újra dolgozhatnak - /work"
 
 #: smth
 msgid "delimeter"
@@ -104,7 +104,7 @@ msgid "tutorial_2"
 msgstr ""
 "Ez a jó szerencse jele! Hirtelen meglátsz 2 munkást ::-worker-::::-worker-::"
 ".Támad egy brilliáns ötleted - alkalmazzuk őket és alapítsunk itt egy "
-"települést!"
+"települést."
 
 #: smth
 msgid "tutorial_3"
