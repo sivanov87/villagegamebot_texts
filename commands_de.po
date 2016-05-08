@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-08 00:11+0000\n"
-"PO-Revision-Date: 2016-05-08 00:25+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-08 13:16+0000\n"
+"Last-Translator: Lucas Kado <guest@example.com>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/buttons/de/>\n"
 "Language: de\n"
@@ -24,11 +24,11 @@ msgstr "🍞Arbeiten!"
 
 #: smth
 msgid "quests"
-msgstr "🚀Suchen"
+msgstr "🚀Quests"
 
 #: smth
 msgid "quest_accept"
-msgstr "Geführte Suche🗡"
+msgstr "Quest anfangen🗡"
 
 #: smth
 msgid "quest_reject"
@@ -36,27 +36,27 @@ msgstr "Nicht jetzt"
 
 #: smth
 msgid "battles"
-msgstr "⚔Kämpfe"
+msgstr "Kämpfe⚔"
 
 #: smth
 msgid "search_opponent"
-msgstr "Suchen Sie Gegner👁"
+msgstr "Gegner suchen👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr "Wenige Gold👎"
+msgstr "Ungenügend Gold👎"
 
 #: smth
 msgid "reject"
-msgstr "Zurückweisen"
+msgstr "Ablehnen"
 
 #: smth
 msgid "battle_add_power"
-msgstr "Senden Sie Verstärkung!🗡"
+msgstr "Verstärkung senden!🗡"
 
 #: smth
 msgid "battle_start"
-msgstr "Angriff!⚔"
+msgstr "Angreifen!⚔"
 
 #: smth
 msgid "quest_3"
@@ -64,43 +64,43 @@ msgstr "⭐️Wölfe"
 
 #: smth
 msgid "refresh_data"
-msgstr "🔃Info"
+msgstr "🔃Info aktualisieren"
 
 #: smth
 msgid "tutorial_1"
-msgstr "Griffmünzen!💰"
+msgstr "Münzen nehmen!💰"
 
 #: smth
 msgid "return_to_village"
-msgstr "Dorf🔙"
+msgstr "Zum Dorf🔙"
 
 #: smth
 msgid "tutorial_2"
-msgstr "Gefunden ein Dorf🏘"
+msgstr "Dorf gefunden!🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr "Arbeiter::-worker-::"
+msgstr "Arbeiter bekommen::-worker-::"
 
 #: smth
 msgid "harvest"
-msgstr "Verkaufen Sie Brot💰"
+msgstr "Brot verkaufen💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr "Senden Sie Verstärkungen! 🗡"
+msgstr "Verstärkungen senden! 🗡"
 
 #: smth
 msgid "quest_no_power"
-msgstr "Keine Mittel👎"
+msgstr "Keine Ressourcen👎"
 
 #: smth
 msgid "quest_1"
-msgstr "⭐️⭐️Schützen Sie den Wohnwagen"
+msgstr "⭐️⭐️️Beschütze die Karawane"
 
 #: smth
 msgid "quest_2"
-msgstr "⭐️⭐️⭐️Sparen Sie das Dorf"
+msgstr "⭐️⭐️⭐️️Beschütze das Dorf"
 
 #: smth
 msgid "swords_10"
@@ -112,11 +112,11 @@ msgstr "Große Truppe 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr "⚔Kriegssuche⚔"
+msgstr "⚔Kriegsquest⚔"
 
 #: smth
 msgid "shop"
-msgstr "::-diamond-::Geschäft"
+msgstr "::-diamond-::Laden"
 
 #: smth
 msgid "buy_50_gold"
@@ -124,15 +124,15 @@ msgstr "Kaufen Sie 50::-moneybag-:: für 5::-diamond-::"
 
 #: smth
 msgid "top"
-msgstr "🏆TOP"
+msgstr "🏆Beste Spieler"
 
 #: smth
 msgid "chooselanguage"
-msgstr "Wählen Sie die Sprache"
+msgstr "Sprache wählen"
 
 #: smth
 msgid "feedback"
-msgstr "📢Feedback"
+msgstr "📢Vorschläge"
 
 #: smth
 msgid "chatlink"
@@ -144,7 +144,7 @@ msgstr "Hauptmenü"
 
 #: smth
 msgid "ratebot"
-msgstr "Rate"
+msgstr "Bewerte mich ::-like-::"
 
 #: smth
 msgid "cancel"
@@ -156,4 +156,4 @@ msgstr "Dorf"
 
 #: smth
 msgid "swords_100"
-msgstr "große Truppe 100::-sword-::"
+msgstr "Große Truppe 100::-sword-::"
