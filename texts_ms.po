@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 15:10+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-08 11:10+0000\n"
+"Last-Translator: Lucas Kado <guest@example.com>\n"
+"Language-Team: Malay <http://translate.villagegamebot.tgroups.me/projects/vil"
+"lagegamebot/texts/ms/>\n"
 "Language: ms\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,50 +17,75 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
+"Tolong tuliskan maklumbalas anda mengenai bot ini pada mesej yang "
+"seterusnya::-belon-::\n"
+"Anda juga boleh terus memberi maklumbalas kepada sembang ini - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"Anda telah berhenti melanggan. Sekarang, anda tidak akan mendapat "
+"pemberitahuan dari kami lagi. Anda boleh melanggan semula dengan menaip /mula"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Tolong nilaikan bot ini"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "Terima kasih"
 
 #: smth
 msgid "help"
 msgstr ""
+"Anda sekarang sedang bermain permainan stategi pertama di Telegram. Anda "
+"boleh bercucuk tanam gandum::-roti-::, kemudian menukarkannya kepada "
+"emas::-bagduit-::, menjalankan tugasan, berperang dengan pemain lain, dan "
+"membangunkan kampung anda.\n"
+"Nikmati\n"
+"Bantuan:https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"Saluran berita - @VillageGameEn\n"
+"/silapilihbahasa - sila pilih bahasa"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"Kampung %namakampung% (Tahap %tahap%::-kampung-::, %tahap_peratus%%)\n"
+"Pekerja: %pekerja% ::-pekerja-::\n"
+"Roti: %roti% / %roti_maksimum% ::-roti-::\n"
+"Emas: %emas% ::-bagduit-:: %berlian% ::-berlian-::\n"
+"Pingat: %pingat% ::-pingat-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"Kawan anda telah ditambah. Anda menerima 1::-pekerja-:: dan 5::-bagduit-::\n"
+"Jemput kawan /jemput_kawan"
 
 #: smth
 msgid "working_yet"
 msgstr ""
+"Anda sedang bekerja. Sila tunggu sebentar. Anda boleh menjalan tugasan "
+"/tugasan"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"Anda mula bekerja dan telah menuai 60::-roti-::! Sekarang anda boleh "
+"melakukan /tugasan"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "Kod promo diterima. Emas - %emas% ::-bagduit-::"
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "Kod promo tidak sah. Anda boleh /bekerja atau menjalankan /tugasan"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "Kerja telah selesai, tuanku! Kerja - /kerja"
 
 #: smth
 msgid "delimeter"
@@ -68,18 +94,32 @@ msgstr ""
 #: smth
 msgid "tutorial_1"
 msgstr ""
+"Anda telah berjalan-jalan di padang dan menjumpai dompet yang mengandungi 51 "
+"duit syiling ::-bagduit-:: di atas jalan."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
+"Anda bertuah! Kemudian anda menjumpai dua orang petani ::-pekerja-:: "
+"::-pekerja-::. Kemudian anda telah mendapat idea yang bernas - untuk "
+"mengupah mereka dan memulakan petempatan di sini"
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"Sekarang petani petani tersebut telah mendapat pekerjaan. Baiklah, sekarang "
+"ialah masa untuk anda menuai hasil anda - 2000 ::-roti-:: untuk 20 "
+"::-bagduit-::"
 
 #: smth
 msgid "tutorial_4"
 msgstr ""
+"Tahniah! Tuaian masak mengikut masa, maka kami mencadangkan anda untuk "
+"menuaikannya secara berkala.\n"
+"Sekarang ialah masanya untuk mendapatkan duit untuk maklumat rahsia - ianya "
+"perlu untuk mencari kod rahsia and memasukkannya ke dalam permainan ini. "
+"Untuk bermula, pergi ke saluran @VillageGameEn , salin kod dari mesej yang "
+"mengandungi \\\"Kod rahsia: <kod>\\\" dan kemudiannya menghantar ke bot ini"
 
 #: smth
 msgid "tutorial_5"
