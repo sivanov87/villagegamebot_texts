@@ -24,7 +24,7 @@ msgstr "Selamat! Kamu satu-satunya user beruntung yang memainkan permainan strat
 
 #: smth
 msgid "village_description"
-msgstr "%villagename%'s Village: (Level %level%::-village-::, %level_percents%%)\n\nPekerja: %workers% ::-worker-::\nRoti: %bread% / %max_bread% ::-bread-::\nKoin: %gold% ::-moneybag-::\nMedali: %medals% ::-medal-::\n"
+msgstr "%villagename% Village: (Level %level%::-village-::, %level_percents%%)\n\nPekerja: %workers% ::-worker-::\nRoti: %bread% / %max_bread% ::-bread-::\nKoin: %gold% ::-moneybag-::\nMedali: %medals% ::-medal-::\n"
 
 #: smth
 msgid "friend_added"
