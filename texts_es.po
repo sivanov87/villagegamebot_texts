@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-08 00:38+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-08 20:45+0000\n"
+"Last-Translator: Lucas Kado <guest@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/es/>\n"
 "Language: es\n"
@@ -29,8 +29,8 @@ msgstr ""
 #: smth
 msgid "botisstopped"
 msgstr ""
-"Te das de baja. Ya no recibirás notificaciones de este bot. Siempre puedes "
-"volver a suscribirte escribiendo /start"
+"Te has dado de baja. Ya no recibirás notificaciones de este bot. Siempre "
+"puedes volver a suscribirte escribiendo /start"
 
 #: smth
 msgid "ratebot"
@@ -44,8 +44,8 @@ msgstr "¡Gracias!"
 msgid "help"
 msgstr ""
 "Estás jugando al primer juego de estrategia de Telegram. Puedes cultivar "
-"alimento::-bread-::, venderlo por oro::-moneybag-::, realizar cruzadas🚀, "
-"luchar con otros jugadores⚔ y desarrollar tu ciudad.\n"
+"trigo::-bread-::, venderlo por oro::-moneybag-::, realizar misiones🚀, luchar "
+"con otros jugadores⚔ y desarrollar tu ciudad.\n"
 "¡Diviértete!\n"
 "\n"
 "Chat de soporte: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
@@ -79,19 +79,20 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"¡Comienzas a trabajar y cosechas 60::-bread-::! Y ahora puedes realizar "
-"/quests"
+"¡Comienzas a trabajar y cosechas 60::-bread-::! Ahora puedes realizar "
+"misiones /quests"
 
 #: smth
 msgid "promocode_accept"
 msgstr "Código promocional aceptado. Oro -%gold%::-moneybag-::"
 
 #: smth
-#, fuzzy
 msgid "promocode_reject"
-msgstr "Código promocional erróneo."
+msgstr ""
+"Código promocional erróneo. Puedes trabajar /work o realizar misiones /quests"
 
 #: smth
+#, fuzzy
 msgid "work_finished"
 msgstr "¡Trabajo finalizado, mi señor! Trabajar - /work"
 
@@ -114,6 +115,7 @@ msgstr ""
 "establecer un campamento aquí."
 
 #: smth
+#, fuzzy
 msgid "tutorial_3"
 msgstr ""
 "Bien, los campesions están empleados. Por cierto, es el momento de vender tu "
@@ -140,6 +142,7 @@ msgstr ""
 "comienza a trabajar /work"
 
 #: smth
+#, fuzzy
 msgid "tutorial_4_no"
 msgstr ""
 "Has introducido un código incorrecto. Desafortunadamente, no podemos darte "
@@ -153,6 +156,7 @@ msgstr ""
 "::-moneybag-::."
 
 #: smth
+#, fuzzy
 msgid "harvested"
 msgstr ""
 "Vendiste %bread_diff% ::-bread-:: por %gold_diff% ::-moneybag-::, ¡bien!"
@@ -175,7 +179,7 @@ msgstr ""
 msgid "not_harvested"
 msgstr ""
 "Cosecha demasiado escasa. Espera hasta tener al menos 100 ::-bread-:: o "
-"trabaja - /work "
+"trabaja - /work"
 
 #: smth
 msgid "quest_1_description"
@@ -200,6 +204,7 @@ msgid "quest_1_win"
 msgstr "Tus tropas protegieron la caravana y obtuviste el oro."
 
 #: smth
+#, fuzzy
 msgid "quest_1_fail"
 msgstr ""
 "No enviaste refuerzos, y la caravana y sus defensores fueron aniquilados..."
