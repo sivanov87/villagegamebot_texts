@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 11:38+0000\n"
-"PO-Revision-Date: 2016-05-07 10:09+0000\n"
-"Last-Translator: Mossi <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-08 11:08+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/de/>\n"
 "Language: de\n"
@@ -294,11 +294,12 @@ msgid "tip_money"
 msgstr "Gold ::-moneybag-:: ist die Währung des Spiels. Du verdienst sie indem du ::-bread-:: verkaufst oder Quests 🚀 und Schlachten ⚔ gewinnst."
 
 #: smth
+#, fuzzy
 msgid "feedback"
 msgstr ""
 "Bitte schreibe dein Feedback zu dem Bot in die nächste Nachricht ::-baloon-::"
 "\n"
-"Außerdem kannst du unserem Chat beitreten: "
+"Außerdem kannst du unserem Chat beitreten:\n"
 "https://telegram.me/joinchat/B31JfT7fWt7AfsIhuMGoZg"
 
 #: smth
