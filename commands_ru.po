@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-07 22:22+0000\n"
+"PO-Revision-Date: 2016-05-07 22:41+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: Russian <http://translate.villagegamebot.tgroups.me/projects/v"
+"illagegamebot/buttons/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.7-dev\n"
 
 #: smth
 msgid "help"
@@ -41,7 +57,7 @@ msgstr "Следующая фотография"
 
 #: smth
 msgid "work"
-msgstr "🍞Работать"
+msgstr "🍞Работать!"
 
 #: smth
 msgid "village"
@@ -49,7 +65,7 @@ msgstr "Деревня"
 
 #: smth
 msgid "tutorial_1"
-msgstr "💰Взять монеты!"
+msgstr "Взять монеты!💰"
 
 #: smth
 msgid "tutorial_2"
@@ -61,7 +77,7 @@ msgstr "💰Продать урожай"
 
 #: smth
 msgid "quest_add_power"
-msgstr "🗡Отправить подмогу!"
+msgstr "Отправить подмогу! 🗡"
 
 #: smth
 msgid "quest_no_power"
@@ -77,7 +93,7 @@ msgstr "⭐️⭐️⭐️Спасти деревню"
 
 #: smth
 msgid "quests"
-msgstr "Квесты🚀"
+msgstr "🚀Квесты"
 
 #: smth
 msgid "quest_accept"
@@ -113,7 +129,7 @@ msgstr "⭐️Разогнать волков"
 
 #: smth
 msgid "refresh_data"
-msgstr "Обновить данные🔃"
+msgstr "🔃Обновить данные"
 
 #: smth
 msgid "return_to_village"
@@ -150,3 +166,7 @@ msgstr "::-diamond-::Магазин"
 #: smth
 msgid "buy_50_gold"
 msgstr "Купить 50::-moneybag-:: за 5::-diamond-::"
+
+#: smth
+msgid "chooselanguage"
+msgstr "Выберите язык"

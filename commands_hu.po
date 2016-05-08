@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-07 20:55+0000\n"
+"PO-Revision-Date: 2016-05-08 06:46+0000\n"
+"Last-Translator: Lucas Kado <guest@example.com>\n"
+"Language-Team: Hungarian <http://translate.villagegamebot.tgroups.me/projects"
+"/villagegamebot/buttons/hu/>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
+#: smth
+msgid "chooselanguage"
+msgstr "Válassz nyelvet"
+
+#: smth
+msgid "chatlink"
+msgstr "Csevegés"
+
+#: smth
+msgid "quests"
+msgstr "🚀Kalandok"
+
+#: smth
+msgid "mainmenu"
+msgstr "Menü"
+
+#: smth
+msgid "ratebot"
+msgstr "Véleményezz ::-like-::"
+
+#: smth
+msgid "cancel"
+msgstr "Mégsem"
+
+#: smth
+msgid "work"
+msgstr "🍞Munka!"
+
+#: smth
+msgid "quest_accept"
+msgstr "Kaland indítása🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Nem most"
+
+#: smth
+msgid "battles"
+msgstr "Csaták⚔"
+
+#: smth
+msgid "search_opponent"
+msgstr "Ellenfél keresése👁"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Veszni hagyom👎"
+
+#: smth
+msgid "reject"
+msgstr "Visszautasít"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Erősítést küldök!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Megtámadom!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐Farkasok"
+
+#: smth
+msgid "village"
+msgstr "Falu"
+
+#: smth
+msgid "refresh_data"
+msgstr "🔃Infók frissítése"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Elveszem a pénzt!💰"
+
+#: smth
+msgid "return_to_village"
+msgstr "A faluhoz🔙"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Találtam egy falut🏘"
+
+#: smth
+msgid "invite_friends"
+msgstr "Több munkás::-worker-::"
+
+#: smth 
+msgid "help"
+msgstr "📚Segítség"
+
+#: smth
+msgid "top"
+msgstr "🏆Toplista"
+
+#: smth
+msgid "feedback"
+msgstr "📢Visszajelzés"
+
+#: smth
+msgid "harvest"
+msgstr "Kenyér eladása💰"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Erősítés küldése! 🗡"
+
+#: smth
+msgid "quest_no_power"
+msgstr "Nincs fedezet👎"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️Karaván védelme"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Falu megvédése"
+
+#: smth
+msgid "swords_10"
+msgstr "Kevés katona 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "Sok katona 100::-sword-::"
+
+#: smth
+msgid "war_quest"
+msgstr "⚔Hadjárat⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Bolt"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Vásárolj 50::-moneybag-::t 5::-diamond-::ért"

@@ -3,11 +3,11 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: 2016-05-08 00:54+0000\n"
+"PO-Revision-Date: 2016-05-07 22:50+0000\n"
 "Last-Translator: Lucas Kado <guest@example.com>\n"
-"Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
-"illagegamebot/buttons/en/>\n"
-"Language: en\n"
+"Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
+"illagegamebot/buttons/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: smth 
 msgid "help"
-msgstr "📚help"
+msgstr "📚Ayuda"
 
 #: smth
 msgid "top"
@@ -24,11 +24,11 @@ msgstr "🏆TOP"
 
 #: smth
 msgid "chooselanguage"
-msgstr "Choose language"
+msgstr "Elige idioma"
 
 #: smth
 msgid "feedback"
-msgstr "📢Feedback"
+msgstr "📢Comentarios"
 
 #: smth
 msgid "chatlink"
@@ -36,120 +36,120 @@ msgstr "Chat"
 
 #: smth
 msgid "mainmenu"
-msgstr "Main menu"
+msgstr "Menú principal"
 
 #: smth
 msgid "ratebot"
-msgstr "Rate me ::-like-::"
+msgstr "Valórame ::-like-::"
 
 #: smth
 msgid "cancel"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 #: smth
 msgid "work"
-msgstr "🍞Work!"
+msgstr "🍞¡A trabajar!"
 
 #: smth
 msgid "quests"
-msgstr "🚀Quests"
+msgstr "🚀Cruzadas"
 
 #: smth
 msgid "quest_accept"
-msgstr "Run quest🗡"
+msgstr "Ir a la cruzada🗡"
 
 #: smth
 msgid "quest_reject"
-msgstr "Not now"
+msgstr "Mejor no"
 
 #: smth
 msgid "battles"
-msgstr "Battles⚔"
+msgstr "Batallas⚔"
 
 #: smth
 msgid "search_opponent"
-msgstr "Search opponent👁"
+msgstr "Buscar adversario👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr "Few gold👎"
+msgstr "Poco oro👎"
 
 #: smth
 msgid "reject"
-msgstr "Reject"
+msgstr "Rechazar"
 
 #: smth
 msgid "battle_add_power"
-msgstr "Send reinforcement!🗡"
+msgstr "¡Enviad refuerzos!🗡"
 
 #: smth
 msgid "battle_start"
-msgstr "Attack!⚔"
+msgstr "¡Al ataque!⚔"
 
 #: smth
 msgid "quest_3"
-msgstr "⭐️Wolves"
+msgstr "⭐️Lobos"
 
 #: smth
 msgid "village"
-msgstr "Village"
+msgstr "Pueblo"
 
 #: smth
 msgid "refresh_data"
-msgstr "🔃Update info"
+msgstr "🔃Actualizar información"
 
 #: smth
 msgid "tutorial_1"
-msgstr "Grab coins!💰"
+msgstr "¡Coge las monedas!💰"
 
 #: smth
 msgid "return_to_village"
-msgstr "To village🔙"
+msgstr "Al pueblo🔙"
 
 #: smth
 msgid "tutorial_2"
-msgstr "Found a village🏘"
+msgstr "Encuentra un pueblo🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr "Get workers::-worker-::"
+msgstr "Obtén aldeanos::-worker-::"
 
 #: smth
 msgid "harvest"
-msgstr "Sell bread💰"
+msgstr "Vender alimento💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr "Send reinforcements! 🗡"
+msgstr "¡Enviad refuerzos! 🗡"
 
 #: smth
 msgid "quest_no_power"
-msgstr "No resources👎"
+msgstr "Sin recursos👎"
 
 #: smth
 msgid "quest_1"
-msgstr "⭐️⭐️Protect the caravan"
+msgstr "⭐️⭐️Proteger la caravana"
 
 #: smth
 msgid "quest_2"
-msgstr "⭐️⭐️⭐️Save the village"
+msgstr "⭐️⭐️⭐️Salvar el pueblo"
 
 #: smth
 msgid "swords_10"
-msgstr "Small troop 10::-sword-::"
+msgstr "Tropa 10::-sword-::"
 
 #: smth
 msgid "swords_100"
-msgstr "Large troop 100::-sword-::"
+msgstr "Ejército 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr "⚔War quest⚔"
+msgstr "⚔A la guerra⚔"
 
 #: smth
 msgid "shop"
-msgstr "::-diamond-::Shop"
+msgstr "::-diamond-::Tienda"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "Buy 50::-moneybag-:: for 5::-diamond-::"
+msgstr "Comprar 50::-moneybag-:: por 5::-diamond-::"

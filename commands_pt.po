@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-07 20:55+0000\n"
+"PO-Revision-Date: 2016-05-07 23:31+0000\n"
+"Last-Translator: augusto <augusto@example.com>\n"
+"Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
+"s/villagegamebot/buttons/pt/>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
+#: smth
+msgid "mainmenu"
+msgstr "Menu principal"
+
+#: smth
+msgid "chooselanguage"
+msgstr "Escolher língua"
+
+#: smth
+msgid "chatlink"
+msgstr "Bate-papo"
+
+#: smth 
+msgid "help"
+msgstr "📚Ajuda"
+
+#: smth
+msgid "cancel"
+msgstr "Cancelar"
+
+#: smth
+msgid "work"
+msgstr "🍞Trabalhar!"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Pouco ouro👎"
+
+#: smth
+msgid "reject"
+msgstr "Rejeitar"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Mandar reforços!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Atacar!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️Lobos"
+
+#: smth
+msgid "village"
+msgstr "Vila"
+
+#: smth
+msgid "refresh_data"
+msgstr "🔃Atualizar informações"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Pegar moedas!💰"
+
+#: smth
+msgid "return_to_village"
+msgstr "Ir para a vila🔙"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Achou uma vila🏘"
+
+#: smth
+msgid "invite_friends"
+msgstr "Consiga trabalhadores::-worker-::"
+
+#: smth
+msgid "harvest"
+msgstr "Vender pão💰"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Mandar reforços! 🗡"
+
+#: smth
+msgid "quest_no_power"
+msgstr "Sem recursos👎"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️Proteger a caravana"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Salvar a vila"
+
+#: smth
+msgid "war_quest"
+msgstr "⚔Guerra⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Loja"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Comprar 50::-moneybag-:: por 5::-diamond-::"
+
+#: smth
+msgid "top"
+msgstr "🏆Ranque"
+
+#: smth
+msgid "feedback"
+msgstr "📢Dar opinião"
+
+#: smth
+msgid "ratebot"
+msgstr "Avaliar ::-like-::"
+
+#: smth
+msgid "quests"
+msgstr "🚀Missões"
+
+#: smth
+msgid "quest_accept"
+msgstr "Fazer missão🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Agora não"
+
+#: smth
+msgid "battles"
+msgstr "Batalhas⚔"
+
+#: smth
+msgid "search_opponent"
+msgstr "Procurar oponente👁"
+
+#: smth
+msgid "swords_10"
+msgstr "Pequena tropa 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "Grande tropa 100::-sword-::"
