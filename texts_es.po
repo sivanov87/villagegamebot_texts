@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-07 22:35+0000\n"
-"Last-Translator: Mossi <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-08 00:38+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/es/>\n"
 "Language: es\n"
@@ -21,8 +21,8 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
-"Por favor, escribe tus comentarios sobre el bot en el siguiente mensaje "
-"::-baloon-::\n"
+"Por favor, escribe tus comentarios y/o reseña acerca del bot en el siguiente "
+"mensaje::-baloon-::\n"
 "También puedes escribir en el chat - "
 "https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
@@ -84,9 +84,10 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr "Código promocional aceptado. Oro - -%gold%-::-moneybag-::"
+msgstr "Código promocional aceptado. Oro -%gold%::-moneybag-::"
 
 #: smth
+#, fuzzy
 msgid "promocode_reject"
 msgstr "Código promocional erróneo."
 
@@ -158,11 +159,11 @@ msgstr ""
 
 #: smth
 msgid "tutorial_3_no"
-msgstr "Es necesario recolectar la cosecha, si no se pudrirá. :("
+msgstr "Es necesario recolectar la cosecha, si no se pudrirá. :( /harvest"
 
 #: smth
 msgid "top_before"
-msgstr "Mejores jugadores ::-medal-::"
+msgstr "Mejores jugadores::-medal-::"
 
 #: smth
 msgid "need_harvest"
@@ -407,7 +408,7 @@ msgstr ""
 
 #: smth
 msgid "top_24_before"
-msgstr "Mejores jugadores en las últimas 24 horas ::-medal-::"
+msgstr "Mejores jugadores en las últimas 24 horas::-medal-::"
 
 #: smth
 msgid "top_level"
@@ -417,7 +418,7 @@ msgstr "Mejores jugadores de nivel %level%::-medal-::"
 msgid "no_money"
 msgstr ""
 "Desafortunadamente, no tienes dinero ::-moneybag-::...\n"
-"Para conseguirlo, espera a que la cosecha ::-bread-:: madure."
+"Para conseguirlo, espera a que la cosecha ::-bread-:: madure"
 
 #: smth
 msgid "no_revenge"
