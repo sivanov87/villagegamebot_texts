@@ -56,7 +56,7 @@ msgstr "::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter
 
 #: smth
 msgid "tutorial_1"
- text: "Kamu pergi ke ladang dan melihat buah dompet di jalan berisi 11 koin ::-moneybag-::."
+msgstr "Kamu pergi ke ladang dan melihat buah dompet di jalan berisi 11 koin ::-moneybag-::."
 
 #: smth
 msgid "tutorial_2"
@@ -92,7 +92,7 @@ msgstr "Pemain terbaik ::-medal-::"
 
 #: smth
 msgid "need_harvest"
- text: "Ladang siap dipanen. Sebaliknya, roti akan mulai basi."
+msgstr "Ladang siap dipanen. Sebaliknya, roti akan mulai basi."
 
 #: smth
 msgid "not_harvested"
