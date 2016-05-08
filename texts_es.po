@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 17:14+0000\n"
-"Last-Translator: guest <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-07 22:35+0000\n"
+"Last-Translator: Mossi <guest@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/es/>\n"
 "Language: es\n"
@@ -44,7 +44,15 @@ msgstr "¡Gracias!"
 msgid "help"
 msgstr ""
 "Estás jugando al primer juego de estrategia de Telegram. Puedes cultivar "
-"alimento::-bread-::, venderlos por oro::-moneybag-::, realizar cruzadas"
+"alimento::-bread-::, venderlo por oro::-moneybag-::, realizar cruzadas🚀, "
+"luchar con otros jugadores⚔ y desarrollar tu ciudad.\n"
+"¡Diviértete!\n"
+"\n"
+"Chat de soporte: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"Canal de noticias: @VillageGameEn\n"
+"\n"
+"Elegir idioma: /chooselanguage"
 
 #: smth
 msgid "village_description"
@@ -76,7 +84,7 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr "Código promocional aceptado. Oro - %gold% "
+msgstr "Código promocional aceptado. Oro - -%gold%-::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
@@ -339,7 +347,7 @@ msgstr "Battles ⚔ - Peleas con otros jugadores. ¡Busca oponentes y derrótalo
 
 #: smth
 msgid "tip_quests"
-msgstr "Cruzadas"
+msgstr "Cruzadas🚀 - oportunidades de ganar ::-moneybag-::."
 
 #: smth
 msgid "tip_sword"
@@ -361,7 +369,7 @@ msgstr ""
 "obtener ::-worker-:: invitando a tus amigos al juego.\n"
 "Por cada amigo que siga el link %reflink%, obtendrás 1 aldeano ::-worker-::."
 "\n"
-"Puedes reenviar o reescribir el mensaje anterior. "
+"Puedes reenviar o reescribir el mensaje anterior 🔝."
 
 #: smth
 msgid "template_share"
@@ -388,7 +396,8 @@ msgstr ""
 msgid "tip_money"
 msgstr ""
 "El oro ::-moneybag-:: es la moneda principal del juego. Puedes ganarlo "
-"vendiendo las cosechas ::-bread-:: y realizando y ganando cruzadas"
+"vendiendo las cosechas ::-bread-:: y realizando y ganando cruzadas🚀 y "
+"batallas⚔"
 
 #: smth
 msgid "tip_chat"
