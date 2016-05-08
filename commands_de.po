@@ -1,3 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-08 00:11+0000\n"
+"PO-Revision-Date: 2016-05-08 00:25+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
+"Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/buttons/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
 #: smth
 msgid "help"
 msgstr "📚Hilfe"
@@ -48,7 +64,7 @@ msgstr "⭐️Wölfe"
 
 #: smth
 msgid "refresh_data"
-msgstr "Info🔃"
+msgstr "🔃Info"
 
 #: smth
 msgid "tutorial_1"
@@ -105,3 +121,39 @@ msgstr "::-diamond-::Geschäft"
 #: smth
 msgid "buy_50_gold"
 msgstr "Kaufen Sie 50::-moneybag-:: für 5::-diamond-::"
+
+#: smth
+msgid "top"
+msgstr "🏆TOP"
+
+#: smth
+msgid "chooselanguage"
+msgstr "Wählen Sie die Sprache"
+
+#: smth
+msgid "feedback"
+msgstr "📢Feedback"
+
+#: smth
+msgid "chatlink"
+msgstr "Chat"
+
+#: smth
+msgid "mainmenu"
+msgstr "Hauptmenü"
+
+#: smth
+msgid "ratebot"
+msgstr "Rate"
+
+#: smth
+msgid "cancel"
+msgstr "Abbrechen"
+
+#: smth
+msgid "village"
+msgstr "Dorf"
+
+#: smth
+msgid "swords_100"
+msgstr "große Truppe 100::-sword-::"
