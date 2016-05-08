@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-08 00:11+0000\n"
-"PO-Revision-Date: 2016-05-08 13:16+0000\n"
-"Last-Translator: Lucas Kado <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-08 13:38+0000\n"
+"Last-Translator: David Lüder <david@example.com>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/buttons/de/>\n"
 "Language: de\n"
@@ -28,7 +28,7 @@ msgstr "🚀Quests"
 
 #: smth
 msgid "quest_accept"
-msgstr "Quest anfangen🗡"
+msgstr "Quest beginnen🗡"
 
 #: smth
 msgid "quest_reject"
@@ -36,7 +36,7 @@ msgstr "Nicht jetzt"
 
 #: smth
 msgid "battles"
-msgstr "Kämpfe⚔"
+msgstr "Kämpfen⚔"
 
 #: smth
 msgid "search_opponent"
@@ -44,7 +44,7 @@ msgstr "Gegner suchen👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr "Ungenügend Gold👎"
+msgstr "Zu wenig Gold👎"
 
 #: smth
 msgid "reject"
@@ -52,7 +52,7 @@ msgstr "Ablehnen"
 
 #: smth
 msgid "battle_add_power"
-msgstr "Verstärkung senden!🗡"
+msgstr "Verstärkung schicken!🗡"
 
 #: smth
 msgid "battle_start"
@@ -64,7 +64,7 @@ msgstr "⭐️Wölfe"
 
 #: smth
 msgid "refresh_data"
-msgstr "🔃Info aktualisieren"
+msgstr "🔃Aktualisieren"
 
 #: smth
 msgid "tutorial_1"
@@ -80,7 +80,7 @@ msgstr "Dorf gefunden!🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr "Arbeiter bekommen::-worker-::"
+msgstr "Mehr Arbeiter::-worker-::"
 
 #: smth
 msgid "harvest"
@@ -88,7 +88,7 @@ msgstr "Brot verkaufen💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr "Verstärkungen senden! 🗡"
+msgstr "Verstärkungen schicken! 🗡"
 
 #: smth
 msgid "quest_no_power"
@@ -120,11 +120,11 @@ msgstr "::-diamond-::Laden"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "Kaufen Sie 50::-moneybag-:: für 5::-diamond-::"
+msgstr "50::-moneybag-:: für 5::-diamond-:: kaufen"
 
 #: smth
 msgid "top"
-msgstr "🏆Beste Spieler"
+msgstr "🏆TOP"
 
 #: smth
 msgid "chooselanguage"
@@ -132,7 +132,7 @@ msgstr "Sprache wählen"
 
 #: smth
 msgid "feedback"
-msgstr "📢Vorschläge"
+msgstr "📢Feedback"
 
 #: smth
 msgid "chatlink"
