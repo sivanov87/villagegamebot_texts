@@ -1,318 +1,247 @@
-msgid ""
-msgstr ""
-"PO-Revision-Date: 2016-05-06 05:40+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: id\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.7-dev\n"
-
 #: smth
 msgid "chooselanguage"
-msgstr ""
+msgstr "Pilih Bahasamu\r\nВыберите язык бота"
 
 #: smth
 msgid "feedback"
-msgstr ""
+msgstr "Silahkan tulis umpan balik tentang bot di pesan selanjutnya.::-baloon-::\nKamu juga bisa gabung chat forum Village Game disini: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
-msgstr ""
+msgstr "Kamu telah berhenti bermain, mulai saat ini kamu tidak akan menerima pemberitahuan dari Bot. Kamu bisa mendaftar lagi dengan mengetik /start."
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Mohon untuk memberikan penilaian pada Bot untuk perkembangan Village Game."
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "Terima Kasih!"
 
 #: smth
 msgid "help"
-msgstr ""
+msgstr "Selamat! Kamu satu-satunya user beruntung yang memainkan permainan strategi pertama di Telegram. Kamu bisa mulai membuat::-bread-::, Jual rotinya untuk mendapatkan harta ::-moneybag-::, run quests 🚀, Adu kekuatan dengan pemain lainnya ⚔, dan kembangkan desamu.\nSelamat berjuang!\n\nBergabung forum Chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\nChannel: @VillageGameEn\n\n/chooselanguage: Pilih bahasa/выберите язык бота"
 
 #: smth
 msgid "village_description"
-msgstr ""
+msgstr "%villagename%'s Village: (Level %level%::-village-::, %level_percents%%)\n\nPekerja: %workers% ::-worker-::\nRoti: %bread% / %max_bread% ::-bread-::\nKoin: %gold% ::-moneybag-::\nMedali: %medals% ::-medal-::\n"
 
 #: smth
 msgid "friend_added"
-msgstr ""
+msgstr "Seorang teman berhasil ditambahkan. Kamu mendapatkan 1 ::-worker-:: dan 5 ::-moneybag-::"
 
 #: smth
 msgid "working_yet"
-msgstr ""
+msgstr "Pekerjamu sedang bekerja. Tunggu beberapa saat."
 
 #: smth
 msgid "work_started"
-msgstr ""
+msgstr "Pabrik roti mulai beroperasi untuk menhasilkan 20 ::-bread-::!"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "Kode promo diterima. Gold: %gold%"
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "Kode promo tidak berlaku. :/"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "Roti siap dijual, Juragan"
 
 #: smth
 msgid "delimeter"
-msgstr ""
+msgstr "::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::"
 
 #: smth
 msgid "tutorial_1"
-msgstr ""
+ text: "Kamu pergi ke ladang dan melihat buah dompet di jalan berisi 11 koin ::-moneybag-::."
 
 #: smth
 msgid "tutorial_2"
-msgstr ""
+msgstr "Itu sebuah keberuntungan! Kemudian, kamu melihat dua petani ::-worker-::::-worker-::. Dan kamu memiliki ide brilian — untuk menyewa mereka dan untuk membangun perkampungan disini."
 
 #: smth
 msgid "tutorial_3"
-msgstr ""
+msgstr "Yeah, para petani dipekerjakan. Sekarang kamu dapat menjual hasil panenmu sejumlah 2000 ::-bread-:: kamu bisa mengumpulkan 20 ::-moneybag-:: dari."
 
 #: smth
 msgid "tutorial_4"
-msgstr ""
+msgstr "Luarr biasaa! Ladang semakin berkembang seiring berjalannya waktu, kami menyarankan kamu untuk masuk ke permainan dan segera panen.\r\nSekarang adalah waktu yang tepat mendapatkan uang untuk informasi rahasia — Kamu butuh kode rahasia dan masukkan dalam permainan. Untuk mendapatkannya masuk ke @VillageGameEn channel, salin kode dari pesan yang terdapat pada channel tersebut \"Secret code: <code>\" dan kirim ke Bot."
 
 #: smth
 msgid "tutorial_5"
-msgstr ""
+msgstr "Kabar gembira!Kamu memasukkan sebuah kode dan mendapatkan uang. Untuk selanjutnya, kamu dapat menemukan kode-kodenya di channel.\r\nSekarang kamu butuh untuk mengembangkan desa. Pertama, rekrutlah pekerja-pekerja baru. Caranya undang teman untuk ikut bermain game ini melalui link %reflink%. Tiap satu temanmu yang bergabung, kamu mendapatkan satu pekerja ::-worker-:: dan 3 ::-moneybag-::."
 
 #: smth
 msgid "tutorial_4_no"
-msgstr ""
+msgstr "Kamu baru saja memasukkan sebuah kode yang salah. Sayangnya, kami tidak bisa mencairkan uangnya :C.\n\nUntuk berikutnya, kamu bisa mendapatkan kode-kode di channel atau tanya temanmu.\nSekarang adalah waktu yang tepat untuk mengembangkan ladang. Pertama, lakukan perekrutan pekerja baru. Caranya undang temanmu untuk bergabung melalui link %reflink%. Tiap satu teman yang bergabung, kamu mendapatkan satu pekerja ::-worker-:: dan 3 ::-moneybag-::."
 
 #: smth
 msgid "harvested"
-msgstr ""
+msgstr "Kamu telah menjual %bread_diff% ::-bread-:: untuk %gold_diff% ::-moneybag-::, Mantap!"
 
 #: smth
 msgid "tutorial_3_no"
-msgstr ""
+msgstr "Ini membutuhkan gabungan dari ladang, sebaliknya hal itu akan membuat ladang membusuk. :C"
 
 #: smth
-msgid "top_before"
-msgstr ""
+code: "top_before"
+msgstr "Pemain terbaik ::-medal-::"
 
 #: smth
 msgid "need_harvest"
-msgstr ""
+ text: "Ladang siap dipanen. Sebaliknya, roti akan mulai basi."
 
 #: smth
 msgid "not_harvested"
-msgstr ""
+msgstr "Hasil ladang terlalu sedikit. Tunggu hingga sedikitnya ada 100 ::-bread-::."
 
 #: smth
 msgid "quest_1_description"
-msgstr ""
+msgstr "Kafilah berjalan mendekati desamu. Dia membutuhkan perlindungan. Untuk melindunginya %start_power% ::-sword-::. Hasil penjagaan kamu mendapatkan %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_1_good"
-msgstr ""
+msgstr "Keren! Kafilah berjalan tanpa ada gangguan, dan kamu mendapatkan keuntungan!"
 
 #: smth
 msgid "quest_1_question"
-msgstr ""
+msgstr "Kafilah baru saja diserang dan pengawalmu mencoba melindunginya. Kirim bantuan %add_power% ::-sword-:: atau mereka akan gugur!"
 
 #: smth
 msgid "quest_1_win"
-msgstr ""
+msgstr "Pasukanmu berhasil melindungi kafilan dan kamu mendapatkan emas."
 
 #: smth
 msgid "quest_1_fail"
-msgstr ""
+msgstr "Kamu tidak melakukan bala bantuan, dan kafilah bersama dengan para pengawal telah dimusnahkan ...."
 
 #: smth
 msgid "quest_2_description"
-msgstr ""
+msgstr "Para maling menyerbu desa. Kepala desa meminta bantuan — untuk membubarkan para maling kamu harus mengirim pasukan tentara pada %start_power% ::-sword-::. Kemenangan akan mendapatkan %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_2_good"
-msgstr ""
+msgstr "Para maling ternyata pengecut! Mereka lari terbirit-birit, ketika melihat pasukan tentaramu yang gagah. Bukan pekerjaan sulit, dan ketua adat menjanjikanmu emas."
 
 #: smth
 msgid "quest_2_question"
-msgstr ""
+msgstr "Para maling terlalu kuat gan — mereka mengambil pasukanmu untuk bergabung ke komplotannya. Bila ingin menang, kamu harus merekrut pasukan tambahan di %add_power% ::-sword-::."
 
 #: smth
 msgid "quest_2_win"
-msgstr ""
+msgstr "Pasukanmu datang untuk misi penyelamatan, menangkap para perampok, dan kamu mendapatkan sekarung emas!"
 
 #: smth
 msgid "quest_2_fail"
-msgstr ""
+msgstr "Yahhh, pasukanmu telah dikalahkan...."
 
 #: smth
 msgid "quests"
-msgstr ""
+msgstr "Kamu bisa melakukan penyelidikan, yang mana kamu akan dibayar.\r\nUntuk merekrut 1 ::-sword-:: kamu membutuhkan 1 ::-moneybag-::."
 
 #: smth
 msgid "quest_no_money"
-msgstr ""
+msgstr "Kamu tidak punya uang untuk membayar penyelidikan. Ajak temanmu, cari kode promosi di channel, panen hasil ladang — kamu butuh uang!"
 
 #: smth
 msgid "battles"
-msgstr ""
+msgstr "Kamu bisa menyerang pemain lainnya untuk mendapatkan banyak medali ::-medal-::. Untuk melakukan ini, kamu harus mencari lawan dan serang mereka.\r\nUntuk tiap pencariannya, kamu membayar 1 ::-moneybag-:: tanpa memperdulikan pengeluarannya."
 
 #: smth
 msgid "battle_start"
-msgstr ""
+msgstr "Lawanmu adalah %villagename%, level %level%. Untuk menyerang, kamu butuh %start_power% ::-sword-::\r\nKamu akan mengumpulkan emas %gold_diff% ::-moneybag-:: dan %medals_diff% ::-medal-::.\r\n1 ::-sword-:: costs 1 ::-moneybag-::."
 
 #: smth
 msgid "battle_question"
-msgstr ""
+msgstr "Selama pertarungan, lawan melakukan wajib militer, yang mana hasilnya untuk mengepung pasukanmu. Untuk menyelamatkanmu, kamu butuh bala bantuan di %add_power% ::-sword-::, sebaliknya, kamu dan para pasukannya akan gugur di medan tempur!"
 
 #: smth
 msgid "battle_win"
-msgstr ""
+msgstr "Yeay? Kamu memenangkan pertarungan dan mendapatkan %gold% ::-moneybag-:: dan %medals% ::-medal-::."
 
 #: smth
 msgid "battle_fail"
-msgstr ""
+msgstr " Para pasukan kita mengambil dari musuh paling superior — itu kekalahan menyakitkan!"
 
 #: smth
 msgid "battle_good"
-msgstr ""
+msgstr "Pasukan kita, tanpa kesulitan, menyerbu desa and mengumpulkan hasil rampasan %gold% ::-moneybag-:: dan mendapatkan %medals% ::-medal-::."
 
 #: smth
 msgid "battle_no_money"
-msgstr ""
+msgstr "Kamu tidak bisa, ketika kamu baca badminton. :C"
 
 #: smth
 msgid "quest_3_description"
-msgstr ""
+msgstr "Penduduk yang merawat ladang dicabik-cabik oleh Serigala — mereka mencuri ternak. Dia menawar %gold% ::-moneybag-:: untuk bantuanmu %start_power% ::-sword-::."
 
 #: smth
 msgid "quest_3_good"
-msgstr ""
+msgstr "serigala kabur ketika hanya memandangku. Kamu mengumpulkan uang dg mudah.::-moneybag-::."
 
 #: smth
 msgid "quest_3_question"
-msgstr ""
+msgstr "Pasukanmu tidak dapat mengatasi, dan jika kamu tidak mengirim bala bantuan %add_power% ::-sword-::, kamu tidak mendapatkan apa-apa."
 
 #: smth
 msgid "quest_3_fail"
-msgstr ""
+msgstr "Kamu tidak bisa membantu petani... Maaf."
 
 #: smth
 msgid "quest_3_win"
-msgstr ""
+msgstr "Bala bantuan berhasil untuk menumpas para serigala. Para penduduk membayar penuh."
 
 #: smth
 msgid "tip_bread"
-msgstr ""
+msgstr "Pekerja ::-worker-:: hasil ladang ::-bread-:: untuk kamu, dan kamu menjualnya untuk ::-moneybag-::."
 
 #: smth
 msgid "tip_worker"
-msgstr ""
+msgstr "Pekerja ::-worker-:: Perkembangan ::-bread-::. Jumlah mereka dapat ditingkatkan dengan mengundang temanmu untuk join dalam permainan ini melalui /invite_friends."
 
 #: smth
 msgid "tip_medal"
-msgstr ""
+msgstr "Medali ::-medal-:: ukuran keberanianmu. Kamu mendapatkan medali ⚔."
 
 #: smth
 msgid "tip_level"
-msgstr ""
+msgstr "Village Level ::-village-:: - indikator perkembangan, itu meningkatkan dari hasil pendapatan ::-moneybag-::, direkrut ::-worker-:: dan dikoleksi ::-medal-::"
 
 #: smth
 msgid "tip_battles"
-msgstr ""
+msgstr "Bertarung⚔ - bertarung dengan pemain lainnya. Cari musuhmu dan kalahkan mereka!"
 
 #: smth
 msgid "tip_quests"
-msgstr ""
+msgstr "Quests🚀 - kesempatan untuk kumpulkan uang ::-moneybag-::."
 
 #: smth
 msgid "tip_sword"
-msgstr ""
+msgstr "Dalam pertarungan dan penyelidikan, kamu butuh untuk merekrut prajurit bayaran: ::-sword-::.\r\n1 ::-sword-:: costs 1 ::-moneybag-::."
 
 #: smth
 msgid "tip_promocode"
-msgstr ""
+msgstr "Kamu bisa dapatkan ::-moneybag-::s dengan sebuah kode promo. Temukan kodenya dan segera kirim ke Bot."
 
 #: smth
 msgid "invite_friends"
-msgstr ""
+msgstr "Pekerja ::-worker-:: Sumber daya manusia untuk kembangkan desamu. Mereka bekerja untuk hasilkan ::-bread-::, kamu jualnya untuk dapatkan koin emas ::-moneybag-::. Kamu bisa dapatkan ::-worker-:: dengan mengundang temanmu untuk ikut bermain.\nSetiap teman yang berhasil gabung melalui link %reflink%, kamu akan mendapatkan 1 pekerja ::-worker-::.\nKamu bisa mengetik atau mem-forward linknya 🔝."
 
 #: smth
 msgid "template_share"
-msgstr ""
+msgstr "Bantuan — Klik link %reflink%, yang mana akan mendapatkan pekerja baru ::-worker-:: dan emas ::-moneybag-:: Permainan strategi pertama yang ada di Telegram.\nYuk gabung — di permainan yang bikin kamu jadi pengusaha dan pembela masyarakat ::-baloon-::."
 
 #: smth
 msgid "defense_win"
-msgstr ""
+msgstr "Kamu diserang oleh %villagename% of level %level% ::-village-::. Dia menghabiskan %power% ::-sword-:: tetapi tidak berhasil mengalahkanmu. Yeay!.\r\n Kamu menang!"
 
 #: smth
 msgid "defense_fail"
-msgstr ""
+msgstr "Kamu diserang oleh %villagename% of level %level% ::-village-::. Dia menghabiskan %power% ::-sword-:: untuk mengalahkanmu dan mengambil %gold% ::-moneybag-::."
 
 #: smth
 msgid "tip_money"
-msgstr ""
-
-#: smth
-msgid "tip_chat"
-msgstr ""
-
-#: smth
-msgid "top_24_before"
-msgstr ""
-
-#: smth
-msgid "top_level"
-msgstr ""
-
-#: smth
-msgid "no_money"
-msgstr ""
-
-#: smth
-msgid "no_revenge"
-msgstr ""
-
-#: smth
-msgid "friend_inactive"
-msgstr ""
-
-#: smth
-msgid "friend_return"
-msgstr ""
-
-#: smth
-msgid "war_quest"
-msgstr ""
-
-#: smth
-msgid "swords_added"
-msgstr ""
-
-#: smth
-msgid "shop"
-msgstr ""
-
-#: smth
-msgid "gold_is_bought"
-msgstr ""
-
-#: smth
-msgid "no_diamonds"
-msgstr ""
-
-#: smth
-msgid "it"
-msgstr ""
-
-#: smth
-msgid "pt"
-msgstr ""
-
-#: smth
-msgid "ge"
-msgstr ""
+msgstr "Emas ::-moneybag-:: adalah alat tukar utama pada permainan ini. Kamu bisa mendapatkannya dengan memproduksi dan menjual ::-bread-:: dan keikutsertaan dalam quest 🚀 and pertarungan ⚔."
