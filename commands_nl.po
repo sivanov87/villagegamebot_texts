@@ -3,11 +3,153 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-10 20:50+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Dutch <http://translate.villagegamebot.tgroups.me/projects/vil"
+"lagegamebot/buttons/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
+#: smth 
+msgid "help"
+msgstr "help"
+
+#: smth
+msgid "top"
+msgstr "Top"
+
+#: smth
+msgid "chooselanguage"
+msgstr "kies uw taal"
+
+#: smth
+msgid "feedback"
+msgstr "feedback"
+
+#: smth
+msgid "chatlink"
+msgstr "Chat"
+
+#: smth
+msgid "mainmenu"
+msgstr "Hoofdmenu"
+
+#: smth
+msgid "ratebot"
+msgstr "Beoordeel mij ::-like-::"
+
+#: smth
+msgid "cancel"
+msgstr "Annuleren"
+
+#: smth
+msgid "work"
+msgstr "Werk!"
+
+#: smth
+msgid "quests"
+msgstr "speurtocht"
+
+#: smth
+msgid "quest_accept"
+msgstr "Voer speurtocht uit"
+
+#: smth
+msgid "quest_reject"
+msgstr "Niet nu"
+
+#: smth
+msgid "battles"
+msgstr "Veldslagen"
+
+#: smth
+msgid "search_opponent"
+msgstr "Zoek tegenstander"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Weinig goud"
+
+#: smth
+msgid "reject"
+msgstr "Afwijzen"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Versterking sturen"
+
+#: smth
+msgid "battle_start"
+msgstr "Aanvallen!"
+
+#: smth
+msgid "quest_3"
+msgstr "Wolven"
+
+#: smth
+msgid "village"
+msgstr "Dorp"
+
+#: smth
+msgid "refresh_data"
+msgstr "Ververs info"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Pak munten!"
+
+#: smth
+msgid "return_to_village"
+msgstr "Naar het dorp"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Dorp gevonden"
+
+#: smth
+msgid "invite_friends"
+msgstr "Krijg arbeiders::-worker-::"
+
+#: smth
+msgid "harvest"
+msgstr "Verkoop brood"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Stuur versterking!"
+
+#: smth
+msgid "quest_no_power"
+msgstr "Geen middelen"
+
+#: smth
+msgid "quest_1"
+msgstr "Bescherm de karavaan"
+
+#: smth
+msgid "quest_2"
+msgstr "Red het dorp"
+
+#: smth
+msgid "swords_10"
+msgstr "Klein leger 10::-sword-::"
+
+#: smth
+msgid "swords_100"
+msgstr "Groot leger 100::-sword-::"
+
+#: smth
+msgid "war_quest"
+msgstr "Oorlogsspeurtocht"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Winkel"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "Koop 50::-moneybag-:: voor 5::-diamond-::"
