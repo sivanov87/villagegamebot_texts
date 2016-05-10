@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-10 20:50+0000\n"
+"PO-Revision-Date: 2016-05-10 20:52+0000\n"
 "Last-Translator: guest <guest@example.com>\n"
 "Language-Team: Dutch <http://translate.villagegamebot.tgroups.me/projects/vil"
 "lagegamebot/buttons/nl/>\n"
@@ -84,7 +84,7 @@ msgstr "Versterking sturen"
 
 #: smth
 msgid "battle_start"
-msgstr "Aanvallen!"
+msgstr "Aanvallen!⚔"
 
 #: smth
 msgid "quest_3"
@@ -100,7 +100,7 @@ msgstr "Ververs info"
 
 #: smth
 msgid "tutorial_1"
-msgstr "Pak munten!"
+msgstr "Pak munten!💰"
 
 #: smth
 msgid "return_to_village"
@@ -120,7 +120,7 @@ msgstr "Verkoop brood"
 
 #: smth
 msgid "quest_add_power"
-msgstr "Stuur versterking!"
+msgstr "Stuur versterking! 🗡"
 
 #: smth
 msgid "quest_no_power"
