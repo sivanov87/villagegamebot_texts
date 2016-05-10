@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-08 13:31+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-10 14:28+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Simplified Chinese <http://translate.villagegamebot.tgroups.me"
+"/projects/villagegamebot/texts/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,279 +16,357 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
+"请在下一段消息中留下您的意见::-baloon-::\n"
+"你也可以把意见发到聊天室 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
-msgstr ""
+msgstr "你已取消订阅。你现在不会再收到相关的通知。你可以随时输入 /start 命令重新登入"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "请给本bot打分"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "非常感谢！"
 
 #: smth
 msgid "help"
 msgstr ""
+"你正在玩的是Telegram上的第一款策略游戏。你可以种植农作物生产::-bread-::，用其换取金钱::-moneybag-::，执行任务🚀，与其他玩"
+"家战斗⚔，同时壮大你的村子。\n"
+"祝你玩的开心！\n"
+"\n"
+"聊天支持：https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"新闻频道 - @VillageGameEn\n"
+"\n"
+"/chooselanguage - 选择语言"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"%villagename%的村子（%level%级::-village-::，%level_percents%%）\n"
+"\n"
+"工人：%workers% ::-worker-::\n"
+"面包：%bread% / %max_bread% ::-bread-::\n"
+"金钱：%gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"勋章：%medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"一名好友接受了你的邀请。你得到了1::-worker-::和5::-moneybag-::\n"
+"邀请好友 /invite_friends"
 
 #: smth
 msgid "working_yet"
-msgstr ""
+msgstr "你还在干活。请稍等片刻。你可以先去执行任务 /quests"
 
 #: smth
 msgid "work_started"
-msgstr ""
+msgstr "你开始干活了，还收获了60::-bread-::！现在你可以去做一下任务  /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "收到推广码。金钱 - %gold%"
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "推广码错误。你可以 /work 或执行 /quests"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "老爷！活儿干完了。接着干 - /work"
 
 #: smth
 msgid "tutorial_1"
-msgstr ""
+msgstr "你去了趟田里。路上捡到了一袋钱，有51::-moneybag-::。"
 
 #: smth
 msgid "tutorial_2"
-msgstr ""
+msgstr "真走运！然后你遇到了两个::-worker-::::-worker-::。你心生妙计 - 雇佣他们帮你在这里建造家园。"
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"就这样，你雇了两名工人。\n"
+"顺便提醒一下，是时候该把你的2000::-bread-::卖掉了，你可以获利20::-moneybag-::。"
 
 #: smth
 msgid "tutorial_4"
 msgstr ""
+"干得好！农作物会随时间慢慢成熟。所以建议你定时回来收割它们，做成面包。\n"
+"现在是时候用秘密情报去挣钱了。 - 你要找到某些密码并在这里输入它们。你可以从 @VillageGameEn 频道开始，复制那些写着“Secret "
+"code: <code>”的消息，然后发给我。"
 
 #: smth
 msgid "tutorial_5"
 msgstr ""
+"干得好！农作物会随时间慢慢成熟，所以建议你定时回来收割它们，做成面包。\n"
+"现在你需要壮大你的村子。首先，雇佣更多的工人能为你的村子增加动力。你可以通过这个链接 %reflink% "
+"邀请好友加入游戏。每加入一个好友，都能给你增加一名工人::-worker-:: 和5::-moneybag-::。 你也可以先开始干活 /work"
 
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
+"你输入了一个错误的密码，无法给你充值:(\n"
+"\n"
+"以后你可以从各个频道或朋友那里得到密码。\n"
+"现在你需要壮大你的村子。首先，雇佣更多的工人能为你的村子增加动力。你可以通过这个链接 %reflink% "
+"邀请好友加入游戏。每加入一个好友，都能给你增加一名工人::-worker-:: 和5::-moneybag-::。"
 
 #: smth
 msgid "harvested"
-msgstr ""
+msgstr "你卖掉了%bread_diff% ::-bread-:: ，挣到了%gold_diff% ::-moneybag-::，太好了！"
 
 #: smth
 msgid "tutorial_3_no"
-msgstr ""
+msgstr "该收割庄稼做成面包了，不然都要烂掉了。:( /harvest"
 
 #: smth
 msgid "top_before"
-msgstr ""
+msgstr "最佳玩家::-medal-::"
 
 #: smth
 msgid "need_harvest"
-msgstr ""
+msgstr "你的农仓里已经堆满了面包。是时候该把它们卖掉了，否则都要霉掉了。- /harvest"
 
 #: smth
 msgid "not_harvested"
-msgstr ""
+msgstr "面包太少了。请等到至少有100::-bread-::再卖出。你可以先去干活 - /work"
 
 #: smth
 msgid "quest_1_description"
 msgstr ""
+"一支商队从你的村子附近经过。他们请你做保镖。这需要%start_power% ::-sword-::。你可以因此赚到%gold% "
+"::-moneybag-::。"
 
 #: smth
 msgid "quest_1_good"
-msgstr ""
+msgstr "太棒了！那支商队安全地通过，而你很高兴挣到了钱！"
 
 #: smth
 msgid "quest_1_question"
-msgstr ""
+msgstr "商队遭到了攻击，你派出的保镖要撑不住了。增援%add_power% ::-sword-::，否则他们死定了。"
 
 #: smth
 msgid "quest_1_win"
-msgstr ""
+msgstr "你的人马保护了商队，而你也拿到了报酬。"
 
 #: smth
 msgid "quest_1_fail"
-msgstr ""
+msgstr "你没有增援，那只商队和你派出的保镖们都被消灭了..."
 
 #: smth
 msgid "quest_2_description"
 msgstr ""
+"强盗袭击了一个村子。他们的村长向你求援 - 你需要派遣%start_power% "
+"::-sword-::来赶走那些强盗。事成后会有一笔可观的报酬，%gold% ::-moneybag-::。"
 
 #: smth
 msgid "quest_2_good"
-msgstr ""
+msgstr "这些强盗简直就是些废物！他们看到你的人马就跑了。这太容易了，不过村长还是把之前约定好的酬金给了你。"
 
 #: smth
 msgid "quest_2_question"
-msgstr ""
+msgstr "这些强盗还真厉害 - 他们把你的人马包围了。为了获得胜利，你还需要再增派%add_power% ::-sword-::。"
 
 #: smth
 msgid "quest_2_win"
-msgstr ""
+msgstr "你增援的人马赶到，消灭了所有强盗，你还拿到了可观的报酬！"
 
 #: smth
 msgid "quest_2_fail"
-msgstr ""
+msgstr "你的人马被杀的片甲不留..."
 
 #: smth
 msgid "quests"
 msgstr ""
+"你可以选择一项任务，任何一项都要花钱。\n"
+"招募1 ::-sword-:: 你要花掉1 ::-moneybag-::。"
 
 #: smth
 msgid "quest_no_money"
 msgstr ""
+"你的钱不够去完成任务。邀请好友( /invite_friends )、寻找推广码( @VillageGameEn )，或者收割庄稼制作面包以赚钱 - "
+"没钱是万万不能的！"
 
 #: smth
 msgid "battles"
 msgstr ""
+"你可以同其他玩家战斗，来赢得勋章::-medal-::。因此你需要找到对手并攻击他。\n"
+"无论胜负，你每一次寻找都需要支付1 ::-moneybag-::。"
 
 #: smth
 msgid "battle_start"
 msgstr ""
+"你的对手是%villagename%，%level%级。你需要%start_power% ::-sword-::去进攻\n"
+"你将会获得%gold_diff% ::-moneybag-::和%medals_diff% ::-medal-::。\n"
+"1 ::-sword-:: 花费 1 ::-moneybag-::。"
 
 #: smth
 msgid "battle_question"
-msgstr ""
+msgstr "在战斗中，你的对手调集民兵围困住了我军。要突破重围，你需要再增援%add_power%::-sword-::，否则你的军队会被全歼！"
 
 #: smth
 msgid "battle_win"
-msgstr ""
+msgstr "你战胜了对手，并得到了%gold% ::-moneybag-:: 和 %medals% ::-medal-::。"
 
 #: smth
 msgid "battle_fail"
-msgstr ""
+msgstr "我们的人马逃出了敌人优势兵力的围困，损失惨重！"
 
 #: smth
 msgid "battle_good"
-msgstr ""
+msgstr "我们的人马所向披靡，劫掠村子得到了%gold%::-moneybag-:: 和 %medals%::-medal-::。"
 
 #: smth
 msgid "battle_no_money"
-msgstr ""
+msgstr "你无法在增派人马了。战争不是穷人玩得起的，你没钱了。:("
 
 #: smth
 msgid "quest_3_description"
 msgstr ""
+"一个偏远农场的村民被狼群骚扰 - 偷走了他的牛。他主动提出要付给你%gold% ::-moneybag-:: ，求你派出%start_power% "
+"::-sword-::帮助他。"
 
 #: smth
 msgid "quest_3_good"
-msgstr ""
+msgstr "狼群一看到你就跑掉了。你轻轻松松就赚到了钱::-moneybag-::。"
 
 #: smth
 msgid "quest_3_question"
-msgstr ""
+msgstr "我们的阵容应付不了，如果你不能再增援%add_power% ::-sword-::，就啥也得不到了。"
 
 #: smth
 msgid "quest_3_fail"
-msgstr ""
+msgstr "你爱莫能助...实在抱歉。"
 
 #: smth
 msgid "quest_3_win"
-msgstr ""
+msgstr "援军驱散了狼群。村民支付了你全额的酬金。"
 
 #: smth
 msgid "tip_bread"
-msgstr ""
+msgstr "工人 ::-worker-:: 帮你收割庄稼制作面包 ::-bread-::，而你把面包卖掉获取金钱 ::-moneybag-::。"
 
 #: smth
 msgid "tip_worker"
-msgstr ""
+msgstr "工人::-worker-::会种庄稼，做面包::-bread-::。你可以邀请好友 /invite_friends 得到更多工人"
 
 #: smth
 msgid "tip_medal"
-msgstr ""
+msgstr "勋章 ::-medal-:: 衡量你的勇气。你可以通过战斗⚔获得"
 
 #: smth
 msgid "tip_level"
 msgstr ""
+"村子的级别 ::-village-:: - 是发展程度的指标，通过赚钱 ::-moneybag-::、雇佣 ::-worker-:: 以及获得 "
+"::-medal-:: 可以提升等级"
 
 #: smth
 msgid "tip_battles"
-msgstr ""
+msgstr "战斗⚔ - 与其他玩家开战。找到对手然后打败他们！"
 
 #: smth
 msgid "tip_quests"
-msgstr ""
+msgstr "任务🚀 - 赚钱 ::-moneybag-::的好机会。"
 
 #: smth
 msgid "tip_sword"
 msgstr ""
+"在战斗和任务中，你需要招募佣兵::-sword-::。\n"
+"1 ::-sword-:: 花费 1 ::-moneybag-::"
 
 #: smth
 msgid "tip_promocode"
-msgstr ""
+msgstr "你可以通过输入推广码得到::-moneybag-::。四处寻找它们（例如 @VillageGameEn ），然后发给我。"
 
 #: smth
 msgid "invite_friends"
 msgstr ""
+"工人::-worker-::是村子的原动力。他们会种庄稼做::-bread-::，帮你带来收入::-moneybag-::。\n"
+"你可以通过邀请好友加入游戏得到新工人::-worker-::。\n"
+"你可以通过这个链接 %reflink% 邀請好友加入游戏，\n"
+"每一个好友的加入，都能为你帶來一个新的工人::-worker-::。\n"
+"你可以把上面这段消息发给好友"
 
 #: smth
 msgid "template_share"
 msgstr ""
+"都来帮帮我 - 到 %reflink% 加入Telegram上的第一款策略游戏，这样我就能得到新工人::-worker-:: 及金钱 "
+"::-moneybag-::。\n"
+"这个游戏很好玩。::-baloon-::"
 
 #: smth
 msgid "defense_win"
 msgstr ""
+"你被%level% 级的%villagename%  ::-village-::偷袭了。他派出%power% ::-sword-::攻打你，不过失败了。"
+"\n"
+"你贏了！"
 
 #: smth
 msgid "defense_fail"
 msgstr ""
+"你被%level%的%villagename% ::-village-:: 偷袭了。他派了%power% "
+"::-sword-::击败了你，还从你的村子抢走了%gold% ::-moneybag-::。"
 
 #: smth
 msgid "tip_money"
-msgstr ""
+msgstr "金钱::-moneybag-:: 是本游戏的主要货币。你可通过种庄稼，卖::-bread-::以及完成任务获得金钱"
 
 #: smth
 msgid "tip_chat"
-msgstr ""
+msgstr "欢迎加入支持聊天室 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "top_24_before"
-msgstr ""
+msgstr "最近24小时的最佳玩家::-medal-::"
 
 #: smth
 msgid "top_level"
-msgstr ""
+msgstr "最佳%level%级玩家::-medal-::"
 
 #: smth
 msgid "no_money"
 msgstr ""
+"太可惜了，你没钱::-moneybag-::了...\n"
+"要得到钱 - 等着面包::-bread-::做好吧"
 
 #: smth
 msgid "no_revenge"
-msgstr ""
+msgstr "你不能找他报仇。"
 
 #: smth
 msgid "war_quest"
 msgstr ""
+"上次的密码: AWARQUEST2DONEURAYA\n"
+"\n"
+"敌人已经聚集了强大的军队压境而来。你越快征募到民兵，你就能越容易战胜敌人。\n"
+"为了赢得胜利，必需招募到100 000::-sword-:: 以及至少1000名玩家::-village-::加入战争。\n"
+"战胜后将能得到价值110::-moneybag-::的推广码 - 去战斗吧！\n"
+"1::-sword-:: = 1::-moneybag-::\n"
+"\n"
+"军队: %swords%::-sword-:: (%swords_percents%%)\n"
+"你的人马: %your_swords%::-sword-:: (%your_swords_percents%%)\n"
+"同伴: %villages%::-village-::(%villages_percents%%)"
 
 #: smth
 msgid "swords_added"
-msgstr ""
+msgstr "你已增援%swords%::-sword-:: ！"
 
 #: smth
 msgid "shop"
 msgstr ""
+"你可以在商店中找到好货 :)\n"
+"現在你可以用5颗钻石::-diamond-::兑换50::-moneybag-::"
 
 #: smth
 msgid "gold_is_bought"
-msgstr ""
+msgstr "你用5::-diamond-::兑换了50::-moneybag-::"
 
 #: smth
 msgid "no_diamonds"
-msgstr ""
+msgstr "你沒有足够的钻石::-diamonds-::去完成这次交易 :("
