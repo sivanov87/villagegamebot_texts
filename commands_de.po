@@ -1,10 +1,10 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-08 00:11+0000\n"
-"PO-Revision-Date: 2016-05-08 13:38+0000\n"
-"Last-Translator: David Lüder <david@example.com>\n"
+"PO-Revision-Date: 2016-05-08 13:16+0000\n"
+"Last-Translator: CubeDev <cub3dev@gmail.com>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/buttons/de/>\n"
 "Language: de\n"
@@ -28,7 +28,7 @@ msgstr "🚀Quests"
 
 #: smth
 msgid "quest_accept"
-msgstr "Quest beginnen🗡"
+msgstr "Quest anfangen🗡"
 
 #: smth
 msgid "quest_reject"
@@ -36,7 +36,7 @@ msgstr "Nicht jetzt"
 
 #: smth
 msgid "battles"
-msgstr "Kämpfen⚔"
+msgstr "Kämpfe⚔"
 
 #: smth
 msgid "search_opponent"
@@ -44,7 +44,7 @@ msgstr "Gegner suchen👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr "Zu wenig Gold👎"
+msgstr "Ungenügend Gold👎"
 
 #: smth
 msgid "reject"
@@ -52,7 +52,7 @@ msgstr "Ablehnen"
 
 #: smth
 msgid "battle_add_power"
-msgstr "Verstärkung schicken!🗡"
+msgstr "Verstärkung senden!🗡"
 
 #: smth
 msgid "battle_start"
@@ -64,7 +64,7 @@ msgstr "⭐️Wölfe"
 
 #: smth
 msgid "refresh_data"
-msgstr "🔃Aktualisieren"
+msgstr "🔃Info aktualisieren"
 
 #: smth
 msgid "tutorial_1"
@@ -80,7 +80,7 @@ msgstr "Dorf gefunden!🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr "Mehr Arbeiter::-worker-::"
+msgstr "Arbeiter bekommen::-worker-::"
 
 #: smth
 msgid "harvest"
@@ -88,7 +88,7 @@ msgstr "Brot verkaufen💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr "Verstärkungen schicken! 🗡"
+msgstr "Verstärkungen senden! 🗡"
 
 #: smth
 msgid "quest_no_power"
@@ -107,10 +107,6 @@ msgid "swords_10"
 msgstr "Kleine Truppe 10::-sword-::"
 
 #: smth
-msgid "swords_10-"
-msgstr "Große Truppe 100::-sword-::"
-
-#: smth
 msgid "war_quest"
 msgstr "⚔Kriegsquest⚔"
 
@@ -120,11 +116,11 @@ msgstr "::-diamond-::Laden"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "50::-moneybag-:: für 5::-diamond-:: kaufen"
+msgstr "Kaufen Sie 50::-moneybag-:: für 5::-diamond-::"
 
 #: smth
 msgid "top"
-msgstr "🏆TOP"
+msgstr "🏆Beste Spieler"
 
 #: smth
 msgid "chooselanguage"
@@ -132,7 +128,7 @@ msgstr "Sprache wählen"
 
 #: smth
 msgid "feedback"
-msgstr "📢Feedback"
+msgstr "📢Vorschläge"
 
 #: smth
 msgid "chatlink"

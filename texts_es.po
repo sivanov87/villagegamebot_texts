@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-07 22:35+0000\n"
-"Last-Translator: Mossi <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-10 21:19+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/es/>\n"
 "Language: es\n"
@@ -21,16 +21,16 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
-"Por favor, escribe tus comentarios sobre el bot en el siguiente mensaje "
-"::-baloon-::\n"
+"Por favor, escribe tus comentarios y/o reseñas acerca del bot en el "
+"siguiente mensaje::-baloon-::\n"
 "También puedes escribir en el chat - "
 "https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
-"Te das de baja. Ya no recibirás notificaciones de este bot. Siempre puedes "
-"volver a suscribirte escribiendo /start"
+"Te has dado de baja. Ya no recibirás notificaciones de este bot. Siempre "
+"puedes volver a suscribirte escribiendo /start"
 
 #: smth
 msgid "ratebot"
@@ -44,8 +44,8 @@ msgstr "¡Gracias!"
 msgid "help"
 msgstr ""
 "Estás jugando al primer juego de estrategia de Telegram. Puedes cultivar "
-"alimento::-bread-::, venderlo por oro::-moneybag-::, realizar cruzadas🚀, "
-"luchar con otros jugadores⚔ y desarrollar tu ciudad.\n"
+"trigo::-bread-::, venderlo por oro::-moneybag-::, realizar misiones🚀, luchar "
+"con otros jugadores⚔ y desarrollar tu ciudad.\n"
 "¡Diviértete!\n"
 "\n"
 "Chat de soporte: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
@@ -67,28 +67,29 @@ msgstr ""
 #: smth
 msgid "friend_added"
 msgstr ""
-"Se añadió un amigo. Recibes 1 ::-worker-:: y 5 ::-moneybag-::\n"
-"Invita más amigos /invite_friends"
+"Un amigo se ha unido. Recibes 1 ::-worker-:: y 5 ::-moneybag-::\n"
+"Invita a más amigos /invite_friends"
 
 #: smth
 msgid "working_yet"
 msgstr ""
 "Ya estás trabajando actualmente. Espera un poco. Mientras, puedes realizar "
-"cruzadas /quests"
+"misiones /quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
-"¡Comienzas a trabajar y cosechas 60::-bread-::! Y ahora puedes realizar "
-"/quests"
+"¡Comienzas a trabajar y cosechas 60::-bread-::! Ahora puedes realizar "
+"misiones /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr "Código promocional aceptado. Oro - -%gold%-::-moneybag-::"
+msgstr "Código promocional aceptado. Oro -%gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
-msgstr "Código promocional erróneo."
+msgstr ""
+"Código promocional erróneo. Puedes trabajar /work o realizar misiones /quests"
 
 #: smth
 msgid "work_finished"
@@ -102,27 +103,27 @@ msgstr ""
 #: smth
 msgid "tutorial_1"
 msgstr ""
-"Caminas por los campos y encuentras el saco con 51 monedas ::-moneybag-:: en "
+"Caminas por los campos y encuentras un saco con 51 monedas ::-moneybag-:: en "
 "medio del camino."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
-"¡Eso sí es buena suerte! En ese momento, ves dos campesinos  "
+"¡Eso sí es buena suerte! En ese momento, ves a dos campesinos  "
 "::-worker-::::-worker-::. Y te asalta una brillante idea - contratarles y "
 "establecer un campamento aquí."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
-"Bien, los campesions están empleados. Por cierto, es el momento de vender tu "
-"cosecha de 2000 ::-bread-:: y así ganar 20 ::-moneybag-::."
+"Bien, los campesinos están contratados. Por cierto, es el momento de vender "
+"tu cosecha de 2000 ::-bread-:: y así ganar 20 ::-moneybag-::."
 
 #: smth
 msgid "tutorial_4"
 msgstr ""
-"¡Excelente! La cosecha madura con el tiempo, así que te recomiendo "
-"periódicamente entrar en el juego y recolectarla.\n"
+"¡Excelente! La cosecha madura con el tiempo, así que te recomiendo entrar en "
+"el juego periódicamente y recolectarla.\n"
 "Ahora es el momento de obtener dinero mediante información secreta - hay que "
 "encontrar los códigos secretos e introducirlos en el juego. Para empezar ve "
 "al canal @VillageGameEn, copia el código del mensaje que dice \\\"Secret "
@@ -158,11 +159,11 @@ msgstr ""
 
 #: smth
 msgid "tutorial_3_no"
-msgstr "Es necesario recolectar la cosecha, si no se pudrirá. :("
+msgstr "Es necesario recolectar la cosecha, si no se pudrirá. :( /harvest"
 
 #: smth
 msgid "top_before"
-msgstr "Mejores jugadores ::-medal-::"
+msgstr "Mejores jugadores::-medal-::"
 
 #: smth
 msgid "need_harvest"
@@ -199,6 +200,7 @@ msgid "quest_1_win"
 msgstr "Tus tropas protegieron la caravana y obtuviste el oro."
 
 #: smth
+#, fuzzy
 msgid "quest_1_fail"
 msgstr ""
 "No enviaste refuerzos, y la caravana y sus defensores fueron aniquilados..."
@@ -358,7 +360,7 @@ msgstr ""
 #: smth
 msgid "tip_promocode"
 msgstr ""
-"Puedes obtener ::-moneybag-::s mediante códigos promocionales. Búscalos en "
+"Puedes obtener ::-moneybag-:: mediante códigos promocionales. Búscalos en "
 "todas partes (por ejemplo, en @VillageGameEn) y envíaselos al bot."
 
 #: smth
@@ -376,8 +378,7 @@ msgid "template_share"
 msgstr ""
 "Ayúdame - sigue el enlace %reflink%, por lo que obtendré un aldeano "
 "::-worker-:: y oro ::-moneybag-:: en el primer juego de estrategia de "
-"Telegram.\n"
-"Por cierto, únete a nosotros, es un juego interesante ::-baloon-::."
+"Telegram."
 
 #: smth
 msgid "defense_win"
@@ -407,7 +408,7 @@ msgstr ""
 
 #: smth
 msgid "top_24_before"
-msgstr "Mejores jugadores en las últimas 24 horas ::-medal-::"
+msgstr "Mejores jugadores en las últimas 24 horas::-medal-::"
 
 #: smth
 msgid "top_level"
@@ -417,7 +418,7 @@ msgstr "Mejores jugadores de nivel %level%::-medal-::"
 msgid "no_money"
 msgstr ""
 "Desafortunadamente, no tienes dinero ::-moneybag-::...\n"
-"Para conseguirlo, espera a que la cosecha ::-bread-:: madure."
+"Para conseguirlo, espera a que la cosecha ::-bread-:: madure"
 
 #: smth
 msgid "no_revenge"
@@ -439,12 +440,12 @@ msgstr ""
 #: smth
 msgid "war_quest"
 msgstr ""
-"Código anterior: AWARQUEST2DONEURAYA\n"
+"Código anterior: AWARQUEST3DONEBESTYA\n"
 "\n"
 "Los enemigos han reunido un gran ejército y está asentado en la frontera. "
 "Cuanto más rápido reúnas una milicia, con mayor facilidad superarás al "
 "enemigo.\n"
-"Para vencer es necesario reunir 100.000 ::-sword-:: y no menos de 1000 "
+"Para vencer es necesario reunir 200.000 ::-sword-:: y no menos de 2000 "
 "::-village-:: participantes tienen que tomar parte en la batalla.\n"
 "Por la victoria se obtendrá un código promocional de 110 ::-moneybag-:: - ¡"
 "entra en la lucha!\n"

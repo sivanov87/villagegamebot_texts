@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 15:10+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-08 16:25+0000\n"
+"Last-Translator: Lucas Kado <guest@example.com>\n"
+"Language-Team: Hungarian <http://translate.villagegamebot.tgroups.me/projects"
+"/villagegamebot/texts/hu/>\n"
 "Language: hu\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,50 +17,77 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
+"Kérjük nyújts visszajelzést a bot-ról a következő üzenetben::-baloon-::\n"
+"Vagy írhatsz a chatbe is - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"Leiratkoztál.Többé nem kapsz éresítéseket. Ha újra fel szeretnél iratkozni "
+"gépeld be a következő parancsot /start"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Kérünk értékeld ezt a bot-ot"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "Köszönjük!"
 
 #: smth
 msgid "help"
 msgstr ""
+"Te az első Telegram-os stratégiai játékkal játszol. Itt növelhetsz "
+"búzát::-bread-::, eladhatod aranyért::-moneybag-::, kalandozhatsz🚀, "
+"megküzdhetsz más játékosokkal ⚔, és fejlesztheted a faludat.\n"
+"Jó szórakozást!\n"
+"\n"
+"Terméktámogatási chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"Hírcsatorna - @VillageGameEn\n"
+"\n"
+"/chooselanguage - nyelvválasztó"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"Falunév %villagename% (Szint %level%::-village-::, %level_percents%%)\n"
+"\n"
+"Dolgozók: %workers% ::-worker-::\n"
+"Kenyér: %bread% / %max_bread% ::-bread-::\n"
+"Arany: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"Medálok: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"Meghívtál egy barátot. Jutalmad 1::-worker-:: és 5::-moneybag-::\n"
+"Hívj meg mégtöbb barátot /invite_friends"
 
 #: smth
 msgid "working_yet"
 msgstr ""
+"Jelenleg az emberek dolgoznak. Várj egy keveset. Addig is kalandozhatsz "
+"/quest"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"Az emberek elkezdtek dolgozni, 60 ::-bread-::-t! Addig is kalandozhatsz "
+"/quest"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "Promóciós kód elfogadva! Arany - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "Helytelen kód. Dolgozhatsz /work vagy kalandozhatsz /quests"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "Befejezték a munkát, nagyuram! Az emberek újra dolgozhatnak - /work"
 
 #: smth
 msgid "delimeter"
@@ -68,22 +96,41 @@ msgstr ""
 #: smth
 msgid "tutorial_1"
 msgstr ""
+"Sétálsz a réten, amikor meglátsz a földön egy kis erszényt, amelyben 51 "
+"érme::-moneybag-:: van."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
+"Ez a jó szerencse jele! Hirtelen meglátsz 2 munkást ::-worker-::::-worker-::"
+".Támad egy brilliáns ötleted - alkalmazzuk őket és alapítsunk itt egy "
+"települést."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"Nos, alkalmaztuk őket. Itt az ideje eladnod a raktáron levő 2000 ::-bread-::-"
+"d amiért 20 ::-moneybag-::-t kapsz."
 
 #: smth
 msgid "tutorial_4"
 msgstr ""
+"Tökéletes! A raktár idővel feltelik, ezért ajánljuk, hogy rendszeresen lépj "
+"be a játékba!\n"
+"Most itt az ideje, hogy megtanuld hogyan válthatsz be egy promóciós kódot - "
+"hogy ezeket megtaláld, kövesd a @VillageGameEn csatornát figyelmesen. Keresd "
+"meg az üzenetet, amelyikben ez áll \\\"Titkos kód: <code>\\\" és küldd el "
+"ennek a bot-nak."
 
 #: smth
 msgid "tutorial_5"
 msgstr ""
+"Nagyszerű! A raktár idővel feltelik, ezért ajánljuk, hogy időnként lépj be a "
+"játékba.\n"
+"Most fejlesztened kell a faludat. Először is, felvehetnél több munkást. "
+"Ennek egyik módja, ha meghívod a barátaidat a játékba, a saját linkeddel "
+"%reflink%. Minden barátodért egy munkást ::-worker-:: és 5 ::-moneybag-:: -t "
+"kapsz. Vagy elkezdhetsz dolgozni /work"
 
 #: smth
 msgid "tutorial_4_no"
