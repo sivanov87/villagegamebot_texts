@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: 2016-05-08 00:54+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-10 07:36+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Simplified Chinese <http://translate.villagegamebot.tgroups.me"
+"/projects/villagegamebot/buttons/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,140 +16,140 @@ msgstr ""
 
 #: smth 
 msgid "help"
-msgstr ""
+msgstr "📚帮助"
 
 #: smth
 msgid "top"
-msgstr ""
+msgstr "🏆排名"
 
 #: smth
 msgid "chooselanguage"
-msgstr ""
+msgstr "选择语言"
 
 #: smth
 msgid "feedback"
-msgstr ""
+msgstr "📢反馈"
 
 #: smth
 msgid "chatlink"
-msgstr ""
+msgstr "聊天室"
 
 #: smth
 msgid "mainmenu"
-msgstr ""
+msgstr "主菜单"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "给我评分::-like-::"
 
 #: smth
 msgid "cancel"
-msgstr ""
+msgstr "取消"
 
 #: smth
 msgid "work"
-msgstr ""
+msgstr "🍞干活！"
 
 #: smth
 msgid "quests"
-msgstr ""
+msgstr "🚀任务"
 
 #: smth
 msgid "quest_accept"
-msgstr ""
+msgstr "执行任务🗡"
 
 #: smth
 msgid "quest_reject"
-msgstr ""
+msgstr "以后再说"
 
 #: smth
 msgid "battles"
-msgstr ""
+msgstr "战斗⚔"
 
 #: smth
 msgid "search_opponent"
-msgstr ""
+msgstr "寻找对手👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr ""
+msgstr "钱太少👎"
 
 #: smth
 msgid "reject"
-msgstr ""
+msgstr "拒绝"
 
 #: smth
 msgid "battle_add_power"
-msgstr ""
+msgstr "派救兵！🗡"
 
 #: smth
 msgid "battle_start"
-msgstr ""
+msgstr "进攻！⚔"
 
 #: smth
 msgid "quest_3"
-msgstr ""
+msgstr "⭐️狼群"
 
 #: smth
 msgid "village"
-msgstr ""
+msgstr "村庄"
 
 #: smth
 msgid "refresh_data"
-msgstr ""
+msgstr "🔃更新信息"
 
 #: smth
 msgid "tutorial_1"
-msgstr ""
+msgstr "捡起金币！💰"
 
 #: smth
 msgid "return_to_village"
-msgstr ""
+msgstr "回村🔙"
 
 #: smth
 msgid "tutorial_2"
-msgstr ""
+msgstr "发现一个村子🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr ""
+msgstr "招募工人::-worker-::"
 
 #: smth
 msgid "harvest"
-msgstr ""
+msgstr "卖出面包💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr ""
+msgstr "派救兵！ 🗡"
 
 #: smth
 msgid "quest_no_power"
-msgstr ""
+msgstr "军费不够👎"
 
 #: smth
 msgid "quest_1"
-msgstr ""
+msgstr "⭐️⭐️保护商队"
 
 #: smth
 msgid "quest_2"
-msgstr ""
+msgstr "⭐️⭐️⭐️拯救村庄"
 
 #: smth
 msgid "swords_10"
-msgstr ""
+msgstr "小队人马 10::-sword-::"
 
 #: smth
 msgid "swords_100"
-msgstr ""
+msgstr "大队人马 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr ""
+msgstr "⚔发动战争⚔"
 
 #: smth
 msgid "shop"
-msgstr ""
+msgstr "::-diamond-::商店"
 
 #: smth
 msgid "buy_50_gold"
-msgstr ""
+msgstr "5::-diamond-::可换50::-moneybag-::"
