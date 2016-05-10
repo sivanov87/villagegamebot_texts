@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:50+0000\n"
-"PO-Revision-Date: 2016-05-08 00:06+0000\n"
+"PO-Revision-Date: 2016-05-10 21:49+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/ru/>\n"
@@ -195,11 +195,18 @@ msgstr "Вы можете сражаться с другими игроками 
 
 #: smth
 msgid "battle_start"
-msgstr "Ваш противник %villagename%, уровень %level%. Для атаки вам необходимо %start_power%::-sword-::\nВы сможете заработать %gold_diff%::-moneybag-:: и %medals_diff%::-medal-::\nПри атаке 1::-sword-:: = 1::-moneybag-::"
+msgstr ""
+"Ваш противник %villagename%, уровень %level%. Для атаки вам необходимо "
+"%start_power%::-sword-::\n"
+"Вы сможете заработать %gold_diff%::-moneybag-:: и %medals_diff%::-medal-::\n"
+"При атаке 1::-sword-:: = 1::-moneybag-::."
 
 #: smth
 msgid "battle_question"
-msgstr "Во время боя противник поднял ополчение, которое окружило нашу армию. Для ее спасения необходимо отправить подкрепление %add_power%::-sword-::, иначе они все погибнут!"
+msgstr ""
+"Во время боя противник поднял ополчение, которое окружило нашу армию. Для ее "
+"спасения необходимо отправить подкрепление %add_power%::-sword-::, иначе они "
+"все погибнут!"
 
 #: smth
 msgid "battle_win"
@@ -335,11 +342,11 @@ msgstr "Ваш друг %villagename% %user_name% вернулся в игру, 
 #: smth
 msgid "war_quest"
 msgstr ""
-"Предыдущий код: AWARQUEST2DONEURAYA\n"
+"Предыдущий код: AWARQUEST3DONEBESTYA\n"
 "\n"
 "Враги собрали огромную армию и выдвинули к вашим границам. Чем быстрее вы "
 "сможете собрать ополчение, тем проще вы одолеете врага.\n"
-"Для победы необходимо набрать 100 000::-sword-:: и не менее 1000 участников "
+"Для победы необходимо набрать 200 000::-sword-:: и не менее 2000 участников "
 "должно принять участие в битве. \n"
 "За победу каждому будет выдан промокод на 110::-moneybag-:: - вступайте в "
 "битву! После отправки войск вы можете выполнять другие квесты без "
