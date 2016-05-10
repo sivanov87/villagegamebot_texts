@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-08 13:31+0000\n"
-"Last-Translator: Lucas Kado <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-10 21:11+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/en/>\n"
 "Language: en\n"
@@ -72,14 +72,11 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You start to work and harvest 60::-bread-::! And now you can run /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Promocode accepted. Gold - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
@@ -87,51 +84,62 @@ msgstr "Bad promocode. You can /work or run /quests"
 
 #: smth
 msgid "work_finished"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Work is finished, my lord! Work - /work"
 
 #: smth
 msgid "tutorial_1"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You go through fields and see that the purse with 51 coins::-moneybag-:: "
+"lies on the road."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"That's good fortune! Then, you see two peasants ::-worker-::::-worker-::. "
+"And there you have a brilliant idea - to hire them and to establish a "
+"settlement here."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Well, the peasants are employed. By the way, now is the time to sell your "
+"harvest of 2000 ::-bread-:: that you can earn 20 ::-moneybag-:: from."
 
 #: smth
 msgid "tutorial_4"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Excellent! The harvest matures with time, so we recommend that you "
+"periodically go into the game and collect it.\n"
+"Now it's time to get the money for the secret information - it is necessary "
+"to find the secret codes and enter them in the game. To get started go to @"
+"VillageGameEn channel, copy the code from the message which says \\\"Secret "
+"code: <code>\\\" and send it to this bot."
 
 #: smth
 msgid "tutorial_5"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Excellent! The harvest matures with time, so we recommend that you "
+"periodically go into the game and collect it.\n"
+"Now you need to develop the village. First, it would be good to take on new "
+"workers. One way to do this is to invite friends to the game by link "
+"%reflink%. Each one brings you one worker ::-worker-:: and 5 ::-moneybag-::. "
+"Or start /work"
 
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You have entered an incorrect code. Unfortunately, we are unable to charge "
+"you money :(.\n"
+"\n"
+"In the future, you can find the codes in the channels or from friends.\n"
+"Now you need to develop the village. First, it would be good to take on new "
+"workers. One way to do this is to invite friends to the game by link "
+"%reflink%. Each one brings you one worker ::-worker-:: and 5 ::-moneybag-::."
 
 #: smth
 msgid "harvested"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You sold %bread_diff% ::-bread-:: for %gold_diff% ::-moneybag-::, great!"
 
 #: smth
 msgid "tutorial_3_no"
@@ -140,9 +148,7 @@ msgstr ""
 
 #: smth
 msgid "top_before"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Best players::-medal-::"
 
 #: smth
 msgid "need_harvest"
@@ -153,32 +159,30 @@ msgstr ""
 #: smth
 msgid "not_harvested"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Harvest too little. Wait for until there are at least 100 ::-bread-:: or "
+"work - /work "
 
 #: smth
 msgid "quest_1_description"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"The caravan passes near your village. It asks you for protection. It needs "
+"%start_power% ::-sword-::. For its defense you get %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_1_good"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Excellent! The caravan passed without any problems, and you enjoy your "
+"profits!"
 
 #: smth
 msgid "quest_1_question"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"The caravan was attacked and your guards barely keep it defended. Send the "
+"aid of %add_power% ::-sword-:: or they will die!"
 
 #: smth
 msgid "quest_1_win"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Your troops protected the caravan and you got the gold."
 
 #: smth
 msgid "quest_1_fail"
@@ -189,212 +193,211 @@ msgstr ""
 #: smth
 msgid "quest_2_description"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Bandits attacked a village. The mayor asked for help - to disperse the "
+"bandits you need to send an army of %start_power% ::-sword-::. Victory "
+"promises a handsome reward of %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_2_good"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"These bandits were cowards! They ran away, seeing your army. It was too "
+"easy, but the elders gave you the promised gold."
 
 #: smth
 msgid "quest_2_question"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"The bandits were some strong guys - they took your team to the ring. To win, "
+"you need to hire additional troops of %add_power% ::-sword-::."
 
 #: smth
 msgid "quest_2_win"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Your squad came to the rescue, destroyed all the robbers, and you take a "
+"pile of gold!"
 
 #: smth
 msgid "quest_2_fail"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Your squad has been destroyed..."
 
 #: smth
 msgid "quests"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You can choose a quest, which performing will cost a fee.\n"
+"To recruit 1 ::-sword-:: you spend 1 ::-moneybag-::."
 
 #: smth
 msgid "quest_no_money"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You do not have enough money for this quest. Invite your "
+"friends(/invite_friends), look for promotional codes(@VillageGameEn), "
+"harvest your crops - you need money!"
 
 #: smth
 msgid "battles"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You can fight against other players and win medals ::-medal-::. To do this, "
+"you need to find the enemy and attack him.\n"
+"For every search you pay 1 ::-moneybag-:: regardless of the outcome."
 
 #: smth
 msgid "battle_start"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Your opponent is %villagename%, level %level%. To attack, you need "
+"%start_power% ::-sword-::\n"
+"You will be able to earn %gold_diff% ::-moneybag-:: and %medals_diff% "
+"::-medal-::.\n"
+"1 ::-sword-:: costs 1 ::-moneybag-::."
 
 #: smth
 msgid "battle_question"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"During the battle, the enemy raised a militia, which surrounds our army. To "
+"save yourself you need to send reinforcements of %add_power%::-sword-::, "
+"otherwise your army will die!"
 
 #: smth
 msgid "battle_win"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You won the battle and took %gold% ::-moneybag-:: and %medals% ::-medal-::."
 
 #: smth
 msgid "battle_fail"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Our troops withdrew from the superior forces of the enemy  it is a terrible "
+"loss!"
 
 #: smth
 msgid "battle_good"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Our troops, without any problems, invaded the village and looted "
+"%gold%::-moneybag-:: and got %medals%::-medal-::."
 
 #: smth
 msgid "battle_no_money"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "You cannot send an army, since you do not have enough money. :("
 
 #: smth
 msgid "quest_3_description"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"The inhabitant of a remote farm is tormented by wolves - they steal his "
+"cattle. He offered to pay %gold% ::-moneybag-:: for your help of "
+"%start_power% ::-sword-::."
 
 #: smth
 msgid "quest_3_good"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Wolves run away at just the sight of you. You easily earn the money "
+"::-moneybag-::."
 
 #: smth
 msgid "quest_3_question"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Our squad cannot cope, and if you do not send reinforcements of %add_power% "
+"::-sword-::, you get nothing."
 
 #: smth
 msgid "quest_3_fail"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "You could not help the farmer ... sorry."
 
 #: smth
 msgid "quest_3_win"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Reinforcements were able to overrun the wolves. The grateful resident paid "
+"you fully."
 
 #: smth
 msgid "tip_bread"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Workers ::-worker-:: harvest ::-bread-:: for you, and you sell it for "
+"::-moneybag-::."
 
 #: smth
 msgid "tip_worker"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Workers ::-worker-:: grow ::-bread-::. Their number can be increased by "
+"inviting friends using /invite_friends"
 
 #: smth
 msgid "tip_medal"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Medals ::-medal-:: measure your valor. You get them in battles⚔"
 
 #: smth
 msgid "tip_level"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Village Level ::-village-:: - development indicators, it increases from "
+"earnings ::-moneybag-::, hired ::-worker-:: and earned ::-medal-::"
 
 #: smth
 msgid "tip_battles"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Battles⚔ - battles with other players. Look for opponents and defeat them!"
 
 #: smth
 msgid "tip_quests"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Quests🚀 - the opportunity to earn ::-moneybag-::."
 
 #: smth
 msgid "tip_sword"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"In the battles and quests you hire mercenaries ::-sword-::.\n"
+"1 ::-sword-:: costs 1 ::-moneybag-::"
 
 #: smth
 msgid "tip_promocode"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You can get ::-moneybag-:: for promocodes. Look for them everywhere (for "
+"example, @VillageGameEn) and send them to the bot."
 
 #: smth
 msgid "invite_friends"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Workers ::-worker-:: are the main resource of your village. They grow crops "
+"::-bread-::, which you sell for gold coins ::-moneybag-::. You can get "
+"::-worker-:: by inviting friends to the game.\n"
+"For each friend who has followed the link %reflink%, you will get 1 worker "
+"::-worker-::.\n"
+"You can either write or forward them the previous message 🔝."
 
 #: smth
 msgid "template_share"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Help me - go to link %reflink%, for which I'll get worker ::-worker-:: and "
+"gold ::-moneybag-:: in Telegram's first strategy game.\n"
+"By the way, join us - it's an interesting game ::-baloon-::."
 
 #: smth
 msgid "defense_win"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You were attacked by %villagename% of level %level% ::-village-::. He spent "
+"%power% ::-sword-:: but did not succeed.\n"
+"Victory is yours!"
 
 #: smth
 msgid "defense_fail"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You were attacked by %villagename% of level %level% ::-village-::. He spent "
+"%power% ::-sword-:: and was able to defeat you, stealing %gold% "
+"::-moneybag-::.\n"
 
 #: smth
 msgid "tip_money"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Gold ::-moneybag-:: is the main currency of the game. You can get it by "
+"growing and selling ::-bread-:: and by performing and winning quests🚀 and "
+"battles⚔"
 
 #: smth
 msgid "tip_chat"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Welcome to support chat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "top_24_before"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Best players last 24 hour::-medal-::"
 
 #: smth
 msgid "top_level"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Best players lvl %level%::-medal-::"
 
 #: smth
 msgid "no_money"
@@ -404,36 +407,42 @@ msgstr ""
 
 #: smth
 msgid "no_revenge"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Impossible to revenge."
 
 #: smth
 msgid "war_quest"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"Previous code: AWARQUEST3DONEBESTYA\n"
+"\n"
+"Enemies have brought together huge army and have put forward to your "
+"borders. The quicker you will be able to collect a militia, the more simply "
+"you will overcome the enemy.\n"
+"For a victory it is necessary to gather 200 000::-sword-:: and not less than "
+"2000 participants::-village-:: have to take part in fight. \n"
+"For a victory the promo code on 110::-moneybag-::will be given - enter fight!"
+"\n"
+"1::-sword-:: = 1::-moneybag-::\n"
+"\n"
+"Army: %swords%::-sword-:: (%swords_percents%%)\n"
+"Your troops: %your_swords%::-sword-:: (%your_swords_percents%%)\n"
+"Participants: %villages%::-village-::(%villages_percents%%)"
 
 #: smth
 msgid "swords_added"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "Your reinforcement %swords%::-sword-:: is sent!"
 
 #: smth
 msgid "shop"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"In shop you can get useful things:)\n"
+"Now purchase of the 50 ::-moneybag-:: is available for 5 diamonds "
+"::-diamond-::"
 
 #: smth
 msgid "gold_is_bought"
-msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+msgstr "You have bought 50::-moneybag-:: for 5::-diamond-::"
 
 #: smth
 msgid "no_diamonds"
 msgstr ""
-"You unsubscribe. Now you will not receive notification of it. You can always "
-"sign up again by typing /start"
+"You don't have enough diamond ::-diamonds-:: for purchase commission :(\n"
