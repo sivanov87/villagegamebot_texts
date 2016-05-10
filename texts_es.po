@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-10 21:19+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-18 04:39+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/es/>\n"
 "Language: es\n"
@@ -200,10 +200,10 @@ msgid "quest_1_win"
 msgstr "Tus tropas protegieron la caravana y obtuviste el oro."
 
 #: smth
-#, fuzzy
 msgid "quest_1_fail"
 msgstr ""
-"No enviaste refuerzos, y la caravana y sus defensores fueron aniquilados..."
+"No enviaste refuerzos, y la caravana junto con sus defensores fueron "
+"aniquilados..."
 
 #: smth
 msgid "quest_2_description"
