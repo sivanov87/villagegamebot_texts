@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-08 02:33+0000\n"
-"Last-Translator: Lucas Kado <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-10 21:24+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Chinese <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/zh/>\n"
 "Language: zh\n"
@@ -38,7 +38,17 @@ msgstr "萬分感激！"
 
 #: smth
 msgid "help"
-msgstr "這是Telegram上的首款策略遊戲。你可以耕作 ::-bread-::，以農作物換取金錢::-moneybag-::，完成各款任務"
+msgstr ""
+"這是Telegram上的首款策略遊戲。你可以耕作 "
+"::-bread-::，以農作物換取金錢::-moneybag-::，完成各款任務，與不同玩家戰鬥⚔，以及建設你的村莊。請享受！\n"
+"\n"
+"英語支援頻道: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"華語支援頻道: https://telegram.me/joinchat/A-5Caj-No1QUA5SE1wHfGA\n"
+"\n"
+"新聞頻道 - @VillageGameEn\n"
+"\n"
+"/chooselanguage - choose language"
 
 #: smth
 msgid "village_description"
@@ -66,7 +76,7 @@ msgstr "您開始了工作並收穫到60份::-bread-::！現在您或者可以�
 
 #: smth
 msgid "promocode_accept"
-msgstr "推廣碼被接納了。金錢 - %gold% "
+msgstr "推廣碼被接納了。金錢 - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
@@ -210,7 +220,7 @@ msgstr ""
 
 #: smth
 msgid "battle_question"
-msgstr "在戰鬥中，您的對手向你展開了反擊，圍堵了我們的軍隊。要突破重圍，你需要增派%add_power%::-sword-::，否則您的軍隊會被殲滅！"
+msgstr "在战斗中，你的对手调集民兵围困住了我军。要突破重圍，你需要增派%add_power%::-sword-::，否則您的軍隊會被殲滅！"
 
 #: smth
 msgid "battle_win"
@@ -273,7 +283,6 @@ msgid "tip_battles"
 msgstr "戰鬥⚔ - 與其他玩家開戰。找到您的對手然後擊斃他們！"
 
 #: smth
-#, fuzzy
 msgid "tip_quests"
 msgstr "任務🚀 - 是賺錢的好機會 ::-moneybag-::."
 
@@ -294,7 +303,7 @@ msgstr ""
 "您可以透過邀請朋友加入遊戲得到新工人::-worker-::。\n"
 "您可以透過此連結%reflink%邀請親朋戚友加入這個遊戲，\n"
 "每一個好友的加入，都會為您帶來一個新的工人::-worker-::。\n"
-"您可以把上一段訊息傳給您朋友 "
+"您可以把上一段訊息傳給您朋友"
 
 #: smth
 msgid "template_share"
@@ -322,7 +331,7 @@ msgstr "金錢::-moneybag-:: 是本遊戲的主要貨幣。您可以透過耕作
 
 #: smth
 msgid "tip_chat"
-msgstr "歡迎加入支援小組 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+msgstr "欢迎加入支持聊天室 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "top_24_before"
@@ -355,10 +364,10 @@ msgstr "您的好友%villagename% %user_name%回到遊戲當中，而您的工�
 #: smth
 msgid "war_quest"
 msgstr ""
-"上次的秘碼: AWARQUEST2DONEURAYA\n"
+"上次的秘碼: AWARQUEST3DONEBESTYA\n"
 "\n"
 "強大的敵軍壓境了。我們愈快組織好對抗軍，愈快可以擊退敵人。\n"
-"為了戰勝敵軍，我們需要招募100 000::-sword-:: 以及不少於1000名的成員::-village-::參與戰爭。\n"
+"為了戰勝敵軍，我們需要招募200 000::-sword-:: 以及不少於2000名的成員::-village-::參與戰爭。\n"
 "戰勝歸來後，每人都會獲贈價值110::-moneybag-::的秘碼！\n"
 "1::-sword-:: = 1::-moneybag-::\n"
 "\n"
