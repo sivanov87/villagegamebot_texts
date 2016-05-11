@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: 2016-05-08 00:54+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-11 07:17+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Polish <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/buttons/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,140 +17,140 @@ msgstr ""
 
 #: smth 
 msgid "help"
-msgstr ""
+msgstr "📚 pomoc"
 
 #: smth
 msgid "top"
-msgstr ""
+msgstr "🏆 Najlepsi gracze"
 
 #: smth
 msgid "chooselanguage"
-msgstr ""
+msgstr "Wybierz język"
 
 #: smth
 msgid "feedback"
-msgstr ""
+msgstr "📢 Opinie"
 
 #: smth
 msgid "chatlink"
-msgstr ""
+msgstr "Czat"
 
 #: smth
 msgid "mainmenu"
-msgstr ""
+msgstr "Menu główne"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Oceń mnie ::-like-::"
 
 #: smth
 msgid "cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: smth
 msgid "work"
-msgstr ""
+msgstr "🍞 Pracuj!"
 
 #: smth
 msgid "quests"
-msgstr ""
+msgstr "🚀 Zadania"
 
 #: smth
 msgid "quest_accept"
-msgstr ""
+msgstr "Rozpocznij zadanie🗡"
 
 #: smth
 msgid "quest_reject"
-msgstr ""
+msgstr "Nie teraz"
 
 #: smth
 msgid "battles"
-msgstr ""
+msgstr "Bitwy ⚔"
 
 #: smth
 msgid "search_opponent"
-msgstr ""
+msgstr "Szukaj przeciwnika 👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr ""
+msgstr "Za mało złota 👎"
 
 #: smth
 msgid "reject"
-msgstr ""
+msgstr "Odrzuć"
 
 #: smth
 msgid "battle_add_power"
-msgstr ""
+msgstr "Wyślij wsparcie! \\"
 
 #: smth
 msgid "battle_start"
-msgstr ""
+msgstr "Atakuj! ⚔"
 
 #: smth
 msgid "quest_3"
-msgstr ""
+msgstr "⭐️Wilki"
 
 #: smth
 msgid "village"
-msgstr ""
+msgstr "Wioska"
 
 #: smth
 msgid "refresh_data"
-msgstr ""
+msgstr "🔃 Odśwież informacje"
 
 #: smth
 msgid "tutorial_1"
-msgstr ""
+msgstr "Zbierz monety! 💰"
 
 #: smth
 msgid "return_to_village"
-msgstr ""
+msgstr "Do wioski 🔙"
 
 #: smth
 msgid "tutorial_2"
-msgstr ""
+msgstr "Znaleziono wioskę 🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr ""
+msgstr "Zdobądź pracowników ::-worker-::"
 
 #: smth
 msgid "harvest"
-msgstr ""
+msgstr "Sprzedaj chleb 💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr ""
+msgstr "Wyślij wsparcie! 🗡"
 
 #: smth
 msgid "quest_no_power"
-msgstr ""
+msgstr "Brak zasobów 👎"
 
 #: smth
 msgid "quest_1"
-msgstr ""
+msgstr "⭐️⭐️Ochroń karawanę"
 
 #: smth
 msgid "quest_2"
-msgstr ""
+msgstr "⭐️⭐️⭐️Ocal wioskę"
 
 #: smth
 msgid "swords_10"
-msgstr ""
+msgstr "Mały oddział - 10::-sword-::"
 
 #: smth
 msgid "swords_100"
-msgstr ""
+msgstr "Duży oddział- 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr ""
+msgstr "⚔Wyrusz na wojnęt⚔"
 
 #: smth
 msgid "shop"
-msgstr ""
+msgstr "Sklep z  ::-diamond-::"
 
 #: smth
 msgid "buy_50_gold"
-msgstr ""
+msgstr "Kup 50::-moneybag-:: za 5::-diamond-::"
