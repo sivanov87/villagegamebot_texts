@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-05-10 21:15+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-12 18:22+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
 "Language: pt\n"
@@ -19,7 +19,7 @@ msgid "feedback"
 msgstr ""
 "Por favor, dê sua opinião sobre o bot na próxima mensagem.::-baloon-::\n"
 "Ah! Você também pode entrar no chat sobre o jogo aqui: "
-"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+"https://telegram.me/joinchat/B31JfT7g7Avl9kmA6L0JJQ"
 
 #: smth
 msgid "botisstopped"
@@ -33,7 +33,7 @@ msgstr "Por favor, avalie o bot"
 
 #: smth
 msgid "thanks"
-msgstr "Obrigada!"
+msgstr "Obrigado!"
 
 #: smth
 msgid "help"
@@ -58,7 +58,8 @@ msgstr ""
 #: smth
 msgid "working_yet"
 msgstr ""
-"Você já está trabalhando. Espere um momento. Você pode fazer missões /quests"
+"Você já está trabalhando. Espere um momento. Enquanto espera você pode fazer "
+"missões /quests"
 
 #: smth
 msgid "work_started"
@@ -71,9 +72,10 @@ msgid "promocode_accept"
 msgstr "Código promocional aceito. Ouro - %gold%-::-moneybag-::"
 
 #: smth
-#, fuzzy
 msgid "promocode_reject"
-msgstr "Código promocional rejeitado."
+msgstr ""
+"Código promocional rejeitado.Você pode ir trabalhar (/work) ou ir fazer "
+"missões (/quests)"
 
 #: smth
 msgid "work_finished"
@@ -343,7 +345,7 @@ msgstr ""
 msgid "tip_chat"
 msgstr ""
 "Bem vindo ao chat de suporte - "
-"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+"https://telegram.me/joinchat/B31JfT7g7Avl9kmA6L0JJQ"
 
 #: smth
 msgid "top_24_before"
