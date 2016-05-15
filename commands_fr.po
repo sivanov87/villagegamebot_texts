@@ -3,9 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: 2016-05-08 00:54+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-15 16:34+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: French <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/buttons/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,140 +16,140 @@ msgstr ""
 
 #: smth 
 msgid "help"
-msgstr ""
+msgstr "📚Aide"
 
 #: smth
 msgid "top"
-msgstr ""
+msgstr "🏆Classement"
 
 #: smth
 msgid "chooselanguage"
-msgstr ""
+msgstr "Sélectionner la langue"
 
 #: smth
 msgid "feedback"
-msgstr ""
+msgstr "📢Feedback"
 
 #: smth
 msgid "chatlink"
-msgstr ""
+msgstr "Chat"
 
 #: smth
 msgid "mainmenu"
-msgstr ""
+msgstr "Menu Principal"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Notez moi ::-like-::"
 
 #: smth
 msgid "cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: smth
 msgid "work"
-msgstr ""
+msgstr "🍞Travailler!"
 
 #: smth
 msgid "quests"
-msgstr ""
+msgstr "🚀Quêtes"
 
 #: smth
 msgid "quest_accept"
-msgstr ""
+msgstr "Lancer quête🗡"
 
 #: smth
 msgid "quest_reject"
-msgstr ""
+msgstr "Pas maintenant"
 
 #: smth
 msgid "battles"
-msgstr ""
+msgstr "Batailles⚔"
 
 #: smth
 msgid "search_opponent"
-msgstr ""
+msgstr "Chercher un adversaire👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr ""
+msgstr "Peu d'or👎"
 
 #: smth
 msgid "reject"
-msgstr ""
+msgstr "Reffuser"
 
 #: smth
 msgid "battle_add_power"
-msgstr ""
+msgstr "Envoyer des renforts!🗡"
 
 #: smth
 msgid "battle_start"
-msgstr ""
+msgstr "Attaquer!⚔"
 
 #: smth
 msgid "quest_3"
-msgstr ""
+msgstr "⭐️Loups"
 
 #: smth
 msgid "village"
-msgstr ""
+msgstr "Village"
 
 #: smth
 msgid "refresh_data"
-msgstr ""
+msgstr "🔃Rafraîchir info"
 
 #: smth
 msgid "tutorial_1"
-msgstr ""
+msgstr "Rafler l'argent!💰"
 
 #: smth
 msgid "return_to_village"
-msgstr ""
+msgstr "Retour au village🔙"
 
 #: smth
 msgid "tutorial_2"
-msgstr ""
+msgstr "Trouver un village🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr ""
+msgstr "Obtenir des ouvriers::-worker-::"
 
 #: smth
 msgid "harvest"
-msgstr ""
+msgstr "Vendre du pain💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr ""
+msgstr "Envoyer des renforts! 🗡"
 
 #: smth
 msgid "quest_no_power"
-msgstr ""
+msgstr "Aucune ressources 👎"
 
 #: smth
 msgid "quest_1"
-msgstr ""
+msgstr "⭐️⭐️Protéger la caravane"
 
 #: smth
 msgid "quest_2"
-msgstr ""
+msgstr "⭐️⭐️⭐️Sauver le village"
 
 #: smth
 msgid "swords_10"
-msgstr ""
+msgstr "Petite troupe 10::-sword-::"
 
 #: smth
 msgid "swords_100"
-msgstr ""
+msgstr "Grande troupe 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr ""
+msgstr "⚔quête de guerre⚔"
 
 #: smth
 msgid "shop"
-msgstr ""
+msgstr "::-diamond-::Boutique"
 
 #: smth
 msgid "buy_50_gold"
-msgstr ""
+msgstr "Acheter 50::-moneybag-:: pour 5::-diamond-::"
