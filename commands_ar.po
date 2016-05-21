@@ -3,11 +3,154 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-21 03:16+0000\n"
+"Last-Translator: iDa7om <asa-2010-@windowslive.com>\n"
+"Language-Team: Arabic <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/buttons/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 2.7-dev\n"
+
+#: smth 
+msgid "help"
+msgstr "📚مساعدة"
+
+#: smth
+msgid "top"
+msgstr "🏆الأوائل"
+
+#: smth
+msgid "chooselanguage"
+msgstr "إختيار اللغة"
+
+#: smth
+msgid "feedback"
+msgstr "📢التقييم"
+
+#: smth
+msgid "chatlink"
+msgstr "محادثة"
+
+#: smth
+msgid "mainmenu"
+msgstr "القائمة الرئيسية"
+
+#: smth
+msgid "ratebot"
+msgstr "قيمني ::-إعجاب-::"
+
+#: smth
+msgid "cancel"
+msgstr "إلغاء"
+
+#: smth
+msgid "work"
+msgstr "🍞إعمل!"
+
+#: smth
+msgid "quests"
+msgstr "🚀المهام"
+
+#: smth
+msgid "quest_accept"
+msgstr "بدأ مهمة🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "ليس الأن"
+
+#: smth
+msgid "battles"
+msgstr "⚔المعارك"
+
+#: smth
+msgid "search_opponent"
+msgstr "👁 إبحث عن خصم"
+
+#: smth
+msgid "battle_no_power"
+msgstr "👎 الذهب قليل"
+
+#: smth
+msgid "reject"
+msgstr "رفض"
+
+#: smth
+msgid "battle_add_power"
+msgstr "🗡أرسل الدعم!"
+
+#: smth
+msgid "battle_start"
+msgstr "⚔أهجم!"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️الذئاب"
+
+#: smth
+msgid "village"
+msgstr "القرية"
+
+#: smth
+msgid "refresh_data"
+msgstr "🔃 تحديث بياناتك"
+
+#: smth
+msgid "tutorial_1"
+msgstr "💰احصل على النقود!"
+
+#: smth
+msgid "return_to_village"
+msgstr "🔙إلى القرية"
+
+#: smth
+msgid "tutorial_2"
+msgstr "🏘العثور على قرية"
+
+#: smth
+msgid "invite_friends"
+msgstr "احصل على عمال::-عامل-::"
+
+#: smth
+msgid "harvest"
+msgstr "💰بيع الخبز"
+
+#: smth
+msgid "quest_add_power"
+msgstr "🗡أرسل الدعم"
+
+#: smth
+msgid "quest_no_power"
+msgstr "👎لايوجد موارد"
+
+#: smth
+msgid "quest_1"
+msgstr "⭐️⭐️حماية القافلة"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️حماية القرية"
+
+#: smth
+msgid "swords_10"
+msgstr "مجموعة صغيرة 10 ::-سيف-::"
+
+#: smth
+msgid "swords_100"
+msgstr "مجموعة كبيرة 100 ::-سيف-::"
+
+#: smth
+msgid "war_quest"
+msgstr "⚔مهمة الحرب⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-جوهرة-::متجر"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "اشتري 50::-كيس نقود-:: مقابل 5::-جوهرة-::"
