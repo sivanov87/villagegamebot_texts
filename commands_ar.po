@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-21 03:16+0000\n"
+"PO-Revision-Date: 2016-05-21 03:54+0000\n"
 "Last-Translator: iDa7om <asa-2010-@windowslive.com>\n"
 "Language-Team: Arabic <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/buttons/ar/>\n"
@@ -41,7 +41,7 @@ msgstr "القائمة الرئيسية"
 
 #: smth
 msgid "ratebot"
-msgstr "قيمني ::-إعجاب-::"
+msgstr "قيمني👍"
 
 #: smth
 msgid "cancel"
@@ -81,11 +81,11 @@ msgstr "رفض"
 
 #: smth
 msgid "battle_add_power"
-msgstr "🗡أرسل الدعم!"
+msgstr "🗡أرسل الدّعم"
 
 #: smth
 msgid "battle_start"
-msgstr "⚔أهجم!"
+msgstr "⚔اهجم"
 
 #: smth
 msgid "quest_3"
@@ -101,7 +101,7 @@ msgstr "🔃 تحديث بياناتك"
 
 #: smth
 msgid "tutorial_1"
-msgstr "💰احصل على النقود!"
+msgstr "💰احصل على النقود"
 
 #: smth
 msgid "return_to_village"
@@ -137,11 +137,11 @@ msgstr "⭐️⭐️⭐️حماية القرية"
 
 #: smth
 msgid "swords_10"
-msgstr "مجموعة صغيرة 10 ::-سيف-::"
+msgstr "مجموعة صغيرة 10⚔"
 
 #: smth
 msgid "swords_100"
-msgstr "مجموعة كبيرة 100 ::-سيف-::"
+msgstr "مجموعة دعم كبيرة 100⚔"
 
 #: smth
 msgid "war_quest"
@@ -149,8 +149,8 @@ msgstr "⚔مهمة الحرب⚔"
 
 #: smth
 msgid "shop"
-msgstr "::-جوهرة-::متجر"
+msgstr "متجر💎"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "اشتري 50::-كيس نقود-:: مقابل 5::-جوهرة-::"
+msgstr "اشتري 50💰 مقابل 5💎"
