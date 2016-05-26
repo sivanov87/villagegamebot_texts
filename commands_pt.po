@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-07 23:31+0000\n"
-"Last-Translator: augusto <augusto@example.com>\n"
+"PO-Revision-Date: 2016-05-26 16:41+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/buttons/pt/>\n"
 "Language: pt\n"
@@ -20,7 +20,7 @@ msgstr "Menu principal"
 
 #: smth
 msgid "chooselanguage"
-msgstr "Escolher língua"
+msgstr "Escolher idioma"
 
 #: smth
 msgid "chatlink"
@@ -116,7 +116,7 @@ msgstr "Comprar 50::-moneybag-:: por 5::-diamond-::"
 
 #: smth
 msgid "top"
-msgstr "🏆Ranque"
+msgstr "🏆Rank"
 
 #: smth
 msgid "feedback"
