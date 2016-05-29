@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-08 00:09+0000\n"
-"PO-Revision-Date: 2016-05-11 20:10+0000\n"
-"Last-Translator: guest <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-29 13:18+0000\n"
+"Last-Translator: MatinBeigi <matinbeigi97@yahoo.com>\n"
 "Language-Team: Persian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/fa/>\n"
 "Language: fa\n"
@@ -184,8 +184,8 @@ msgstr "::-diamond-::فروشگاه"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "خرید 50 عدد ::-moneybag-:: طلا به ازای 5 عدد ::-diamond-:: الماس"
+msgstr "خرید 50 عدد ::-moneybag-:: برای خرید 5::-diamond-::"
 
 #: smth
 msgid "cancel"
-msgstr ""
+msgstr "منصرف شدن"
