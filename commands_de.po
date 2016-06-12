@@ -1,10 +1,10 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-08 00:11+0000\n"
-"PO-Revision-Date: 2016-05-08 13:16+0000\n"
-"Last-Translator: CubeDev <cub3dev@gmail.com>\n"
+"POT-Creation-Date: 2016-05-23 18:23+0000\n"
+"PO-Revision-Date: 2016-05-23 21:35+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/buttons/de/>\n"
 "Language: de\n"
@@ -14,121 +14,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.7-dev\n"
 
-#: smth
+#: smth 
 msgid "help"
 msgstr "📚Hilfe"
 
 #: smth
-msgid "work"
-msgstr "🍞Arbeiten!"
-
-#: smth
-msgid "quests"
-msgstr "🚀Quests"
-
-#: smth
-msgid "quest_accept"
-msgstr "Quest anfangen🗡"
-
-#: smth
-msgid "quest_reject"
-msgstr "Nicht jetzt"
-
-#: smth
-msgid "battles"
-msgstr "Kämpfe⚔"
-
-#: smth
-msgid "search_opponent"
-msgstr "Gegner suchen👁"
-
-#: smth
-msgid "battle_no_power"
-msgstr "Ungenügend Gold👎"
-
-#: smth
-msgid "reject"
-msgstr "Ablehnen"
-
-#: smth
-msgid "battle_add_power"
-msgstr "Verstärkung senden!🗡"
-
-#: smth
-msgid "battle_start"
-msgstr "Angreifen!⚔"
-
-#: smth
-msgid "quest_3"
-msgstr "⭐️Wölfe"
-
-#: smth
-msgid "refresh_data"
-msgstr "🔃Info aktualisieren"
-
-#: smth
-msgid "tutorial_1"
-msgstr "Münzen nehmen!💰"
-
-#: smth
-msgid "return_to_village"
-msgstr "Zum Dorf🔙"
-
-#: smth
-msgid "tutorial_2"
-msgstr "Dorf gefunden!🏘"
-
-#: smth
-msgid "invite_friends"
-msgstr "Arbeiter bekommen::-worker-::"
-
-#: smth
-msgid "harvest"
-msgstr "Brot verkaufen💰"
-
-#: smth
-msgid "quest_add_power"
-msgstr "Verstärkungen senden! 🗡"
-
-#: smth
-msgid "quest_no_power"
-msgstr "Keine Ressourcen👎"
-
-#: smth
-msgid "quest_1"
-msgstr "⭐️⭐️️Beschütze die Karawane"
-
-#: smth
-msgid "quest_2"
-msgstr "⭐️⭐️⭐️️Beschütze das Dorf"
-
-#: smth
-msgid "swords_10"
-msgstr "Kleine Truppe 10::-sword-::"
-
-#: smth
-msgid "war_quest"
-msgstr "⚔Kriegsquest⚔"
-
-#: smth
-msgid "shop"
-msgstr "::-diamond-::Laden"
-
-#: smth
-msgid "buy_50_gold"
-msgstr "Kaufen Sie 50::-moneybag-:: für 5::-diamond-::"
-
-#: smth
 msgid "top"
-msgstr "🏆Beste Spieler"
+msgstr "🏆TOP"
 
 #: smth
 msgid "chooselanguage"
-msgstr "Sprache wählen"
+msgstr "Sprache auswählen"
 
 #: smth
 msgid "feedback"
-msgstr "📢Vorschläge"
+msgstr "📢Feedback"
 
 #: smth
 msgid "chatlink"
@@ -140,16 +40,118 @@ msgstr "Hauptmenü"
 
 #: smth
 msgid "ratebot"
-msgstr "Bewerte mich ::-like-::"
+msgstr "Bewerte mich! ::-like-::"
 
 #: smth
 msgid "cancel"
 msgstr "Abbrechen"
 
 #: smth
+msgid "work"
+msgstr "🍞Arbeiten!"
+
+#: smth
+msgid "quests"
+msgstr "🚀Quests"
+
+#: smth
+msgid "quest_accept"
+msgstr "Quest starten🗡"
+
+#: smth
+msgid "quest_reject"
+msgstr "Nicht jetzt"
+
+#: smth
+msgid "battles"
+msgstr "Schlachten"
+
+#: smth
+msgid "search_opponent"
+msgstr "Gegner suchen!👁"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Zu wenig Gold👎"
+
+#: smth
+msgid "reject"
+msgstr "Ablehnen"
+
+#: smth
+msgid "battle_add_power"
+msgstr "Verstärkung senden!🗡"
+
+#: smth
+msgid "battle_start"
+msgstr "Angriff!⚔"
+
+#: smth
+msgid "quest_3"
+msgstr "⭐️️Wölfe"
+
+#: smth
 msgid "village"
 msgstr "Dorf"
 
 #: smth
+msgid "refresh_data"
+msgstr "🔃Informationen aktualisieren"
+
+#: smth
+msgid "tutorial_1"
+msgstr "Gold verdienen💰"
+
+#: smth
+msgid "return_to_village"
+msgstr "Zurück zum Dorf.🔙"
+
+#: smth
+msgid "tutorial_2"
+msgstr "Dorf gefunden! 🏘"
+
+#: smth
+msgid "invite_friends"
+msgstr "Arbeiter bekommen::-worker-::"
+
+#: smth
+msgid "harvest"
+msgstr "Brot verkaufen💰"
+
+#: smth
+msgid "quest_add_power"
+msgstr "Verstärkung schicken! 🗡"
+
+#: smth
+msgid "quest_no_power"
+msgstr "Keine Materialien👎"
+
+#: smth
+msgid "quest_2"
+msgstr "⭐️⭐️⭐️Dorf retten"
+
+#: smth
+#, fuzzy
+msgid "quest_1"
+msgstr "⭐️⭐️Den Kavaran beschützen"
+
+#: smth
+msgid "swords_10"
+msgstr "Kleine Truppe 10::-sword-::"
+
+#: smth
 msgid "swords_100"
 msgstr "Große Truppe 100::-sword-::"
+
+#: smth
+#, fuzzy
+msgid "war_quest"
+msgstr "⚔Kriegs-Mission⚔"
+
+#: smth
+msgid "shop"
+msgstr "::-diamond-::Shop"
+
+#: smth
+msgid "buy_50_gold"
+msgstr "50::-moneybag-:: für 5::-diamond-:: kaufen"

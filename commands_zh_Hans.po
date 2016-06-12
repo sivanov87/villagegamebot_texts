@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: 2016-05-10 07:36+0000\n"
+"PO-Revision-Date: 2016-05-11 02:38+0000\n"
 "Last-Translator: guest <guest@example.com>\n"
 "Language-Team: Simplified Chinese <http://translate.villagegamebot.tgroups.me"
 "/projects/villagegamebot/buttons/zh_Hans/>\n"
@@ -92,7 +92,7 @@ msgstr "⭐️狼群"
 
 #: smth
 msgid "village"
-msgstr "村庄"
+msgstr "村子"
 
 #: smth
 msgid "refresh_data"
@@ -152,4 +152,4 @@ msgstr "::-diamond-::商店"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "5::-diamond-::可换50::-moneybag-::"
+msgstr "5::-diamond-::可兑换50::-moneybag-::"

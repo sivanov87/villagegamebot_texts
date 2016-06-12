@@ -145,7 +145,7 @@ msgstr "Duży oddział- 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr "⚔Wyrusz na wojnęt⚔"
+msgstr "⚔Wyrusz na wojnę ⚔"
 
 #: smth
 msgid "shop"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-08 00:28+0000\n"
-"PO-Revision-Date: 2016-05-08 00:30+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-22 12:28+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Italian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/it/>\n"
 "Language: it\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: smth
 msgid "help"
-msgstr "📚Aiuto"
+msgstr "📚aiuto"
 
 #: smth
 msgid "work"
@@ -123,7 +123,6 @@ msgid "buy_50_gold"
 msgstr "Compri 50::-moneybag-:: per 5::-diamond-::"
 
 #: smth
-#, fuzzy
 msgid "top"
 msgstr "🏆TOP"
 

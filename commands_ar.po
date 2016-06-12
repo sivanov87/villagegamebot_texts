@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-21 03:54+0000\n"
+"PO-Revision-Date: 2016-05-21 04:03+0000\n"
 "Last-Translator: iDa7om <asa-2010-@windowslive.com>\n"
 "Language-Team: Arabic <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/buttons/ar/>\n"
@@ -41,7 +41,7 @@ msgstr "القائمة الرئيسية"
 
 #: smth
 msgid "ratebot"
-msgstr "قيمني👍"
+msgstr "قيمني ::-like-::"
 
 #: smth
 msgid "cancel"
@@ -113,7 +113,7 @@ msgstr "🏘العثور على قرية"
 
 #: smth
 msgid "invite_friends"
-msgstr "احصل على عمال::-عامل-::"
+msgstr "احصل على عمال ::-worker-::"
 
 #: smth
 msgid "harvest"
@@ -137,11 +137,11 @@ msgstr "⭐️⭐️⭐️حماية القرية"
 
 #: smth
 msgid "swords_10"
-msgstr "مجموعة صغيرة 10⚔"
+msgstr "مجموعة دعم صغيرة 10 ::-sword-::"
 
 #: smth
 msgid "swords_100"
-msgstr "مجموعة دعم كبيرة 100⚔"
+msgstr "مجموعة دعم كبيرة 100 ::-sword-::"
 
 #: smth
 msgid "war_quest"
@@ -153,4 +153,4 @@ msgstr "متجر💎"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "اشتري 50💰 مقابل 5💎"
+msgstr "اشتري 50 ::-moneybag-:: مقابل 5 ::-diamond-::"

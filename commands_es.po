@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: 2016-05-07 22:50+0000\n"
-"Last-Translator: Lucas Kado <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-18 04:45+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/es/>\n"
 "Language: es\n"
@@ -52,7 +52,7 @@ msgstr "🍞¡A trabajar!"
 
 #: smth
 msgid "quests"
-msgstr "🚀Cruzadas"
+msgstr "🚀Misiones"
 
 #: smth
 msgid "quest_accept"
@@ -60,7 +60,7 @@ msgstr "Ir a la cruzada🗡"
 
 #: smth
 msgid "quest_reject"
-msgstr "Mejor no"
+msgstr "Ahora no"
 
 #: smth
 msgid "battles"
@@ -80,7 +80,7 @@ msgstr "Rechazar"
 
 #: smth
 msgid "battle_add_power"
-msgstr "¡Enviad refuerzos!🗡"
+msgstr "¡Enviar refuerzos!🗡"
 
 #: smth
 msgid "battle_start"
@@ -120,7 +120,7 @@ msgstr "Vender alimento💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr "¡Enviad refuerzos! 🗡"
+msgstr "¡Enviar refuerzos! 🗡"
 
 #: smth
 msgid "quest_no_power"
