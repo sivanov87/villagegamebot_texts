@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 17:35+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-25 20:53+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: French <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/fr/>\n"
 "Language: fr\n"
@@ -15,7 +15,6 @@ msgid "chooselanguage"
 msgstr ""
 
 #: smth
-#, fuzzy
 msgid "feedback"
 msgstr ""
 "S'il vous plait, ecrivez vos remarques concernant le bot dans le message "
@@ -24,52 +23,72 @@ msgstr ""
 "https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
-#, fuzzy
 msgid "botisstopped"
 msgstr ""
 "Vous vous êtes désabonné. Vous ne recevrez plus de notification. Vous pouvez "
 "toujours vous re-abonner en envoyant /start"
 
 #: smth
-#, fuzzy
 msgid "ratebot"
-msgstr "S'il vous plait, notez ce bot."
+msgstr "S'il vous plaît, notez ce bot."
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "Merci !"
 
 #: smth
 msgid "help"
 msgstr ""
+"Vous jouez au premier jeu de stratégie sur Telegram. Vous pouvez cultiver "
+"::-bread-::, les échanger contre de l'or::-moneybag-::, Lancer des quêtes🚀, "
+"combattre d'autre joueurs, et developper votre village\n"
+"Amusez-vous!\n"
+"\n"
+"Chat d'entraide:  https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"Chaîne des nouveautés - @VillageGameEn\n"
+"\n"
+"/chooselanguage - Sélectionner la langue"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"Village %villagename% (Level %level%::-village-::, %level_percents%%)\n"
+"\n"
+"Travailleurs: %workers% ::-worker-::\n"
+"Pain: %bread% / %max_bread% ::-bread-::\n"
+"Or: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"Medailles: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"Un ami a été ajouté. Vous recevez 1::-worker-:: et 5::-moneybag-::\n"
+"Invitez des amis /invite_friends"
 
 #: smth
 msgid "working_yet"
 msgstr ""
+"Vous êtes actuellement en plein travail. Attendez quelques instants. Vous "
+"pouvez en attendant exécuter des quêtes /quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"Vous avez commencé à travailler et à récolter 60::-bread-::! Pendant ce "
+"temps vous pouvez exécuter /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "Code promotionnel accepté. Or - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "Mauvais code promotionnel. Vous pouvez /work ou exécuter /quests"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "Le travail est terminé mon seigneur! Travailler - /work"
 
 #: smth
 msgid "delimeter"
@@ -78,14 +97,22 @@ msgstr ""
 #: smth
 msgid "tutorial_1"
 msgstr ""
+"Vous passez à travers les champs et trouvez un sac à main avec 51 pièces de "
+"monnaie :: - moneybagg- :: sur la route."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
+"C'est une bonne fortune ! Ensuite, vous apercevez deux paysans  "
+"::-worker-::::-worker-::. Et vous avez une brillante idée - les engager et "
+"établir un règlement ici."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"Eh bien, les paysans sont employés. Par ailleurs, pour le moment il est venu "
+"de vendre votre récolte de 2000 ::-bread-:: et vous pouvez gagner 20 "
+"::-moneybag-::."
 
 #: smth
 msgid "tutorial_4"
@@ -106,18 +133,24 @@ msgstr ""
 #: smth
 msgid "tutorial_3_no"
 msgstr ""
+"Il est nécessaire de rassembler la récolte, sinon elle sera périmé. :(  "
+"/harvest"
 
 #: smth
 msgid "top_before"
-msgstr ""
+msgstr "Meilleur joueurs::-medal-::"
 
 #: smth
 msgid "need_harvest"
 msgstr ""
+"Vos champs sont pleins. Il est nécessaire de récolter les semances, sinon le "
+"pain va moisir - /harvest"
 
 #: smth
 msgid "not_harvested"
 msgstr ""
+"La récolte trop petite. Attendez jusqu'à ce qu'il y ai au moins 100 "
+"::-bread-:: ou travaillez - /work "
 
 #: smth
 msgid "quest_1_description"
@@ -126,14 +159,18 @@ msgstr ""
 #: smth
 msgid "quest_1_good"
 msgstr ""
+"Excellent! La caravane est passée sans aucun problème, et vous profitez de "
+"vos gains!"
 
 #: smth
 msgid "quest_1_question"
 msgstr ""
+"La caravane a été attaqué et vos gardes l'on défendu de justesse. Envoyez "
+"leur des renforts %add_power% ::-sword-:: ou ils vont mourir!"
 
 #: smth
 msgid "quest_1_win"
-msgstr ""
+msgstr "Vos troupes ont protégés la caravane et vous obtenez de l'or."
 
 #: smth
 msgid "quest_1_fail"

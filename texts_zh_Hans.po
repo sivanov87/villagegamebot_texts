@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-11 02:32+0000\n"
-"Last-Translator: guest <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-23 05:07+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Simplified Chinese <http://translate.villagegamebot.tgroups.me"
 "/projects/villagegamebot/texts/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -261,7 +261,7 @@ msgstr "勋章 ::-medal-:: 展现了你的勇气。你可以通过战斗⚔获�
 #: smth
 msgid "tip_level"
 msgstr ""
-"村子的等级 ::-village-:: - 是发展程度的指标，通过赚钱 ::-moneybag-::、雇佣 ::-worker-:: 以及获得 "
+"村子的等级 ::-village-:: - 是发展程度的指标， 通过赚钱 ::-moneybag-::、 雇佣 ::-worker-:: 以及获得 "
 "::-medal-:: 可以提升等级"
 
 #: smth
@@ -293,9 +293,9 @@ msgstr ""
 #: smth
 msgid "template_share"
 msgstr ""
-"请求支援 - 到 %reflink% 加入Telegram上的第一款策略游戏，这样我就能得到新工人::-worker-:: 及金钱 "
-"::-moneybag-::。\n"
-"这个游戏很好玩。::-baloon-::"
+"帮帮我 - 到 %reflink% 加入Telegram上的第一款策略游戏，这样我就能得到新工人 ::-worker-:: 及金钱 "
+"::-moneybag-:: 。\n"
+"请加入我们，这个游戏挺有意思的。 ::-baloon-::"
 
 #: smth
 msgid "defense_win"

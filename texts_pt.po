@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-05-12 18:22+0000\n"
+"PO-Revision-Date: 2016-05-12 18:24+0000\n"
 "Last-Translator: guest <guest@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
@@ -89,13 +89,15 @@ msgstr ""
 
 #: smth
 msgid "tutorial_2"
-msgstr "Que sorte! Então você vê dois camponeses ::-worker-::::-worker-::. E aí você tem uma brilhante ideia — contratá-los e fundar um assentamento aqui."
+msgstr ""
+"Que sorte! Então você vê dois camponeses ::-worker-::::-worker-::. E aí você "
+"tem uma brilhante ideia — contratá-los e fundar uma Vila aqui."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
 "Bom, os camponeses foram contratados. A propósito, agora é hora de vender "
-"sua colheita de 2000 ::-bread-:: e você ganha 20 ::-moneybag-:: ."
+"sua colheita de 2000 ::-bread-:: assim, você pode ganhar 20 ::-moneybag-:: ."
 
 #: smth
 msgid "tutorial_4"

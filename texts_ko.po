@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 05:40+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-31 16:48+0000\n"
+"Last-Translator: MatinBeigi <matinbeigi97@yahoo.com>\n"
+"Language-Team: Korean <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/texts/ko/>\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,26 +17,49 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
+"لطفا نظر خود را درباره ربات بنویسید.::-baloon-::\n"
+"همچنین می توانید به گروه ما ملحق شوید : "
+"https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"شما از اشتراک خبرنامه خارج شدید. از این پس هیچ پیامی برای شما ارسال نخواهد "
+"شد ولی اگر دوست داشتید مجدد ثبت نام کنید عبارت /start را بنویسید.\n"
+"لینک گروه پشتیبانی : https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "لطفا،به این ربات امتیاز بدید"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "سپاسگذاریم!"
 
 #: smth
 msgid "help"
 msgstr ""
+"شما در حال بازی کردن اولین بازی استراتژی تلگرام هستید.می توانید ::-bread-:: "
+"محصولاتتان را پرورش دهید از آنها ::-moneybag-:: طلا بدست آورید به 🚀 "
+"ماجراجویی بروید، با دیگر بازیکنان ⚔ بجنگید،و دهکده خود را گسترش دهید.\n"
+"امیدواریم از بازی لذت ببرید. \n"
+"\n"
+"Support chat:  https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ \n"
+"\n"
+"News channel - @VillageGameEn\n"
+"\n"
+"/chooselanguage  زبان خود را انتخاب کنید :"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"دهکده %villagename% (سطح %level%::-village-::, %level_percents%%)\n"
+"\n"
+"کارگران: %workers% ::-worker-::\n"
+"محصولات: %bread% / %max_bread% ::-bread-::\n"
+"طلاها: %gold% ::-moneybag-::\n"
+"الماس ها %diamonds% ::-diamond-::\n"
+"مدال ها: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"

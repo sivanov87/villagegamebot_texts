@@ -1,14 +1,14 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-07 07:51+0000\n"
-"Last-Translator: Mossi <guest@example.com>\n"
+"PO-Revision-Date: 2016-05-13 12:56+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
 "Language-Team: Italian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/it/>\n"
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.7-dev\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #: smth
 msgid "thanks"
@@ -16,11 +16,25 @@ msgstr "Grazie!"
 
 #: smth
 msgid "help"
-msgstr "Benvenuto nel primo gioco strategico mai creato prima su Telegram. Coltiva ::-bread-::, convertilo in oro ::-moneybag-::, completa le missioni🚀, combatti con gli altri giocatori⚔ e costruisci il tuo villaggio.\r\nBuon divertimento!\r\nChat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\nCanale - @VillageGameEn\r\n\r\nchooselanguage - choose language\r\n"
+msgstr ""
+"Benvenuto nel primo gioco strategico mai creato prima su Telegram. Coltiva "
+"::-bread-::, convertilo in oro ::-moneybag-::, completa le missioni🚀, "
+"combatti contro altri giocatori⚔ e costruisci il tuo villaggio.\n"
+"Buon divertimento!\n"
+"Chat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"Canale - @VillageGameEn\n"
+"\n"
+"Scegli la lingua - /chooselanguage"
 
 #: smth
 msgid "village_description"
-msgstr "Villaggio %villagename% (Livello %level%::-village-::, %level_percents%%)\r\n\r\nLavoratori: %workers% ::-worker-::\r\nPane: %bread% / %max_bread% ::-bread-::\r\nOro: %gold% ::-moneybag-:: %diamond%::-diamond-::\r\nMedaglie: %medals% ::-medal-::\r\n"
+msgstr ""
+"Villaggio %villagename% (Livello %level%::-village-::, %level_percents%%)\n"
+"\n"
+"Operai: %workers% ::-worker-::\n"
+"Pane: %bread% / %max_bread% ::-bread-::\n"
+"Oro: %gold% ::-moneybag-:: %diamond%::-diamond-::\n"
+"Medaglie: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
@@ -60,7 +74,13 @@ msgstr "Eccellente! Il raccolto maturera' col tempo, di tanto in tanto potresti 
 
 #: smth
 msgid "tutorial_5"
-msgstr "Codice valido! Hai ottenuto la tua ricompensa. Controlla regolarmente il canale, potrai trovare spesso altri codici segreti.\r\nAdesso pensiamo a costruire il villaggio. Prima di iniziare pero', sarebbe meglio reclutare altri lavoratori. Ecco un modo per farlo - invita i tuoi amici attraverso questo link %reflink%. Ogni amico che utilizzara' il tuo link per entrare, ti dara' 1 ::-worker-:: e 5 ::-moneybag-::"
+msgstr ""
+"Eccellente! Il raccolto maturerà nel tempo, quindi ti consigliamo di entrare "
+"periodicamente nel gioco per raccoglierlo\n"
+"Adesso pensiamo a costruire il villaggio. Prima di iniziare pero', sarebbe "
+"meglio reclutare altri lavoratori. Ecco un modo per farlo - invita i tuoi "
+"amici attraverso questo link %reflink%. Ogni amico che utilizzara' il tuo "
+"link per entrare, ti dara' 1 ::-worker-:: e 5 ::-moneybag-::"
 
 #: smth
 msgid "tutorial_4_no"
@@ -235,6 +255,7 @@ msgid "tip_money"
 msgstr "Oro ::-moneybag-:: - la moneta del gioco. Puoi incrementare il loro numero coltivando ::-bread-::, completando le missioni🚀 e combattendo⚔"
 
 #: smth
+#, fuzzy
 msgid "feedback"
 msgstr ""
 "Scrivi il tuo parere riguardo il bot nel prossimo messaggio::-baloon-::\n"

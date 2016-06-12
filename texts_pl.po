@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-13 12:04+0000\n"
+"PO-Revision-Date: 2016-05-13 12:31+0000\n"
 "Last-Translator: guest <guest@example.com>\n"
 "Language-Team: Polish <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/pl/>\n"
@@ -92,7 +92,7 @@ msgstr "Praca ukończona mój Panie! Pracuj dalej - /work"
 
 #: smth
 msgid "tutorial_1"
-msgstr "Idąc poprzez pola zauważasz torbę a w niej 51 monet ::-moneybag-::"
+msgstr "Idąc poprzez pola zauważasz torbę a w niej 51 monet ::-moneybag-::."
 
 #: smth
 msgid "tutorial_2"
@@ -227,8 +227,8 @@ msgstr ""
 msgid "quest_no_money"
 msgstr ""
 "Nie masz wystarczająco dużo pieniędzy na wykonanie zadania. Zaproś znajomych "
-"(/zapros_znajomych), lub szukaj promocyjnych kodów (@VillageGameEn), "
-"sprzedawaj zasoby - z nich otrzymujesz pieniądze! "
+"(//invite_friends), lub szukaj promocyjnych kodów (@VillageGameEn), "
+"sprzedawaj zasoby - z nich otrzymujesz pieniądze!"
 
 #: smth
 msgid "battles"
@@ -251,7 +251,7 @@ msgid "battle_question"
 msgstr ""
 "Podczas walki, przeciwnik zwołał swoje wojsko, które otoczyło naszą armię. "
 "By oszczędzić siebie, musisz wysłać wzmocnienie %add_power%::-sword-::, w "
-"innym wypadku zostaniesz zabity! "
+"innym wypadku zostaniesz zabity!"
 
 #: smth
 msgid "battle_win"
@@ -300,7 +300,7 @@ msgstr "Nie możesz pomóc farmerom..."
 msgid "quest_3_win"
 msgstr ""
 "Oddziały były zdolne przeciwstawić się wilkom. Wdzięczny rezydent zapłacił "
-"całość. "
+"całość. \\"
 
 #: smth
 msgid "tip_bread"
@@ -401,7 +401,7 @@ msgstr "Najlepsi gracze według poziomu  %level%::-medal-::"
 msgid "no_money"
 msgstr ""
 "Niestety nie masz pieniędzy ::-moneybag-::...\n"
-"Aby je uzyskać poczekaj na chleb ::-bread-:: ."
+"Aby je uzyskać poczekaj na chleb ::-bread-::."
 
 #: smth
 msgid "no_revenge"
