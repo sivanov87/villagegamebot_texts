@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-10 21:11+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-29 13:15+0000\n"
+"Last-Translator: MatinBeigi <matinbeigi97@yahoo.com>\n"
 "Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/en/>\n"
 "Language: en\n"
@@ -402,8 +402,8 @@ msgstr "Best players lvl %level%::-medal-::"
 #: smth
 msgid "no_money"
 msgstr ""
-"Unfortunately, you have no money::-moneybag-::...\n"
-"To receive them - wait bread ::-bread-:: won't ripen yet"
+"متاسفانه شما پولی ندارید::-moneybag-::...\n"
+"برای دریافت نان ها صبر کنید ::-bread-:: نمیرسد"
 
 #: smth
 msgid "no_revenge"

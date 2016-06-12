@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 05:40+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-23 04:02+0000\n"
+"Last-Translator: iDa7om <asa-2010-@windowslive.com>\n"
+"Language-Team: Arabic <http://translate.villagegamebot.tgroups.me/projects/vi"
+"llagegamebot/texts/ar/>\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,50 +18,74 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
+"رجاءً، اكتب تقييمك عن البوت في الرسالة التالية::-baloon-::\n"
+"أيضاً يمكنك التواصل من خلال - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"لقد قمت بإلغاء إشتراكك. لن تأتيك إشعارات بعد الأن. لكن يمكنك دائماً التسجيل "
+"بواسطة الضغط على start/"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "رجاءً، قيم البوت"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "شكراً لك!"
 
 #: smth
 msgid "help"
 msgstr ""
+"أنت الان تلعب اول لعبة استراتيجية في تليگرام. يمكنك ان تزرع المحاصيل 🍞 ، "
+"تحول هذا كله الى ذهب 💰 وان تبدأ المهام 🚀 ، وان تقوم بحروب مع لاعبين اخرين ⚔ "
+"و ان تتطور قريتك الخاصة.\n"
+"أستمتع!\n"
+"\n"
+"الدعم: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"قناة الاخبار  - @VillageGameEn\n"
+"\n"
+"/chooselanguage - اختيار اللغة"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"القرية %villagename% (المستوى %level%::-village-::, %level_percents%%)\n"
+"\n"
+"العمال: %workers% ::-worker-::\n"
+"الخبز: %bread% / %max_bread% ::-bread-::\n"
+"الذهب: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"الميداليات: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"تم إضافة صديق جديد. لقد حصلت على 1::-worker-::  وايضاً 5::-moneybag-::\n"
+"ادعوا المزيد من الاصدقاء بالضغط على /invite_friends"
 
 #: smth
 msgid "working_yet"
-msgstr ""
+msgstr "العمل لايزال جاري. انتظر قليلاً. لكن يمكنك عمل المهام  /quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"لقد بدأت بالعمل  وحصلت على 60 ::-bread-:: ! والان يمكنك عمل المهام /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "تم قبول الرمز الترويجي. ذهب - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "لم يتم قبول الرمز الترويجي. يمكنك ان تعمل /work او تقوم بمهام /quests"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "تم الانتهاء من العمل سيدي ، اعمل - /work"
 
 #: smth
 msgid "delimeter"
@@ -69,14 +94,20 @@ msgstr ""
 #: smth
 msgid "tutorial_1"
 msgstr ""
+"انت تعبر الحقول و ترى ان الحقيبة التي تحوي 51 عملة ::-moneybag-:: ملقاة على "
+"الارض."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
+"هذه ثروة جيدة! بعدها، ترى فلاحان اثنان ::-worker-:: ::-worker-:: و هي فكرة "
+"رائعة ان توظفهم وتؤسس صلح هنا."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"حسناً، الفلاحين غير متوظفين . بالمناسبة حان الوقت لبيع محصولك المكون من 2000 "
+"::-bread-:: ويمكنك ان تجني  20 ::-moneybag-:: منه ."
 
 #: smth
 msgid "tutorial_4"
@@ -93,42 +124,51 @@ msgstr ""
 #: smth
 msgid "harvested"
 msgstr ""
+"لقد بعت %bread_diff% ::-bread-:: مقابل %gold_diff% ::-moneybag-::, رائع!"
 
 #: smth
 msgid "tutorial_3_no"
-msgstr ""
+msgstr "من الضروري ان تجمع المحصول والا سوف يفسد. :( /harvest"
 
 #: smth
 msgid "top_before"
-msgstr ""
+msgstr "أفضل اللاعبين ::-medal-::"
 
 #: smth
 msgid "need_harvest"
 msgstr ""
+"الحقول الخاصة بك ممتلئه. من الضروري ان تجمع المحصول والا سوف يفسد - /harvest"
 
 #: smth
 msgid "not_harvested"
 msgstr ""
+"المحصول قليل جداً. انتظر حتى يكون هنالك 100 ::-bread-:: على الاقل او يمكنك "
+"العمل /work "
 
 #: smth
 msgid "quest_1_description"
 msgstr ""
+"القافلة مرت بجوار القرية الخاصة بك. وتطلب منك الحماية. وهي تحتاج "
+"%start_power% ::-sword-::. مقابل حمايتك للقافلة تحصل على %gold% "
+"::-moneybag-::."
 
 #: smth
 msgid "quest_1_good"
-msgstr ""
+msgstr "رائع! القافلة مرت بسلام ، ويمكنك الاستمتاع بالارباح التي استحقيتها!"
 
 #: smth
 msgid "quest_1_question"
 msgstr ""
+"القافلة تعرضت للهجوم و قواتك تعاني لحمايتها.\n"
+"ارسل دعم لهم %add_power% والا سوف يموتون!"
 
 #: smth
 msgid "quest_1_win"
-msgstr ""
+msgstr "قواتك تمكنت من حماية القافلة ولذلك تحصل على ذهب."
 
 #: smth
 msgid "quest_1_fail"
-msgstr ""
+msgstr "انت لم تقم بإرسال دعم لذلك قواتك والقافلة تم تدميرهم بالكامل..."
 
 #: smth
 msgid "quest_2_description"
@@ -144,11 +184,11 @@ msgstr ""
 
 #: smth
 msgid "quest_2_win"
-msgstr ""
+msgstr "مجموعتك ذهبت للمساعدة و دمرت اللصوص و انت حصلت على حفنه ذهب!"
 
 #: smth
 msgid "quest_2_fail"
-msgstr ""
+msgstr "مجموعتك تم تدميرها..."
 
 #: smth
 msgid "quests"
@@ -176,7 +216,7 @@ msgstr ""
 
 #: smth
 msgid "battle_fail"
-msgstr ""
+msgstr "مجموعتنا هربت من مقابله جيش العدو الأقوى . انها خسارة فادحة!"
 
 #: smth
 msgid "battle_good"

@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-10 21:24+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-05-25 18:22+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Chinese <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/zh/>\n"
 "Language: zh\n"
@@ -26,29 +26,29 @@ msgstr ""
 
 #: smth
 msgid "botisstopped"
-msgstr "您中止了訂閱。你不會再收到任何有關的通知。你可以隨時透過 /start 指令重新啟動本遊戲"
+msgstr "您中止了訂閱。您不再會收到任何有關本游戏的通知。您可以隨時通过键入 /start 指令而重新加入本遊戲"
 
 #: smth
 msgid "ratebot"
 msgstr "請為本遊戲評分"
 
 #: smth
+#, fuzzy
 msgid "thanks"
-msgstr "萬分感激！"
+msgstr "谢谢！"
 
 #: smth
 msgid "help"
 msgstr ""
 "這是Telegram上的首款策略遊戲。你可以耕作 "
-"::-bread-::，以農作物換取金錢::-moneybag-::，完成各款任務，與不同玩家戰鬥⚔，以及建設你的村莊。請享受！\n"
+"::-bread-::，以農作物換取金錢::-moneybag-::，完成各款任務🚀，與不同玩家戰鬥⚔，以及建設你的村莊。\n"
+"盡情玩吧！\n"
 "\n"
-"英語支援頻道: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
-"\n"
-"華語支援頻道: https://telegram.me/joinchat/A-5Caj-No1QUA5SE1wHfGA\n"
+"英語支援小組: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
 "\n"
 "新聞頻道 - @VillageGameEn\n"
 "\n"
-"/chooselanguage - choose language"
+"/chooselanguage - 選擇語言"
 
 #: smth
 msgid "village_description"
@@ -80,7 +80,7 @@ msgstr "推廣碼被接納了。金錢 - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
-msgstr "推廣碼錯誤。你可以先工作 /work 或挑戰任務 /quests"
+msgstr "推廣碼錯誤。您可以先去工作 /work 或挑戰任務 /quests"
 
 #: smth
 msgid "work_finished"
@@ -258,7 +258,7 @@ msgstr "你愛莫能助... 抱歉。"
 
 #: smth
 msgid "quest_3_win"
-msgstr "援兵成功擊退了狼群。地方的媽媽向您道謝。"
+msgstr "援兵成功擊退了狼群。地方媽媽向您道謝。"
 
 #: smth
 msgid "tip_bread"
@@ -275,8 +275,8 @@ msgstr "獎牌 ::-medal-:: 決定了您的江湖地位。你可以在戰鬥⚔�
 #: smth
 msgid "tip_level"
 msgstr ""
-"村莊的等級 ::-village-:: - 是發展程度的指標，透過賺錢 ::-moneybag-::、聘請 ::-worker-:: 以及奪取 "
-"::-medal-:: 可以提升等級"
+"村莊等級 ::-village-:: -  村庄规模的度量，可以通过::-moneybag-::、聘請 ::-worker-:: 以及奪取 "
+"::-medal-:: 从而提升等級"
 
 #: smth
 msgid "tip_battles"
@@ -301,16 +301,16 @@ msgid "invite_friends"
 msgstr ""
 "工人::-worker-::是村莊的原動力。他們會耕作::-bread-::，為您帶來金幣::-moneybag-::。\n"
 "您可以透過邀請朋友加入遊戲得到新工人::-worker-::。\n"
-"您可以透過此連結%reflink%邀請親朋戚友加入這個遊戲，\n"
+"您可以透過此連結 %reflink% 邀請親朋戚友加入這個遊戲，\n"
 "每一個好友的加入，都會為您帶來一個新的工人::-worker-::。\n"
 "您可以把上一段訊息傳給您朋友"
 
 #: smth
 msgid "template_share"
 msgstr ""
-"請施以援手 - 到 %reflink% 加入Telegram上的首款策略遊戲，助我獲得新工人::-worker-:: 及金錢 "
+"能帮个忙吗？ - 一起 %reflink% 加入Telegram上的首款策略遊戲，进入链接来助我獲得新工人::-worker-:: 以及金錢 "
 "::-moneybag-::。\n"
-"這是一個十分有趣的遊戲。::-baloon-::"
+"這是個非常赞的遊戲！::-baloon-::"
 
 #: smth
 msgid "defense_win"
@@ -331,7 +331,7 @@ msgstr "金錢::-moneybag-:: 是本遊戲的主要貨幣。您可以透過耕作
 
 #: smth
 msgid "tip_chat"
-msgstr "欢迎加入支持聊天室 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+msgstr "歡迎加入支援聊天室 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "top_24_before"

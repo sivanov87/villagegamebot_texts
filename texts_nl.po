@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-06 15:10+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-05-11 02:44+0000\n"
+"Last-Translator: guest <guest@example.com>\n"
+"Language-Team: Dutch <http://translate.villagegamebot.tgroups.me/projects/vil"
+"lagegamebot/texts/nl/>\n"
 "Language: nl\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,14 +21,16 @@ msgstr ""
 #: smth
 msgid "botisstopped"
 msgstr ""
+"U heeft zich afgemeld. Nu krijgt u geen notificaties meer. U kunt zich "
+"altijd opnieuw aanmelden door /start te verzenden."
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Beoordeeld u a.u.b. deze bot."
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "Bedankt!"
 
 #: smth
 msgid "help"
@@ -36,30 +39,45 @@ msgstr ""
 #: smth
 msgid "village_description"
 msgstr ""
+"Dorp %villagename% (Level %level%::-village-::, %level_percents%%)\n"
+"\n"
+"Arbeiders: %workers% ::-worker-::\n"
+"Brood: %bread% / %max_bread% ::-bread-::\n"
+"Goud: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"Medailles: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"Een vriend is toegevoegd. U hebt 1::-worker-:: en 5::-moneybag-:: ontvangen."
+"\n"
+"Nodig vrienden uit /invite_friends"
 
 #: smth
 msgid "working_yet"
 msgstr ""
+"U bent op dit moment aan het werk. Wacht voor een korte periode. U kunt "
+"speurtochten uitvoeren /quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"U bent begonnen en u hebt 60::-bread-:: geoogst! U kunt nu speurtochten "
+"uitvoeren /quests"
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "Promotiecode geaccepteerd. Goud - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
 msgstr ""
+"Onjuiste promotiecode. U kunt gaan werken met /work of een speurtocht "
+"uitvoeren met /quests"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "Werk is geëindigd, mijn koning! Werken - /work"
 
 #: smth
 msgid "delimeter"
@@ -68,14 +86,21 @@ msgstr ""
 #: smth
 msgid "tutorial_1"
 msgstr ""
+"U loopt door velden en ziet dat de zak geld met 51 munten::-moneybag-:: op "
+"de weg ligt."
 
 #: smth
 msgid "tutorial_2"
 msgstr ""
+"Dat is nog eens goed geluk! Dan ziet u twee passanten::-worker-::::-worker-::"
+". U krijgt een briljant idee om ze in te huren en om hier een vestingsplaats "
+"te starten."
 
 #: smth
 msgid "tutorial_3"
 msgstr ""
+"Goed, de boeren hebben een baan. Oh ja, nu is het tijd om je oogst van 2000 "
+"::-bread-:: te verkopen, wat je 20 ::-moneybag-:: oplevert."
 
 #: smth
 msgid "tutorial_4"
@@ -84,6 +109,13 @@ msgstr ""
 #: smth
 msgid "tutorial_5"
 msgstr ""
+"Fantastisch! De oogst groeit met de tijd, daarom raden we u aan om periodiek "
+"in te checken  om de oogst te collecteren.\n"
+"Nu moet je je dorp verder ontwikkelen. Als eerste is het natuurlijk handig "
+"om nieuwe arbeiders in te huren. Een manier om dit te doen is het uitnodigen "
+"van vrienden naar het spel door deze link %reflink%. Elke vriend die je "
+"werft levert je een ::-worker-:: en 5 ::-moneybag-:: op. Of start met werken "
+"/work"
 
 #: smth
 msgid "tutorial_4_no"
@@ -92,22 +124,30 @@ msgstr ""
 #: smth
 msgid "harvested"
 msgstr ""
+"U heeft %bread_diff% ::-bread-:: voor %gold_diff% ::-moneybag-:: verkocht, "
+"super!"
 
 #: smth
 msgid "tutorial_3_no"
 msgstr ""
+"het is belangrijk om de oogst binnen te halen, anders bederft het. :( "
+"/harvest"
 
 #: smth
 msgid "top_before"
-msgstr ""
+msgstr "Beste spelers::-medal-::"
 
 #: smth
 msgid "need_harvest"
 msgstr ""
+"Uw velden zijn volledig gevuld. Het is belangrijk om de velden te oogsten, "
+"anders gaan de planten dood - /harvest"
 
 #: smth
 msgid "not_harvested"
 msgstr ""
+"Uw oogst is te klein. Wacht tot dat u ten minste 100 ::-bread-:: heeft. Of "
+"ga werken - /werken "
 
 #: smth
 msgid "quest_1_description"
@@ -116,26 +156,39 @@ msgstr ""
 #: smth
 msgid "quest_1_good"
 msgstr ""
+"Fantastisch! De karavaan  is gepasseerd zonder enige problemen. Geniet van "
+"uw winst!"
 
 #: smth
 msgid "quest_1_question"
 msgstr ""
+"De karavaan word aangevallen en de wachters kunnen het bijna niet meer aan. "
+"Stuur versterking ter grootte van  %add_power% ::-sword-:: anders zullen ze "
+"sterven!"
 
 #: smth
 msgid "quest_1_win"
 msgstr ""
+"Uw troepen hebben de karavaan beschermd en u heeft het goud ervoor gekregen."
 
 #: smth
 msgid "quest_1_fail"
 msgstr ""
+"U heeft geen versterking gestuurd en de karavaan evenals de verdedigers zijn "
+"vernietigd..."
 
 #: smth
 msgid "quest_2_description"
 msgstr ""
+"Bandieten hebben een dorp aangevallen. De burgemeester vraagt u om uw hulp - "
+"om de bandieten te verslaan moet u een leger van %start_power% ::-sword-:: "
+"sturen.  Overwinning beloofd u een mooie beloning van %gold% ::-moneybag-::"
 
 #: smth
 msgid "quest_2_good"
 msgstr ""
+"Deze bandieten waren lafaards! Ze renden er vandoor toen ze uw leger zagen. "
+"Het was te makkelijk maar de ouderen gaven u het beloofde goud."
 
 #: smth
 msgid "quest_2_question"
