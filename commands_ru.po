@@ -57,7 +57,7 @@ msgstr "Следующая фотография"
 
 #: smth
 msgid "work"
-msgstr "🍞Работать!"
+msgstr "🍞Работать"
 
 #: smth
 msgid "village"
@@ -65,7 +65,7 @@ msgstr "Деревня"
 
 #: smth
 msgid "tutorial_1"
-msgstr "Взять монеты!💰"
+msgstr "💰Взять монеты!"
 
 #: smth
 msgid "tutorial_2"
@@ -77,7 +77,7 @@ msgstr "💰Продать урожай"
 
 #: smth
 msgid "quest_add_power"
-msgstr "Отправить подмогу! 🗡"
+msgstr "🗡Отправить подмогу!"
 
 #: smth
 msgid "quest_no_power"
@@ -93,7 +93,7 @@ msgstr "⭐️⭐️⭐️Спасти деревню"
 
 #: smth
 msgid "quests"
-msgstr "🚀Квесты"
+msgstr "Квесты🚀"
 
 #: smth
 msgid "quest_accept"
@@ -129,7 +129,7 @@ msgstr "⭐️Разогнать волков"
 
 #: smth
 msgid "refresh_data"
-msgstr "🔃Обновить данные"
+msgstr "🔃Обновить"
 
 #: smth
 msgid "return_to_village"
@@ -165,8 +165,72 @@ msgstr "::-diamond-::Магазин"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "Купить 50::-moneybag-:: за 5::-diamond-::"
+msgstr "Купить 50::-moneybag-:: за 2::-diamond-::"
 
 #: smth
-msgid "chooselanguage"
-msgstr "Выберите язык"
+msgid "buy_1_worker"
+msgstr "Купить 1::-worker-:: за 5::-diamond-::"
+
+#: smth
+msgid "male"
+msgstr "👨Мужчина"
+
+#: smth
+msgid "female"
+msgstr "👸Женщина"
+
+#: smth
+msgid "job_scholar"
+msgstr "🏃Школьник"
+
+#: smth
+msgid "job_student"
+msgstr "Студент"
+
+#: smth
+msgid "job_worker"
+msgstr "Рабочий"
+
+#: smth
+msgid "job_master"
+msgstr "Мастер"
+
+#: smth
+msgid "job_white_collar_worker"
+msgstr "👔Служащий"
+
+#: smth
+msgid "job_manager"
+msgstr "💼Руководитель"
+
+#: smth
+msgid "job_businessman"
+msgstr "🎩Предприниматель"
+
+#: smth
+msgid "job_unemployed"
+msgstr "Безработный"
+
+#: smth
+msgid "questionary"
+msgstr "❓Анкета"
+
+#: smth
+msgid "skip"
+msgstr "Пропустить"
+
+#: smth
+msgid "desktop"
+msgstr "🖥Компьютер"
+
+#: smth
+msgid "laptop"
+msgstr "💻Ноутбук"
+
+#: smth
+msgid "device_other"
+msgstr "Другое устройство"
+
+#: smth
+msgid "gifts"
+msgstr "🎉Подарки"
