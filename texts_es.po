@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-18 04:39+0000\n"
-"Last-Translator: Jeff <guest@example.com>\n"
+"PO-Revision-Date: 2016-06-13 23:47+0000\n"
+"Last-Translator: keijodputt <keijodputt@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/es/>\n"
 "Language: es\n"
@@ -29,8 +29,8 @@ msgstr ""
 #: smth
 msgid "botisstopped"
 msgstr ""
-"Te has dado de baja. Ya no recibirás notificaciones de este bot. Siempre "
-"puedes volver a suscribirte escribiendo /start"
+"Te has dado de baja. Ya no recibirás notificaciones del bot. Siempre puedes "
+"volver a suscribirte escribiendo /start"
 
 #: smth
 msgid "ratebot"
@@ -44,11 +44,11 @@ msgstr "¡Gracias!"
 msgid "help"
 msgstr ""
 "Estás jugando al primer juego de estrategia de Telegram. Puedes cultivar "
-"trigo::-bread-::, venderlo por oro::-moneybag-::, realizar misiones🚀, luchar "
-"con otros jugadores⚔ y desarrollar tu ciudad.\n"
+"::-bread-::, venderlo por oro::-moneybag-::, realizar misiones🚀, luchar con "
+"otros jugadores⚔ y desarrollar tu ciudad.\n"
 "¡Diviértete!\n"
 "\n"
-"Chat de soporte: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"Chat de soporte: https://telegram.me/joinchat/AHDvRj9C3vWnt2MT5Ufdlw\n"
 "\n"
 "Canal de noticias: @VillageGameEn\n"
 "\n"
@@ -61,7 +61,7 @@ msgstr ""
 "\n"
 "Aldeanos: %workers% ::-worker-::\n"
 "Alimento: %bread% / %max_bread% ::-bread-::\n"
-"Oro: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"Tesoro: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
 "Medallas: %medals% ::-medal-::"
 
 #: smth
@@ -84,7 +84,7 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr "Código promocional aceptado. Oro -%gold%::-moneybag-::"
+msgstr "Código promocional aceptado. Oro +%gold%::-moneybag-:: "
 
 #: smth
 msgid "promocode_reject"
@@ -147,9 +147,9 @@ msgstr ""
 "\n"
 "En el futuro, puedes encontrar los códigos en los canales del juego o pueden "
 "dártelos tus amigos.\n"
-"Ahora necesitas desarrollar el pueblo. En primer lugar, estaría bien "
-"conseguir nuevos obreros. Una manera de hacerlo es invitar amigos al juego "
-"mediante el link %reflink%. Cada uno te dará un trabajador ::-worker-:: y 5 "
+"Ahora necesitas desarrollar tu pueblo. En primer lugar, deberías reclutar "
+"más aldeanos. Una manera de hacerlo es invitar amigos al juego mediante el "
+"link %reflink%. Cada nuevo amigo te dará un aldeano ::-worker-:: y 5 "
 "::-moneybag-::."
 
 #: smth
@@ -159,7 +159,7 @@ msgstr ""
 
 #: smth
 msgid "tutorial_3_no"
-msgstr "Es necesario recolectar la cosecha, si no se pudrirá. :( /harvest"
+msgstr "Es necesario cosechar, o se echará a perder. :( /harvest"
 
 #: smth
 msgid "top_before"
@@ -168,8 +168,8 @@ msgstr "Mejores jugadores::-medal-::"
 #: smth
 msgid "need_harvest"
 msgstr ""
-"Tus campos están completos. Es necesario recolectar la cosecha, o el "
-"alimento comenzará a pudrirse - /harvest"
+"Tus campos están llenos. Debes cosechar, o el alimento se echará a perder - "
+"/harvest"
 
 #: smth
 msgid "not_harvested"
@@ -202,8 +202,7 @@ msgstr "Tus tropas protegieron la caravana y obtuviste el oro."
 #: smth
 msgid "quest_1_fail"
 msgstr ""
-"No enviaste refuerzos, y la caravana junto con sus defensores fueron "
-"aniquilados..."
+"No enviaste refuerzos! La caravana y sus defensores fueron aniquilados..."
 
 #: smth
 msgid "quest_2_description"
@@ -237,8 +236,10 @@ msgstr "Tu escuadrón ha sido destruido..."
 #: smth
 msgid "quests"
 msgstr ""
-"Puedes elegir una cruzada, que te costará una cantidad realizar.\n"
-"Para reclutar 1 ::-sword-:: gastarás 1 ::-moneybag-::."
+"Puedes elegir una misión, que te costará oro para enlistar.\n"
+"Para reclutar 1 ::-sword-:: gastarás 1 ::-moneybag-::.\n"
+"\n"
+"Tus arcas: %gold%::-moneybag-::"
 
 #: smth
 msgid "quest_no_money"
@@ -251,9 +252,11 @@ msgstr ""
 msgid "battles"
 msgstr ""
 "Puedes luchar contra otros jugadores y ganar medallas ::-medal-::. Para "
-"ello, necesitas encontrar el enemigo y atacarle.\n"
+"ello, necesitas encontrar un enemigo y atacar.\n"
 "En cada búsqueda invertirás 1 ::-moneybag-:: independientemente de lo que "
-"suceda después."
+"suceda después.\n"
+"\n"
+"Tus arcas: %gold%::-moneybag-::"
 
 #: smth
 msgid "battle_start"
@@ -306,8 +309,8 @@ msgstr ""
 #: smth
 msgid "quest_3_question"
 msgstr ""
-"Tu escuadrón no da la talla, y no envías los refuerzos de %add_power% "
-"::-sword-::. No obtienes nada."
+"Tu escuadrón se quedó corto, y si no envías refuerzos por %add_power% "
+"::-sword-::, te vencerán."
 
 #: smth
 msgid "quest_3_fail"
@@ -361,7 +364,7 @@ msgstr ""
 msgid "tip_promocode"
 msgstr ""
 "Puedes obtener ::-moneybag-:: mediante códigos promocionales. Búscalos en "
-"todas partes (por ejemplo, en @VillageGameEn) y envíaselos al bot."
+"todas partes (por ejemplo, en @VillageGameEn) y envíalos al bot."
 
 #: smth
 msgid "invite_friends"
@@ -371,7 +374,9 @@ msgstr ""
 "obtener ::-worker-:: invitando a tus amigos al juego.\n"
 "Por cada amigo que siga el link %reflink%, obtendrás 1 aldeano ::-worker-::."
 "\n"
-"Puedes reenviar o reescribir el mensaje anterior 🔝."
+"Puedes reenviar o reescribir el mensaje anterior 🔝.\n"
+"\n"
+"También puedes comprar aldeanos ::-worker-:: en el /shop"
 
 #: smth
 msgid "template_share"
@@ -390,7 +395,7 @@ msgstr ""
 #: smth
 msgid "defense_fail"
 msgstr ""
-"Fuiste atacado por %villagename% de nivel %level% ::-village-::. Gastó "
+"Fuiste invadido por %villagename% de nivel %level% ::-village-::. Gastó "
 "%power% ::-sword-:: y te derrotó, robando %gold% ::-moneybag-::.\n"
 
 #: smth
@@ -418,7 +423,7 @@ msgstr "Mejores jugadores de nivel %level%::-medal-::"
 msgid "no_money"
 msgstr ""
 "Desafortunadamente, no tienes dinero ::-moneybag-::...\n"
-"Para conseguirlo, espera a que la cosecha ::-bread-:: madure"
+"Para conseguirlo, espera a que madure la cosecha ::-bread-::"
 
 #: smth
 msgid "no_revenge"
@@ -440,14 +445,12 @@ msgstr ""
 #: smth
 msgid "war_quest"
 msgstr ""
-"Código anterior: AWARQUEST3DONEBESTYA\n"
-"\n"
-"Los enemigos han reunido un gran ejército y está asentado en la frontera. "
-"Cuanto más rápido reúnas una milicia, con mayor facilidad superarás al "
-"enemigo.\n"
-"Para vencer es necesario reunir 200.000 ::-sword-:: y no menos de 2000 "
-"::-village-:: participantes tienen que tomar parte en la batalla.\n"
-"Por la victoria se obtendrá un código promocional de 110 ::-moneybag-:: - ¡"
+"Los enemigos han reunido un gran ejército y se está asentando en tu "
+"frontera. Cuanto más rápido reúnas una milicia, con mayor facilidad "
+"superarás al enemigo.\n"
+"Para vencer es necesario reunir 2 500.000 ::-sword-:: y no menos de 25000 "
+"::-village-:: participantes tienen que tomar posiciones en la batalla.\n"
+"Por la victoria se obtendrá un código promocional de 120 ::-moneybag-:: - ¡"
 "entra en la lucha!\n"
 "1::-sword-:: = 1::-moneybag-::\n"
 "\n"
@@ -462,17 +465,29 @@ msgstr "¡Han sido enviados tus refuerzos de %swords% ::-sword-::!"
 #: smth
 msgid "shop"
 msgstr ""
-"En la tienda puedes conseguir cosas muy útiles :)\n"
-"Ahora mismo están disponibles 50 ::-moneybag-:: por 5 diamantes ::-diamond-::"
+"He logrado hacer el primer juego interesante en Telegram, ¡pero necesito tu "
+"ayuda para mejorarlo! Envía una donación y recibirás diamantes ::-diamond-:: "
+"como regalo.\n"
+"Dona aquí - %donate_link%\n"
+"Por consultas sobre las donaciones escribe a - @tgcreator (inglés, ruso)\n"
+"\n"
+"Ahora mismo están disponibles:\n"
+"%gold_count% gold::-moneybag-:: a cambio de %gold_diamonds% "
+"diamonds::-diamond-::\n"
+"%worker_count% worker::-worker-:: a cambio de %worker_diamonds% "
+"diamonds::-diamond-::\n"
+"\n"
+"Actualmente tienes %diamonds%::-diamond-::"
 
 #: smth
 msgid "gold_is_bought"
-msgstr "Has comprado 50 ::-moneybag-:: por 5 ::-diamond-::"
+msgstr ""
+"Has obtenido %gold_diff%::-moneybag-:: usando %diamonds_diff%::-diamond-::"
 
 #: smth
 msgid "no_diamonds"
 msgstr ""
-"No tienes diamantes suficientes ::-diamonds-:: para realizar la compra :/\n"
+"No tienes suficientes diamantes ::-diamonds-:: para realizar la compra :/\n"
 
 #: smth
 msgid "it"
@@ -485,3 +500,155 @@ msgstr "Portugués"
 #: smth
 msgid "ge"
 msgstr "Alemán"
+
+#: smth
+msgid "rateonstorebot"
+msgstr ""
+"He creado un juego divertido, ¡ayúdame a hacerlo popular! - vota por él en "
+"storebot.\n"
+"\n"
+"Para esto:\n"
+"1. Ve al link\n"
+"https://telegram.me/storebot?start=villagegamebot\n"
+"2. Selecciona ⭐️⭐️⭐️⭐️⭐️\n"
+"3. Deja tu comentario\n"
+"4. ¡Y quédate a ver los neuvos desarrollos!"
+
+#: smth
+msgid "tryreturn_started"
+msgstr ""
+"¡Este es el mejor juego en Telegram!\n"
+"\n"
+"Choose your language\n"
+"Elige tu idioma\n"
+
+#: smth
+msgid "tip_ad_casino_tgbot"
+msgstr ""
+"Prueba tu suerte en el mejor casino de Telegram con 50::-moneybag-::- "
+"https://telegram.me/casino_tgbot?start=villagegamebot"
+
+#: smth
+msgid "tip_ad_amazingspace"
+msgstr "Alucinantes Fotos del Universo - @amazingspace"
+
+#: smth
+msgid "tip_ad_coolestgifs"
+msgstr "@coolestgifs - Los GIFs más cool de Telegram, ¡únete y diviértete!"
+
+#: smth
+msgid "worker_is_bought"
+msgstr ""
+"Has obtenido %worker_diff%::-worker-:: gastando %diamonds_diff%::-diamond-::"
+
+#: smth
+msgid "questionary_1"
+msgstr ""
+"¡Saludos!\n"
+"Quisiera conocer un poco de ti, ya que juegas mi juego. Eres hombre o mujer?"
+
+#: smth
+msgid "questionary_2"
+msgstr "¡Excelente! ¿En qué ciudad vives? Escribe el nombre, si quieres."
+
+#: smth
+msgid "questionary_3"
+msgstr ""
+"¡Qué hermoso paraje! ¿Y cuál es tu rango de edad? Por favor, selecciona de "
+"la lista"
+
+#: smth
+msgid "questionary_4"
+msgstr ""
+"Nada mal, y... ¿Me dirías tu fecha de cumpleaños? Aunque sea opcional, si me "
+"respondes correctamente, podrías encontrar un hermoso regalo. \n"
+"Escribe la fecha de la siguiente forma: día.mes.año por ejemplo 25.02.1991"
+
+#: smth
+msgid "questionary_6"
+msgstr "¿Qué estás haciendo?"
+
+#: smth
+msgid "questionary_7"
+msgstr ""
+"¡Gracias! ¿Me das tu opinión acerca del juego, algo que te gustaría agregar, "
+"quitar, o modificar?"
+
+#: smth
+msgid "questionary_finish_first"
+msgstr ""
+"¡Gracias por responder, tu feedback será tenido en cuenta para las próximas "
+"actualizaciones! \n"
+"Como muestra de agradecimiento por el tiempo que te has tomado, has ganado "
+"un bonus de  +%gold%::-moneybag-::"
+
+#: smth
+msgid "questionary_error"
+msgstr "Algo no anda bien... ¿Puedes volver a responder?"
+
+#: smth
+msgid "questionary_5"
+msgstr "¿Y qué dispositivo estás utilizando ahora?"
+
+#: smth
+msgid "questionary_finish"
+msgstr ""
+"¡Muchas gracias por tus respuestas, las tendré en mente para desarrollar "
+"mejoras en el juego!"
+
+#: smth
+msgid "gifts"
+msgstr ""
+"¡Ahora puedes enviar regalos ::-gift-:: a tus amigos!\n"
+"Para ello, debes enviar el contacto de cada amigo al bot (como se ve en la "
+"imagen) y le enviaremos 20::-moneybag-:: de regalo.\n"
+"Mientras mayor sea tu nivel, más regalos podrás enviar.\n"
+"\n"
+"Enviaste: %gifts% / %max_gifts% ::-gift-::\n"
+"Recibiste: %received_gifts% ::-gift-::"
+
+#: smth
+msgid "message_is_not_contact"
+msgstr ""
+"Es necesario COMPARTIR el contacto como se ve en la imagen. Inténtalo de "
+"nuevo."
+
+#: smth
+msgid "gift_max"
+msgstr "Has excedido el límite de regalos. ¡Espera a subir de nivel!"
+
+#: smth
+msgid "gift_player_not_delivery"
+msgstr ""
+"Este contacto está en el juego, pero no se pudo enviar el regalo porque ya "
+"ha abandonado. ¡Pídele que lo reinstale, y podrás enviar tu regalo!"
+
+#: smth
+msgid "gift_sended"
+msgstr ""
+"El regalo ::-gift-:: se envió, ¡el destinatario está agradecido! Ahora "
+"puedes seleccionar otro contacto para enviarle un regalo"
+
+#: smth
+msgid "gift_received"
+msgstr ""
+"Has recibido un regalo ::-gift-:: por %gold% ::-moneybag-:: de "
+"%from_villagename%. Si deseas agradecerle, o enviar un regalo ::-gift-:: a "
+"otro jugador - usa /gifts"
+
+#: smth
+msgid "gift_no_player"
+msgstr ""
+"Este contacto no tiene el juego instalado. Invítale con el link %reflink% y "
+"luego podrás enviarle un regalo!\n"
+"\n"
+"También puedes enviar otro contacto."
+
+#: smth
+msgid "gift_self"
+msgstr ""
+"Estás intentando enviarte u regalo a tí mismo.... ¿No tienes amigos? :-("
+
+#: smth
+msgid "gift_player_sended"
+msgstr "Ya has enviado un regalo a ese jugador. Elige otro contacto, por favor."
