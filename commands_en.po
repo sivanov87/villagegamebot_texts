@@ -14,13 +14,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 2.7-dev\n"
 
-#: smth 
+#: smth
 msgid "help"
-msgstr "📚help"
+msgstr "📚Help"
 
 #: smth
 msgid "top"
 msgstr "🏆TOP"
+
+#: smth
+msgid "en"
+msgstr "🇬🇧English"
+
+#: smth
+msgid "ru"
+msgstr "🇷🇺Русский"
 
 #: smth
 msgid "chooselanguage"
@@ -39,6 +47,26 @@ msgid "mainmenu"
 msgstr "Main menu"
 
 #: smth
+msgid "star1"
+msgstr "::-star-::"
+
+#: smth
+msgid "stars2"
+msgstr "::-star-::::-star-::"
+
+#: smth
+msgid "stars3"
+msgstr "::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars4"
+msgstr "::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars5"
+msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
 msgid "ratebot"
 msgstr "Rate me ::-like-::"
 
@@ -47,12 +75,24 @@ msgid "cancel"
 msgstr "Cancel"
 
 #: smth
+msgid "start"
+msgstr "Start"
+
+#: smth
+msgid "next"
+msgstr "Next photo"
+
+#: smth
+msgid "fa"
+msgstr "فارسی🇮🇷"
+
+#: smth
 msgid "work"
 msgstr "🍞Work!"
 
 #: smth
 msgid "quests"
-msgstr "🚀Quests"
+msgstr "Quests🚀"
 
 #: smth
 msgid "quest_accept"
@@ -96,7 +136,7 @@ msgstr "Village"
 
 #: smth
 msgid "refresh_data"
-msgstr "🔃Update info"
+msgstr "🔃Refresh"
 
 #: smth
 msgid "tutorial_1"
@@ -135,6 +175,18 @@ msgid "quest_2"
 msgstr "⭐️⭐️⭐️Save the village"
 
 #: smth
+msgid "alphaomega"
+msgstr "AAAlphaomega"
+
+#: smth
+msgid "ao"
+msgstr "AO"
+
+#: smth
+msgid "revenge"
+msgstr "Revenge"
+
+#: smth
 msgid "swords_10"
 msgstr "Small troop 10::-sword-::"
 
@@ -152,4 +204,152 @@ msgstr "::-diamond-::Shop"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "Buy 50::-moneybag-:: for 5::-diamond-::"
+msgstr "Buy 50::-moneybag-:: for 2::-diamond-::"
+
+#: smth
+msgid "it"
+msgstr "🇮🇹Italiano"
+
+#: smth
+msgid "de"
+msgstr "🇩🇪Deutsch"
+
+#: smth
+msgid "pt"
+msgstr "Português"
+
+#: smth
+msgid "ba"
+msgstr "بلؤچی"
+
+#: smth
+msgid "zh"
+msgstr "漢語"
+
+#: smth
+msgid "es"
+msgstr "🇪🇸Español"
+
+#: smth
+msgid "id"
+msgstr "Bahasa Indonesia"
+
+#: smth
+msgid "top_24"
+msgstr "TOP24"
+
+#: smth
+msgid "top_level"
+msgstr "TOP Level"
+
+#: smth
+msgid "top_all"
+msgstr "TOP Global"
+
+#: smth
+msgid "/donate"
+msgstr "Donate"
+
+#: smth
+msgid "buy_1_worker"
+msgstr "Buy 1::-worker-:: for 5::-diamond-::"
+
+#: smth
+msgid "age_0_14"
+msgstr "0-14"
+
+#: smth
+msgid "age_15_18"
+msgstr "15-18"
+
+#: smth
+msgid "age_19_21"
+msgstr "19-21"
+
+#: smth
+msgid "age_22_24"
+msgstr "22-24"
+
+#: smth
+msgid "age_25_27"
+msgstr "25-27"
+
+#: smth
+msgid "age_28_30"
+msgstr "28-30"
+
+#: smth
+msgid "age_31_35"
+msgstr "31-35"
+
+#: smth
+msgid "age_36_45"
+msgstr "36-45"
+
+#: smth
+msgid "age_46_"
+msgstr "46+"
+
+#: smth
+msgid "male"
+msgstr "👨Man"
+
+#: smth
+msgid "female"
+msgstr "👸Woman"
+
+#: smth
+msgid "job_scholar"
+msgstr "🏃Scholar"
+
+#: smth
+msgid "job_student"
+msgstr "Student"
+
+#: smth
+msgid "job_worker"
+msgstr "Worker"
+
+#: smth
+msgid "job_master"
+msgstr "Master"
+
+#: smth
+msgid "job_white_collar_worker"
+msgstr "👔White-collar worker\n"
+
+#: smth
+msgid "job_manager"
+msgstr "💼Manager"
+
+#: smth
+msgid "job_businessman"
+msgstr "🎩Businessman"
+
+#: smth
+msgid "job_unemployed"
+msgstr "Unemployed"
+
+#: smth
+msgid "questionary"
+msgstr "❓Questionary"
+
+#: smth
+msgid "skip"
+msgstr "Skip"
+
+#: smth
+msgid "desktop"
+msgstr "🖥Desktop"
+
+#: smth
+msgid "laptop"
+msgstr "💻Laptop"
+
+#: smth
+msgid "device_other"
+msgstr "Other device"
+
+#: smth
+msgid "gifts"
+msgstr "🎉Gifts"
