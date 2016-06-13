@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-29 13:16+0000\n"
-"Last-Translator: MatinBeigi <matinbeigi97@yahoo.com>\n"
+"PO-Revision-Date: 2016-06-13 19:05+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/en/>\n"
 "Language: en\n"
@@ -23,7 +23,9 @@ msgstr "Please, write your feedback about bot in the next message::-baloon-::\nA
 
 #: smth
 msgid "botisstopped"
-msgstr "You unsubscribe. Now you will not receive notification of it. You can always sign up again by typing /start"
+msgstr ""
+"You unsubscribed. Now you will not receive notification of it. You can "
+"always sign up again by typing /start"
 
 #: smth
 msgid "ratebot"
@@ -59,7 +61,7 @@ msgstr "Promocode accepted. Gold -  %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr "Bad promocode."
+msgstr "Bad promocode. You can /work or run /quests"
 
 #: smth
 msgid "work_finished"
@@ -99,7 +101,8 @@ msgstr "You sold %bread_diff% ::-bread-:: for %gold_diff% ::-moneybag-::, great!
 
 #: smth
 msgid "tutorial_3_no"
-msgstr "It is necessary to gather the harvest, otherwise it will rot. :("
+msgstr ""
+"It is necessary to gather the harvest, otherwise it will corrupt. :( /harvest"
 
 #: smth
 msgid "top_before"
@@ -107,7 +110,9 @@ msgstr "Best players::-medal-::"
 
 #: smth
 msgid "need_harvest"
-msgstr "Your fields are filled. It is necessary to gather the harvest, otherwise the bread will start to rot - /harvest"
+msgstr ""
+"Your fields are filled. It is necessary to gather the harvest, otherwise the "
+"bread will start to corrupt - /harvest"
 
 #: smth
 msgid "not_harvested"
@@ -131,7 +136,9 @@ msgstr "Your troops protected the caravan and you got the gold."
 
 #: smth
 msgid "quest_1_fail"
-msgstr "You did not send reinforcements, and the caravan along with defenders was destroyed...."
+msgstr ""
+"You did not send reinforcements, and the caravan along with defenders was "
+"destroyed..."
 
 #: smth
 msgid "quest_2_description"
@@ -239,7 +246,9 @@ msgstr "In the battles and quests you hire mercenaries ::-sword-::.\n1 ::-sword-
 
 #: smth
 msgid "tip_promocode"
-msgstr "You can get ::-moneybag-::s for promocodes. Look for them everywhere (for example, @VillageGameEn) and send them to the bot."
+msgstr ""
+"You can get ::-moneybag-:: for promocodes. Look for them everywhere (for "
+"example, @VillageGameEn) and send them to the bot."
 
 #: smth
 msgid "invite_friends"
@@ -295,7 +304,7 @@ msgstr "Enemies have brought together huge army and have put forward to your bor
 
 #: smth
 msgid "swords_added"
-msgstr "Your reinforsment %swords%::-sword-:: is sent!"
+msgstr "Your reinforcement %swords%::-sword-:: is sent!"
 
 #: smth
 msgid "shop"
