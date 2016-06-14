@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-14 20:49+0000\n"
+"PO-Revision-Date: 2016-06-14 20:53+0000\n"
 "Last-Translator: guest <guest1@example.com>\n"
 "Language-Team: Polish <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/pl/>\n"
@@ -119,9 +119,10 @@ msgid "tutorial_5"
 msgstr ""
 "Wspaniale! Zbiory zostały zniszczone pod wpływem upływu czasu. Na przyszłość "
 "polecamy częściej odwiedzać grę i zbierać je.\n"
-"Teraz jest czas aby uzyskać środki z tajnych kodów. Aby je znaleźć wejdź na "
-"kanał: @VillageGameEn , skopiuj kod z wiadomości oznaczonej \\\"Secret code: "
-"<code>\\\" i podaj go w grze."
+"Teraz rozwijaj swoją wioskę. Na początku dobrze jest znaleźć nowych "
+"pracowników. Jedną z metod jest zaproszenie znajomych do gry przy pomocy "
+"tego linku: %reflink% Za każdą osobę otrzymasz jednego pracownika:  "
+"::-worker-:: i 5 ::-moneybag-::. Możesz też rozpocząć pracę: /work"
 
 #: smth
 msgid "tutorial_4_no"
@@ -308,7 +309,7 @@ msgstr "Nie możesz pomóc farmerom..."
 msgid "quest_3_win"
 msgstr ""
 "Oddziały były zdolne przeciwstawić się wilkom. Wdzięczny rezydent zapłacił "
-"całość. \\"
+"całość."
 
 #: smth
 msgid "tip_bread"
@@ -411,7 +412,7 @@ msgstr "Najlepsi gracze według poziomu  %level%::-medal-::"
 msgid "no_money"
 msgstr ""
 "Niestety nie masz pieniędzy ::-moneybag-::...\n"
-"Aby je uzyskać poczekaj na chleb ::-bread-::."
+"Aby je uzyskać poczekaj na chleb ::-bread-::"
 
 #: smth
 msgid "no_revenge"
@@ -486,7 +487,7 @@ msgstr ""
 #: smth
 msgid "friend_return"
 msgstr ""
-"Twój znajomy %villagename% %user_name% wrócił do gry, a także jego pracownik"
+"Twój znajomy %villagename% %user_name% wrócił do gry, a także jego pracownik!"
 
 #: smth
 msgid "it"
