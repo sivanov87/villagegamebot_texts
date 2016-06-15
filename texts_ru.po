@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:50+0000\n"
-"PO-Revision-Date: 2016-05-10 21:49+0000\n"
+"PO-Revision-Date: 2016-06-15 16:12+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/ru/>\n"
@@ -402,3 +402,27 @@ msgstr "Вы пытаетесь подарить подарок сами себ�
 #: smth
 msgid "gift_player_sended"
 msgstr "Вы уже посылали подарок этому игроку. Выберите другого, пожалуйста."
+
+#: smth
+msgid "delimeter"
+msgstr ""
+
+#: smth
+msgid "it"
+msgstr ""
+
+#: smth
+msgid "pt"
+msgstr ""
+
+#: smth
+msgid "ge"
+msgstr ""
+
+#: smth
+msgid "tryreturn_started"
+msgstr ""
+
+#: smth
+msgid "chooselanguage"
+msgstr ""
