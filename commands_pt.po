@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-06-15 16:06+0000\n"
+"PO-Revision-Date: 2016-06-15 16:39+0000\n"
 "Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/buttons/pt/>\n"
@@ -184,19 +184,19 @@ msgstr "🇮🇹Italiano"
 
 #: smth
 msgid "de"
-msgstr "🇩🇪Alemão"
+msgstr "🇩🇪Deutsch"
 
 #: smth
 msgid "pt"
-msgstr "Português"
+msgstr "🇧🇷Português"
 
 #: smth
 msgid "zh"
-msgstr "Chinês"
+msgstr "漢語"
 
 #: smth
 msgid "es"
-msgstr "🇪🇸Espanhol"
+msgstr "🇪🇸Español"
 
 #: smth
 msgid "top_24"
@@ -232,7 +232,7 @@ msgstr "Trabalhador"
 
 #: smth
 msgid "job_master"
-msgstr "Domínio"
+msgstr "Mestre"
 
 #: smth
 msgid "job_manager"
@@ -240,7 +240,7 @@ msgstr "💼Gerente"
 
 #: smth
 msgid "job_businessman"
-msgstr "🎩Negociante"
+msgstr "🎩Empresário"
 
 #: smth
 msgid "job_unemployed"
@@ -256,7 +256,7 @@ msgstr "Pular"
 
 #: smth
 msgid "desktop"
-msgstr "🖥 Desktop"
+msgstr "🖥 Computador"
 
 #: smth
 msgid "laptop"

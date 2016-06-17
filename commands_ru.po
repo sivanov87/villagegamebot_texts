@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:22+0000\n"
-"PO-Revision-Date: 2016-05-07 22:41+0000\n"
+"PO-Revision-Date: 2016-06-15 16:15+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/ru/>\n"
@@ -234,3 +234,123 @@ msgstr "Другое устройство"
 #: smth
 msgid "gifts"
 msgstr "🎉Подарки"
+
+#: smth
+msgid "en"
+msgstr ""
+
+#: smth
+msgid "ru"
+msgstr ""
+
+#: smth
+msgid "chooselanguage"
+msgstr ""
+
+#: smth
+msgid "star1"
+msgstr ""
+
+#: smth
+msgid "stars2"
+msgstr ""
+
+#: smth
+msgid "stars3"
+msgstr ""
+
+#: smth
+msgid "stars4"
+msgstr ""
+
+#: smth
+msgid "stars5"
+msgstr ""
+
+#: smth
+msgid "fa"
+msgstr ""
+
+#: smth
+msgid "alphaomega"
+msgstr ""
+
+#: smth
+msgid "it"
+msgstr ""
+
+#: smth
+msgid "de"
+msgstr ""
+
+#: smth
+msgid "pt"
+msgstr ""
+
+#: smth
+msgid "ba"
+msgstr ""
+
+#: smth
+msgid "zh"
+msgstr ""
+
+#: smth
+msgid "es"
+msgstr ""
+
+#: smth
+msgid "id"
+msgstr ""
+
+#: smth
+msgid "top_24"
+msgstr "ТОП24"
+
+#: smth
+msgid "top_level"
+msgstr "ТОП уровня"
+
+#: smth
+msgid "top_all"
+msgstr "ТОП общий"
+
+#: smth
+msgid "/donate"
+msgstr "Пожертвовать"
+
+#: smth
+msgid "age_0_14"
+msgstr ""
+
+#: smth
+msgid "age_15_18"
+msgstr ""
+
+#: smth
+msgid "age_19_21"
+msgstr ""
+
+#: smth
+msgid "age_22_24"
+msgstr ""
+
+#: smth
+msgid "age_25_27"
+msgstr ""
+
+#: smth
+msgid "age_28_30"
+msgstr ""
+
+#: smth
+msgid "age_31_35"
+msgstr ""
+
+#: smth
+msgid "age_36_45"
+msgstr ""
+
+#: smth
+msgid "age_46_"
+msgstr ""
