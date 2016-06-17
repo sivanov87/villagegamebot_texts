@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-06-15 15:28+0000\n"
+"PO-Revision-Date: 2016-06-17 20:18+0000\n"
 "Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
@@ -546,22 +546,22 @@ msgstr "Algo deu errado... Você poderia responder novamente?"
 
 #: smth
 msgid "questionary_5"
-msgstr "Qual diapositivo está usando agora? Ex: Celular, Tablet, PC..."
+msgstr "Qual dispositivo (celular, Tablet, PC) você está usando agora?"
 
 #: smth
 msgid "questionary_finish"
 msgstr ""
 "Obrigado pelas respostas, consideraremos elas durante o desenvolvimento do "
-"jogo?"
+"jogo!"
 
 #: smth
 msgid "gifts"
 msgstr ""
 "Agora você pode dar presentes::-gift-:: para seus amigos!\n"
-"Para fazer isso, você devebenviar o contato do seu amigo para o bot (como "
+"Para fazer isso, você deve enviar o contato do seu amigo para o bot (como "
 "mostra a figura) e nós iremos enviá-lo um presente 20::-moneybag-:: no jogo."
 "\n"
-"Quanto maior o seu level, mãos presentes você pode enviar.\n"
+"Quanto maior o seu level, mais presentes você pode enviar.\n"
 "\n"
 "Você enviou: %gifts% / %max_gifts% ::-gift-::\n"
 "Você recebeu: %received_gifts% ::-gift-::"
@@ -569,7 +569,7 @@ msgstr ""
 #: smth
 msgid "message_is_not_contact"
 msgstr ""
-"Sua mensagem - não é uma o contato da pessoa. É necessário compartilhar o "
+"Sua mensagem - não é o contato da pessoa. É necessário compartilhar o "
 "contato com o bot como mostra a image. Tente novamente."
 
 #: smth
@@ -589,7 +589,7 @@ msgstr ""
 msgid "gift_sended"
 msgstr ""
 "O presente::-gift-:: foi enviado, seu amigo deve ter adorado! Agora você "
-"pode enviar o contato de outra amigo para enviá-lo um presente!"
+"pode enviar o contato de outro amigo para enviá-lo um presente"
 
 #: smth
 msgid "gift_received"
