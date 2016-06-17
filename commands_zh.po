@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-13 01:16+0000\n"
-"Last-Translator: guest <guest@example.com>\n"
+"PO-Revision-Date: 2016-06-17 05:32+0000\n"
+"Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Chinese <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/zh/>\n"
 "Language: zh\n"
@@ -40,7 +40,7 @@ msgstr "主目錄"
 
 #: smth
 msgid "ratebot"
-msgstr "給我評分 ::-like-::"
+msgstr "為我評分 ::-like-::"
 
 #: smth
 msgid "cancel"
@@ -52,7 +52,7 @@ msgstr "🍞工作！"
 
 #: smth
 msgid "quests"
-msgstr "🚀任務"
+msgstr "任務🚀"
 
 #: smth
 msgid "quest_accept"
@@ -152,4 +152,204 @@ msgstr "::-diamond-::商店"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "以5顆::-diamond-::購買50::-moneybag-::"
+msgstr "以2顆::-diamond-::購買50::-moneybag-::"
+
+#: smth
+msgid "en"
+msgstr "🇬🇧English"
+
+#: smth
+msgid "ru"
+msgstr "🇷🇺Русский"
+
+#: smth
+msgid "star1"
+msgstr "::-star-::"
+
+#: smth
+msgid "stars2"
+msgstr "::-star-::::-star-::"
+
+#: smth
+msgid "stars3"
+msgstr "::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars4"
+msgstr "::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars5"
+msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "start"
+msgstr "開始"
+
+#: smth
+msgid "next"
+msgstr "下一張"
+
+#: smth
+msgid "fa"
+msgstr "فارسی🇮🇷"
+
+#: smth
+msgid "alphaomega"
+msgstr "AAAlphaomega"
+
+#: smth
+msgid "ao"
+msgstr "AO"
+
+#: smth
+msgid "revenge"
+msgstr "復仇"
+
+#: smth
+msgid "it"
+msgstr "🇮🇹Italiano"
+
+#: smth
+msgid "de"
+msgstr "🇩🇪Deutsch"
+
+#: smth
+msgid "pt"
+msgstr "Português"
+
+#: smth
+msgid "ba"
+msgstr "بلؤچی"
+
+#: smth
+msgid "zh"
+msgstr "漢語"
+
+#: smth
+msgid "es"
+msgstr "🇪🇸Español"
+
+#: smth
+msgid "id"
+msgstr "Bahasa Indonesia"
+
+#: smth
+msgid "top_24"
+msgstr "24強"
+
+#: smth
+msgid "top_level"
+msgstr "最高等級"
+
+#: smth
+msgid "top_all"
+msgstr "頂峯 全球"
+
+#: smth
+msgid "/donate"
+msgstr "捐款"
+
+#: smth
+msgid "buy_1_worker"
+msgstr "以 5顆::-diamond-::賺買1位::-worker-::"
+
+#: smth
+msgid "age_0_14"
+msgstr "0-14"
+
+#: smth
+msgid "age_15_18"
+msgstr "15-18"
+
+#: smth
+msgid "age_19_21"
+msgstr "19-21"
+
+#: smth
+msgid "age_22_24"
+msgstr "22-24"
+
+#: smth
+msgid "age_25_27"
+msgstr "25-27"
+
+#: smth
+msgid "age_28_30"
+msgstr "28-30"
+
+#: smth
+msgid "age_31_35"
+msgstr "31-35"
+
+#: smth
+msgid "age_36_45"
+msgstr "36-45"
+
+#: smth
+msgid "age_46_"
+msgstr "46+"
+
+#: smth
+msgid "male"
+msgstr "👨男"
+
+#: smth
+msgid "female"
+msgstr "👸女"
+
+#: smth
+msgid "job_scholar"
+msgstr "🏃讀書人"
+
+#: smth
+msgid "job_student"
+msgstr "學生"
+
+#: smth
+msgid "job_worker"
+msgstr "勞工"
+
+#: smth
+msgid "job_master"
+msgstr "碩士(Master)"
+
+#: smth
+msgid "job_white_collar_worker"
+msgstr "👔白領\n"
+
+#: smth
+msgid "job_manager"
+msgstr "💼經理"
+
+#: smth
+msgid "job_businessman"
+msgstr "🎩商人"
+
+#: smth
+msgid "job_unemployed"
+msgstr "待業"
+
+#: smth
+msgid "questionary"
+msgstr "❓問卷調查"
+
+#: smth
+msgid "skip"
+msgstr "跳過"
+
+#: smth
+msgid "desktop"
+msgstr "🖥桌上電腦"
+
+#: smth
+msgid "laptop"
+msgstr "💻筆記本電腦"
+
+#: smth
+msgid "device_other"
+msgstr "其他"
+
+#: smth
+msgid "gifts"
+msgstr "🎉禮物"
