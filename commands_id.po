@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-06-17 23:44+0000\n"
-"Last-Translator: Peter <guest1@example.com>\n"
+"PO-Revision-Date: 2016-06-17 23:45+0000\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Indonesian <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/buttons/id/>\n"
 "Language: id\n"
@@ -78,24 +78,20 @@ msgid "search_opponent"
 msgstr "Cari lawan👁"
 
 #: smth
-#, fuzzy
 msgid "battle_no_power"
 msgstr "Kurang dana👎"
 
 #: smth
-#, fuzzy
 msgid "reject"
 msgstr "Tolak"
 
 #: smth
-#, fuzzy
 msgid "battle_add_power"
 msgstr "Kirim bala bantuan!🗡"
 
 #: smth
-#, fuzzy
 msgid "battle_start"
-msgstr "Seraang!⚔"
+msgstr "Serang!⚔"
 
 #: smth
 #, fuzzy
