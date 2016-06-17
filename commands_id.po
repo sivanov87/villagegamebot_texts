@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
 "PO-Revision-Date: 2016-06-17 23:46+0000\n"
-"Last-Translator: Peter <guest1@example.com>\n"
+"Last-Translator: Jeff <guest@example.com>\n"
 "Language-Team: Indonesian <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/buttons/id/>\n"
 "Language: id\n"
@@ -106,7 +106,6 @@ msgid "refresh_data"
 msgstr "🔃Perbaharui"
 
 #: smth
-#, fuzzy
 msgid "tutorial_1"
 msgstr "Ambil koin!💰"
 
