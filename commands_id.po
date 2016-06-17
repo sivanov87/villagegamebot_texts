@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-14 13:42+0000\n"
-"Last-Translator: guest <guest@example.com>\n"
+"PO-Revision-Date: 2016-06-17 23:44+0000\n"
+"Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Indonesian <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/buttons/id/>\n"
 "Language: id\n"
@@ -15,14 +15,12 @@ msgstr ""
 "X-Generator: Weblate 2.7-dev\n"
 
 #: smth 
-#, fuzzy
 msgid "help"
-msgstr "📚bantuan"
+msgstr "📚Bantuan"
 
 #: smth
-#, fuzzy
 msgid "top"
-msgstr "🏆TOP"
+msgstr "🏆Peringkat"
 
 #: smth
 #, fuzzy
@@ -31,12 +29,11 @@ msgstr "Pilih bahasa"
 
 #: smth
 msgid "feedback"
-msgstr "📢Umpan Balik"
+msgstr "📢Kritik dan Saran"
 
 #: smth
-#, fuzzy
 msgid "chatlink"
-msgstr "Chat"
+msgstr "Obrolan"
 
 #: smth
 #, fuzzy
@@ -44,14 +41,12 @@ msgid "mainmenu"
 msgstr "Menu utama"
 
 #: smth
-#, fuzzy
 msgid "ratebot"
-msgstr "Nilai kami ::-like-::"
+msgstr "Nilai kami ::-suka-::"
 
 #: smth
-#, fuzzy
 msgid "cancel"
-msgstr "Cancel"
+msgstr "Batal"
 
 #: smth
 #, fuzzy
@@ -69,9 +64,8 @@ msgid "quest_accept"
 msgstr "Cari misi🗡"
 
 #: smth
-#, fuzzy
 msgid "quest_reject"
-msgstr "Nanti"
+msgstr "Tidak sekarang"
 
 #: smth
 #, fuzzy
@@ -180,3 +174,7 @@ msgstr "::-diamond-::Toko"
 #, fuzzy
 msgid "buy_50_gold"
 msgstr "Beli 50::-moneybag-:: untuk 5::-diamond-::"
+
+#: smth
+msgid "next"
+msgstr "Foto Selanjutnya"
