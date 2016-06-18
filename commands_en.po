@@ -249,3 +249,7 @@ msgstr "Update farm"
 #: smth
 msgid "update_palace"
 msgstr "Update palace"
+
+#: smth
+msgid "buildings"
+msgstr "::-building-::Buildings"
