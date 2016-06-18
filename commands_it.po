@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-08 00:28+0000\n"
-"PO-Revision-Date: 2016-05-22 12:28+0000\n"
-"Last-Translator: Jeff <guest@example.com>\n"
+"PO-Revision-Date: 2016-06-17 21:19+0000\n"
+"Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Italian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/it/>\n"
 "Language: it\n"
@@ -16,23 +16,23 @@ msgstr ""
 
 #: smth
 msgid "help"
-msgstr "📚aiuto"
+msgstr "📚Aiuto"
 
 #: smth
 msgid "work"
-msgstr "🍞Lavoro!"
+msgstr "🍞Lavora!"
 
 #: smth
 msgid "quests"
-msgstr "Missioni🚀"
+msgstr "Quests🚀"
 
 #: smth
 msgid "quest_accept"
-msgstr "Ricerca diretta🗡"
+msgstr "Esegui quest🗡"
 
 #: smth
 msgid "quest_reject"
-msgstr "Non adesso"
+msgstr "Non ora"
 
 #: smth
 msgid "battles"
@@ -40,23 +40,23 @@ msgstr "⚔Battaglie"
 
 #: smth
 msgid "search_opponent"
-msgstr "Cerchi l'avversario👁"
+msgstr "Cerca avversario👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr "Poco oro👎"
+msgstr "Ritirati👎"
 
 #: smth
 msgid "reject"
-msgstr "Reject"
+msgstr "Rifiuta"
 
 #: smth
 msgid "battle_add_power"
-msgstr "Mandi il rinforzo!🗡"
+msgstr "Manda rinforzi!🗡"
 
 #: smth
 msgid "battle_start"
-msgstr "Attacco!⚔"
+msgstr "Attacca!⚔"
 
 #: smth
 msgid "quest_3"
@@ -64,11 +64,11 @@ msgstr "⭐️Lupi"
 
 #: smth
 msgid "refresh_data"
-msgstr "Informazioni🔃"
+msgstr "🔃Aggiorna"
 
 #: smth
 msgid "tutorial_1"
-msgstr "Monete di presa!💰"
+msgstr "Prendi monete!💰"
 
 #: smth
 msgid "return_to_village"
@@ -84,35 +84,35 @@ msgstr "Ottieni lavoratori::-worker-::"
 
 #: smth
 msgid "harvest"
-msgstr "Vendi il pane💰"
+msgstr "Vendi pane💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr "Mandi rinforzi! 🗡"
+msgstr "Manda rinforzi! 🗡"
 
 #: smth
 msgid "quest_no_power"
-msgstr "Nessuna risorsa👎"
+msgstr "Risorse insufficienti👎"
 
 #: smth
 msgid "quest_1"
-msgstr "⭐️⭐️Proteggi la carovana"
+msgstr "⭐️⭐️Scorta la carovana"
 
 #: smth
 msgid "quest_2"
-msgstr "⭐️⭐️⭐️Salva il villaggio"
+msgstr "⭐️⭐️⭐️Difendi il villaggio"
 
 #: smth
 msgid "swords_10"
-msgstr "Piccolo gruppo 10::-sword-::"
+msgstr "Piccola truppa 10::-sword-::"
 
 #: smth
 msgid "swords_100"
-msgstr "Gran gruppo 100::-sword-::"
+msgstr "Grande truppa 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr "⚔Ricerca di guerra⚔"
+msgstr "⚔Missione di Guerra⚔"
 
 #: smth
 msgid "shop"
@@ -120,11 +120,11 @@ msgstr "::-diamond-::Negozio"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "Compri 50::-moneybag-:: per 5::-diamond-::"
+msgstr "Compra 50::-moneybag-:: per 5::-diamond-::"
 
 #: smth
 msgid "top"
-msgstr "🏆TOP"
+msgstr "🏆TOP LIST"
 
 #: smth
 msgid "chooselanguage"
@@ -139,21 +139,219 @@ msgid "chatlink"
 msgstr "Chat"
 
 #: smth
-#, fuzzy
 msgid "mainmenu"
 msgstr "Menu principale"
 
 #: smth
-#, fuzzy
 msgid "ratebot"
-msgstr ""
+msgstr "Valutami ::-like-::"
 
 #: smth
-#, fuzzy
 msgid "cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: smth
-#, fuzzy
 msgid "village"
 msgstr "Villaggio"
+
+#: smth
+msgid "next"
+msgstr "Prossima foto"
+
+#: smth
+msgid "revenge"
+msgstr "Rivincita"
+
+#: smth
+msgid "top_24"
+msgstr "TOP24"
+
+#: smth
+msgid "top_level"
+msgstr "TOP per Livello"
+
+#: smth
+msgid "top_all"
+msgstr "TOP Globale"
+
+#: smth
+msgid "/donate"
+msgstr "Dona"
+
+#: smth
+msgid "buy_1_worker"
+msgstr "Compra 1::-worker-:: per 5::-diamond-::"
+
+#: smth
+msgid "male"
+msgstr "👨Uomo"
+
+#: smth
+msgid "female"
+msgstr "👸Donna"
+
+#: smth
+msgid "job_scholar"
+msgstr "🏃Scolaro"
+
+#: smth
+msgid "job_student"
+msgstr "Studente"
+
+#: smth
+msgid "job_worker"
+msgstr "Lavoratore"
+
+#: smth
+msgid "job_master"
+msgstr "Dirigente"
+
+#: smth
+msgid "job_white_collar_worker"
+msgstr "👔Impiegato\n"
+
+#: smth
+msgid "job_manager"
+msgstr "💼Manager"
+
+#: smth
+msgid "job_businessman"
+msgstr "🎩Imprenditore"
+
+#: smth
+msgid "job_unemployed"
+msgstr "Disoccupato"
+
+#: smth
+msgid "questionary"
+msgstr "❓Questionario"
+
+#: smth
+msgid "skip"
+msgstr "Salta"
+
+#: smth
+msgid "desktop"
+msgstr "🖥Fisso"
+
+#: smth
+msgid "laptop"
+msgstr "💻Portatile"
+
+#: smth
+msgid "device_other"
+msgstr "Altro dispositivo"
+
+#: smth
+msgid "gifts"
+msgstr "🎉Regali"
+
+#: smth
+msgid "en"
+msgstr "🇬🇧English"
+
+#: smth
+msgid "ru"
+msgstr "🇷🇺Русский"
+
+#: smth
+msgid "star1"
+msgstr "::-star-::"
+
+#: smth
+msgid "stars2"
+msgstr "::-star-::::-star-::"
+
+#: smth
+msgid "stars3"
+msgstr "::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars4"
+msgstr "::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars5"
+msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "start"
+msgstr "Avvia"
+
+#: smth
+msgid "fa"
+msgstr "فارسی🇮🇷"
+
+#: smth
+msgid "it"
+msgstr "🇮🇹Italiano"
+
+#: smth
+msgid "de"
+msgstr "🇩🇪Deutsch"
+
+#: smth
+msgid "pt"
+msgstr "Português"
+
+#: smth
+msgid "ba"
+msgstr "بلؤچی"
+
+#: smth
+msgid "zh"
+msgstr "🇨🇳漢語"
+
+#: smth
+msgid "es"
+msgstr "🇪🇸Español"
+
+#: smth
+msgid "id"
+msgstr "🇮🇩Bahasa Indonesia"
+
+#: smth
+msgid "age_0_14"
+msgstr "0-14"
+
+#: smth
+msgid "age_15_18"
+msgstr "15-18"
+
+#: smth
+msgid "age_19_21"
+msgstr "19-21"
+
+#: smth
+msgid "age_22_24"
+msgstr "22-24"
+
+#: smth
+msgid "age_25_27"
+msgstr "25-27"
+
+#: smth
+msgid "age_28_30"
+msgstr "28-30"
+
+#: smth
+msgid "age_31_35"
+msgstr "31-35"
+
+#: smth
+msgid "age_36_45"
+msgstr "36-45"
+
+#: smth
+msgid "age_46_"
+msgstr "46+"
+
+#: smth
+#, fuzzy
+msgid "alphaomega"
+msgstr "AAAlphaomega"
+
+#: smth
+#, fuzzy
+msgid "ao"
+msgstr "AO"

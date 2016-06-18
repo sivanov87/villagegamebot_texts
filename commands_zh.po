@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-06-17 05:32+0000\n"
+"PO-Revision-Date: 2016-06-18 06:55+0000\n"
 "Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Chinese <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/zh/>\n"
@@ -224,7 +224,7 @@ msgstr "بلؤچی"
 
 #: smth
 msgid "zh"
-msgstr "漢語"
+msgstr "正體中文"
 
 #: smth
 msgid "es"
@@ -236,15 +236,15 @@ msgstr "Bahasa Indonesia"
 
 #: smth
 msgid "top_24"
-msgstr "24強"
+msgstr "24小時"
 
 #: smth
 msgid "top_level"
-msgstr "最高等級"
+msgstr "同級高手"
 
 #: smth
 msgid "top_all"
-msgstr "頂峯 全球"
+msgstr "最佳玩家"
 
 #: smth
 msgid "/donate"
