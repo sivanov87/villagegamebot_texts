@@ -420,7 +420,7 @@ msgstr "You have received a gift that player. Choose another one, please."
 
 #: smth
 msgid "buildings"
-msgstr "You can build some buildings to improve your village.\n\nFarm(Level %farm_level%) +%farm_bread%::-bread-:: per minute\nUpgrade: %farm_cost%::-moneybag-:: +%farm_bread_update%::-bread-::\n\nGranary(Level %granary_level%) +%granary_max_bread%::-bread-:: increase max bread\nUpgrade: %granary_cost%::-moneybag-:: +%granary_max_bread_update%::-bread-::\n\nWall(Level %wall_level%) +%wall_defense%::-sword-:: add defense power\nUpgrade: %wall_cost%::-moneybag-:: +%wall_defense_upgrade%::-sword-::"
+msgstr "You can build some buildings to improve your village.\n\nFarm(Level %farm_level%) +%farm_bread%::-bread-:: per minute\nUpgrade: %farm_cost%::-moneybag-:: +%farm_bread_update%::-bread-::\n\nGranary(Level %granary_level%) +%granary_max_bread%::-bread-:: increase max bread\nUpgrade: %granary_cost%::-moneybag-:: +%granary_max_bread_update%::-bread-::\n\nWall(Level %wall_level%) +%wall_defense%::-sword-:: add defense power\nUpgrade: %wall_cost%::-moneybag-:: +%wall_defense_update%::-sword-::"
 
 #: smth
 msgid "building_created"
