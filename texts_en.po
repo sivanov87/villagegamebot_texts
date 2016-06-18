@@ -33,7 +33,7 @@ msgstr "Thank you!"
 
 #: smth
 msgid "help"
-msgstr "You are playing the first strategy game of Telegram. You can grow crops::-bread-::, change them to gold::-moneybag-::, run quests🚀, fight with other players ⚔, and develop your village.\r\nEnjoy!\r\n\r\nSupport chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\n\r\nNews channel - @VillageGameEn\r\n\r\n/chooselanguage - choose language"
+msgstr "You are playing the first strategy game of Telegram. You can grow crops::-bread-::, change them to gold::-moneybag-::, run quests🚀, fight with other players ⚔, and develop your village.\r\nEnjoy!\r\n\r\nSupport chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\n\r\nNews channel - @VillageGameEn\r\nFB - https://www.facebook.com/groups/1018021724912969/\r\n\r\n/chooselanguage - choose language"
 
 #: smth
 msgid "village_description"
@@ -313,10 +313,6 @@ msgstr "You don't have enough diamonds ::-diamond-:: for purchase commission :(\
 #: smth
 msgid "rateonstorebot"
 msgstr "We made a good game, please help us make it more popular - vote on storebot.\n\nFor this:\n1. Go to the link\nhttps://telegram.me/storebot?start=villagegamebot\n2. Select ⭐️⭐️⭐️⭐️⭐️\n3. Leave your comment\n4. And expect development of the game!"
-
-#: smth
-msgid "tryreturn_started"
-msgstr "This is the best game in Telegram!\n\nChoose your language\nВыберите язык бота\n"
 
 #: smth
 msgid "worker_is_bought"
