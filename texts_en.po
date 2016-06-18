@@ -315,10 +315,6 @@ msgid "rateonstorebot"
 msgstr "We made a good game, please help us make it more popular - vote on storebot.\n\nFor this:\n1. Go to the link\nhttps://telegram.me/storebot?start=villagegamebot\n2. Select ⭐️⭐️⭐️⭐️⭐️\n3. Leave your comment\n4. And expect development of the game!"
 
 #: smth
-msgid "tryreturn_started"
-msgstr "This is the best game in Telegram!\n\nChoose your language\nВыберите язык бота\n"
-
-#: smth
 msgid "worker_is_bought"
 msgstr "You have bought %worker_diff%::-worker-:: for %diamonds_diff%::-diamond-::"
 
