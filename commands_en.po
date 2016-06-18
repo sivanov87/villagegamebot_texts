@@ -252,4 +252,4 @@ msgstr "::-palace-::Update palace"
 
 #: smth
 msgid "buildings"
-msgstr "::-buildings-::Buildings"
+msgstr "::-building-::Buildings"
