@@ -339,18 +339,6 @@ msgid "tryreturn_started"
 msgstr "This is the best game in Telegram!\n\nChoose your language\nВыберите язык бота\n"
 
 #: smth
-msgid "tip_ad_casino_tgbot"
-msgstr "Start plain in best casino in Telegram with 50::-moneybag-::- https://telegram.me/casino_tgbot?start=villagegamebot"
-
-#: smth
-msgid "tip_ad_amazingspace"
-msgstr "Amazing space photos - @amazingspace"
-
-#: smth
-msgid "tip_ad_coolestgifs"
-msgstr "@coolestgifs - coolest GIFs in Tg, join and enjoy!"
-
-#: smth
 msgid "worker_is_bought"
 msgstr "You have bought %worker_diff%::-worker-:: for %diamonds_diff%::-diamond-::"
 
