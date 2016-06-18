@@ -236,7 +236,7 @@ msgstr "🎉Gifts"
 
 #: smth
 msgid "update_granary"
-msgstr "Update granary"
+msgstr "::-granary-::Update granary"
 
 #: smth
 msgid "update_wall"
