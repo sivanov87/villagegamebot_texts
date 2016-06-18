@@ -14,10 +14,6 @@ msgstr ""
 "B31JfT9EAAjciWBlkhmEKA\n"
 
 #: smth
-msgid "chooselanguage"
-msgstr "Choose your language\nВыберите язык бота\n\nItalian, German, Portuguese, Persian - in test mode."
-
-#: smth
 msgid "feedback"
 msgstr "Please, write your feedback about bot in the next message::-baloon-::\nAlso you can write to chat - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
@@ -66,10 +62,6 @@ msgstr "Bad promocode. You can /work or run /quests"
 #: smth
 msgid "work_finished"
 msgstr "Work is finished, my lord! Work - /work"
-
-#: smth
-msgid "delimeter"
-msgstr "::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::::-delimeter-::"
 
 #: smth
 msgid "tutorial_1"
@@ -317,18 +309,6 @@ msgstr "You have bought %gold_diff%::-moneybag-:: for %diamonds_diff%::-diamond-
 #: smth
 msgid "no_diamonds"
 msgstr "You don't have enough diamonds ::-diamond-:: for purchase commission :(\r\n"
-
-#: smth
-msgid "it"
-msgstr "Italian"
-
-#: smth
-msgid "pt"
-msgstr "Portuguese"
-
-#: smth
-msgid "ge"
-msgstr "German"
 
 #: smth
 msgid "rateonstorebot"
