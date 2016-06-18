@@ -240,16 +240,16 @@ msgstr "Update granary"
 
 #: smth
 msgid "update_wall"
-msgstr "Update wall"
+msgstr "::-wall-::Update wall"
 
 #: smth
 msgid "update_farm"
-msgstr "Update farm"
+msgstr "::-farm-::Update farm"
 
 #: smth
 msgid "update_palace"
-msgstr "Update palace"
+msgstr "::-palace-::Update palace"
 
 #: smth
 msgid "buildings"
-msgstr "Buildings"
+msgstr "::-buildings-::Buildings"
