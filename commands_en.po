@@ -23,48 +23,12 @@ msgid "top"
 msgstr "🏆TOP"
 
 #: smth
-msgid "en"
-msgstr "🇬🇧English"
-
-#: smth
-msgid "ru"
-msgstr "🇷🇺Русский"
-
-#: smth
-msgid "chooselanguage"
-msgstr "Choose language"
-
-#: smth
 msgid "feedback"
 msgstr "📢Feedback"
 
 #: smth
-msgid "chatlink"
-msgstr "Chat"
-
-#: smth
 msgid "mainmenu"
 msgstr "Main menu"
-
-#: smth
-msgid "star1"
-msgstr "::-star-::"
-
-#: smth
-msgid "stars2"
-msgstr "::-star-::::-star-::"
-
-#: smth
-msgid "stars3"
-msgstr "::-star-::::-star-::::-star-::"
-
-#: smth
-msgid "stars4"
-msgstr "::-star-::::-star-::::-star-::::-star-::"
-
-#: smth
-msgid "stars5"
-msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
 
 #: smth
 msgid "ratebot"
@@ -73,18 +37,6 @@ msgstr "Rate me ::-like-::"
 #: smth
 msgid "cancel"
 msgstr "Cancel"
-
-#: smth
-msgid "start"
-msgstr "Start"
-
-#: smth
-msgid "next"
-msgstr "Next photo"
-
-#: smth
-msgid "fa"
-msgstr "فارسی🇮🇷"
 
 #: smth
 msgid "work"
@@ -175,14 +127,6 @@ msgid "quest_2"
 msgstr "⭐️⭐️⭐️Save the village"
 
 #: smth
-msgid "alphaomega"
-msgstr "AAAlphaomega"
-
-#: smth
-msgid "ao"
-msgstr "AO"
-
-#: smth
 msgid "revenge"
 msgstr "Revenge"
 
@@ -207,34 +151,6 @@ msgid "buy_50_gold"
 msgstr "Buy 50::-moneybag-:: for 2::-diamond-::"
 
 #: smth
-msgid "it"
-msgstr "🇮🇹Italiano"
-
-#: smth
-msgid "de"
-msgstr "🇩🇪Deutsch"
-
-#: smth
-msgid "pt"
-msgstr "Português"
-
-#: smth
-msgid "ba"
-msgstr "بلؤچی"
-
-#: smth
-msgid "zh"
-msgstr "🇨🇳漢語"
-
-#: smth
-msgid "es"
-msgstr "🇪🇸Español"
-
-#: smth
-msgid "id"
-msgstr "🇮🇩Bahasa Indonesia"
-
-#: smth
 msgid "top_24"
 msgstr "TOP24"
 
@@ -247,48 +163,12 @@ msgid "top_all"
 msgstr "TOP Global"
 
 #: smth
-msgid "/donate"
+msgid "donate"
 msgstr "Donate"
 
 #: smth
 msgid "buy_1_worker"
 msgstr "Buy 1::-worker-:: for 5::-diamond-::"
-
-#: smth
-msgid "age_0_14"
-msgstr "0-14"
-
-#: smth
-msgid "age_15_18"
-msgstr "15-18"
-
-#: smth
-msgid "age_19_21"
-msgstr "19-21"
-
-#: smth
-msgid "age_22_24"
-msgstr "22-24"
-
-#: smth
-msgid "age_25_27"
-msgstr "25-27"
-
-#: smth
-msgid "age_28_30"
-msgstr "28-30"
-
-#: smth
-msgid "age_31_35"
-msgstr "31-35"
-
-#: smth
-msgid "age_36_45"
-msgstr "36-45"
-
-#: smth
-msgid "age_46_"
-msgstr "46+"
 
 #: smth
 msgid "male"
@@ -353,3 +233,19 @@ msgstr "Other device"
 #: smth
 msgid "gifts"
 msgstr "🎉Gifts"
+
+#: smth
+msgid "update_granary"
+msgstr "Update granary"
+
+#: smth
+msgid "update_wall"
+msgstr "Update wall"
+
+#: smth
+msgid "update_farm"
+msgstr "Update farm"
+
+#: smth
+msgid "update_palace"
+msgstr "Update palace"
