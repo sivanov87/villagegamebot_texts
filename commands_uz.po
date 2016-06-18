@@ -3,151 +3,222 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:34+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-06-17 12:51+0000\n"
+"Last-Translator: Peter <guest1@example.com>\n"
+"Language-Team: Uzbek <http://translate.villagegamebot.tgroups.me/projects/vil"
+"lagegamebot/buttons/uz/>\n"
 "Language: uz\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.14.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.7-dev\n"
 
 #: smth 
 msgid "help"
-msgstr ""
+msgstr "📚Yordam"
 
 #: smth
 msgid "top"
-msgstr ""
+msgstr "🏆Zo'rlari"
 
 #: smth
 msgid "chooselanguage"
-msgstr ""
+msgstr "Tilni tanlang"
 
 #: smth
 msgid "feedback"
-msgstr ""
+msgstr "📢Aloqa"
 
 #: smth
 msgid "chatlink"
-msgstr ""
+msgstr "Chat"
 
 #: smth
 msgid "mainmenu"
-msgstr ""
+msgstr "Asosiy menyu"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "Baholash ::-like-::"
 
 #: smth
 msgid "cancel"
-msgstr ""
+msgstr "Bekor"
 
 #: smth
 msgid "work"
-msgstr ""
+msgstr "🍞Ish!"
 
 #: smth
 msgid "quests"
-msgstr ""
+msgstr "Topshiriqlar🚀"
 
 #: smth
 msgid "quest_accept"
-msgstr ""
+msgstr "Topshiriqni bajarish🗡"
 
 #: smth
 msgid "quest_reject"
-msgstr ""
+msgstr "Boshqa safar"
 
 #: smth
 msgid "battles"
-msgstr ""
+msgstr "Janglar⚔"
 
 #: smth
 msgid "search_opponent"
-msgstr ""
+msgstr "Raqibni qidirish👁"
 
 #: smth
 msgid "battle_no_power"
-msgstr ""
+msgstr "Oltin kam👎"
 
 #: smth
 msgid "reject"
-msgstr ""
+msgstr "Rad"
 
 #: smth
 msgid "battle_add_power"
-msgstr ""
+msgstr "Yordam junatish!🗡"
 
 #: smth
 msgid "battle_start"
-msgstr ""
+msgstr "Hujum!⚔"
 
 #: smth
 msgid "quest_3"
-msgstr ""
+msgstr "⭐️Bo'rilar"
 
 #: smth
 msgid "village"
-msgstr ""
+msgstr "Qishloq"
 
 #: smth
 msgid "refresh_data"
-msgstr ""
+msgstr "🔃Yangilash"
 
 #: smth
 msgid "tutorial_1"
-msgstr ""
+msgstr "Oltinni yig'ish!💰"
 
 #: smth
 msgid "return_to_village"
-msgstr ""
+msgstr "Qishloqqa🔙"
 
 #: smth
 msgid "tutorial_2"
-msgstr ""
+msgstr "Qishloqni topish🏘"
 
 #: smth
 msgid "invite_friends"
-msgstr ""
+msgstr "Ishchilarni yollash::-worker-::"
 
 #: smth
 msgid "harvest"
-msgstr ""
+msgstr "Nonni sotish💰"
 
 #: smth
 msgid "quest_add_power"
-msgstr ""
+msgstr "Yordam junatish! 🗡"
 
 #: smth
 msgid "quest_no_power"
-msgstr ""
+msgstr "Mablag' yo'q👎"
 
 #: smth
 msgid "quest_1"
-msgstr ""
+msgstr "⭐️⭐️Karvonni himoya qilish"
 
 #: smth
 msgid "quest_2"
-msgstr ""
+msgstr "⭐️⭐️⭐️Qishloqni saqlash"
 
 #: smth
 msgid "swords_10"
-msgstr ""
+msgstr "Kichkina qo'shin 10::-sword-::"
 
 #: smth
 msgid "swords_100"
-msgstr ""
+msgstr "Katta qo'shin 100::-sword-::"
 
 #: smth
 msgid "war_quest"
-msgstr ""
+msgstr "⚔Urush topshirig'i⚔"
 
 #: smth
 msgid "shop"
-msgstr ""
+msgstr "::-diamond-::Do'kon"
 
 #: smth
 msgid "buy_50_gold"
-msgstr ""
+msgstr "Sotib 50::-moneybag-:: ta 2::-diamond-::"
+
+#: smth
+msgid "en"
+msgstr "🇬🇧Inglizcha"
+
+#: smth
+msgid "ru"
+msgstr "🇷🇺Ruscha"
+
+#: smth
+#, fuzzy
+msgid "star1"
+msgstr "::-star-::"
+
+#: smth
+#, fuzzy
+msgid "stars2"
+msgstr "::-star-::::-star-::"
+
+#: smth
+#, fuzzy
+msgid "stars3"
+msgstr "::-star-::::-star-::::-star-::"
+
+#: smth
+#, fuzzy
+msgid "stars4"
+msgstr "::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+#, fuzzy
+msgid "stars5"
+msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "start"
+msgstr "Boshlash"
+
+#: smth
+msgid "next"
+msgstr "Keyingi rasm"
+
+#: smth
+msgid "fa"
+msgstr "Forsiy🇮🇷"
+
+#: smth
+msgid "revenge"
+msgstr "Qasos"
+
+#: smth
+msgid "it"
+msgstr "🇮🇹Italyancha"
+
+#: smth
+msgid "pt"
+msgstr "Portugalcha"
+
+#: smth
+msgid "de"
+msgstr "🇩🇪Nemischa"
+
+#: smth
+msgid "ba"
+msgstr "بلؤچی"
+
+#: smth
+msgid "zh"
+msgstr "Xitoycha"

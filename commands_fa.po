@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-08 00:09+0000\n"
-"PO-Revision-Date: 2016-05-30 02:41+0000\n"
-"Last-Translator: MatinBeigi <matinbeigi97@yahoo.com>\n"
+"PO-Revision-Date: 2016-06-17 18:17+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Persian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/buttons/fa/>\n"
 "Language: fa\n"
@@ -43,6 +43,7 @@ msgid "feedback"
 msgstr "📢تماس با ما"
 
 #: smth
+#, fuzzy
 msgid "chatlink"
 msgstr "چت"
 
@@ -100,7 +101,7 @@ msgstr "👁جستجوی حریف"
 
 #: smth
 msgid "battle_no_power"
-msgstr "👎طلا کم است"
+msgstr "👎طلا نداریم"
 
 #: smth
 msgid "reject"
@@ -184,8 +185,24 @@ msgstr "::-diamond-::فروشگاه"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "خرید 50 عدد ::-moneybag-:: برای خرید 5::-diamond-::"
+msgstr "خرید 50 ::-moneybag-:: در ازای 2 ::-diamond-::"
 
 #: smth
 msgid "cancel"
 msgstr "لغو"
+
+#: smth
+msgid "en"
+msgstr "انگلیسی"
+
+#: smth
+msgid "ru"
+msgstr "🇷🇺روسی"
+
+#: smth
+msgid "fa"
+msgstr "🇮🇷فارسی"
+
+#: smth
+msgid "buy_1_worker"
+msgstr "خرید 1 ::-worker-:: در ازای 5 ::-diamond-::"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-26 16:48+0000\n"
-"Last-Translator: Jeff <guest@example.com>\n"
+"PO-Revision-Date: 2016-06-15 16:39+0000\n"
+"Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/buttons/pt/>\n"
 "Language: pt\n"
@@ -64,7 +64,7 @@ msgstr "Vila"
 
 #: smth
 msgid "refresh_data"
-msgstr "🔃Atualizar informações"
+msgstr "🔃Atualizar"
 
 #: smth
 msgid "tutorial_1"
@@ -104,7 +104,7 @@ msgstr "⭐️⭐️⭐️Salvar a vila"
 
 #: smth
 msgid "war_quest"
-msgstr "Guerra⚔"
+msgstr "⚔Guerra⚔"
 
 #: smth
 msgid "shop"
@@ -112,7 +112,7 @@ msgstr "::-diamond-::Loja"
 
 #: smth
 msgid "buy_50_gold"
-msgstr "Comprar 50::-moneybag-:: por 5::-diamond-::"
+msgstr "Comprar 50::-moneybag-:: por 2::-diamond-::"
 
 #: smth
 msgid "top"
@@ -132,7 +132,7 @@ msgstr "🚀Missões"
 
 #: smth
 msgid "quest_accept"
-msgstr "Aceitar missão"
+msgstr "Fazer missão🗡"
 
 #: smth
 msgid "quest_reject"
@@ -153,3 +153,203 @@ msgstr "Pequena tropa 10::-sword-::"
 #: smth
 msgid "swords_100"
 msgstr "Grande tropa 100::-sword-::"
+
+#: smth
+msgid "en"
+msgstr "🇬🇧English"
+
+#: smth
+msgid "ru"
+msgstr "🇷🇺Русский"
+
+#: smth
+msgid "start"
+msgstr "Iniciar"
+
+#: smth
+msgid "next"
+msgstr "Próxima foto"
+
+#: smth
+msgid "fa"
+msgstr "فارسی🇮🇷"
+
+#: smth
+msgid "revenge"
+msgstr "Vingança"
+
+#: smth
+msgid "it"
+msgstr "🇮🇹Italiano"
+
+#: smth
+msgid "de"
+msgstr "🇩🇪Deutsch"
+
+#: smth
+msgid "pt"
+msgstr "🇧🇷Português"
+
+#: smth
+msgid "zh"
+msgstr "漢語"
+
+#: smth
+msgid "es"
+msgstr "🇪🇸Español"
+
+#: smth
+msgid "top_24"
+msgstr "Top24"
+
+#: smth
+msgid "/donate"
+msgstr "Doação"
+
+#: smth
+msgid "buy_1_worker"
+msgstr "Compre 1::-worker-:: por 5::-diamond-::"
+
+#: smth
+msgid "male"
+msgstr "👨Homem"
+
+#: smth
+msgid "female"
+msgstr "👸Mulher"
+
+#: smth
+msgid "job_scholar"
+msgstr "🏃Estudioso"
+
+#: smth
+msgid "job_student"
+msgstr "Estudante"
+
+#: smth
+msgid "job_worker"
+msgstr "Trabalhador"
+
+#: smth
+msgid "job_master"
+msgstr "Mestre"
+
+#: smth
+msgid "job_manager"
+msgstr "💼Gerente"
+
+#: smth
+msgid "job_businessman"
+msgstr "🎩Empresário"
+
+#: smth
+msgid "job_unemployed"
+msgstr "Desempregado"
+
+#: smth
+msgid "questionary"
+msgstr "❓Questionário"
+
+#: smth
+msgid "skip"
+msgstr "Pular"
+
+#: smth
+msgid "desktop"
+msgstr "🖥 Computador"
+
+#: smth
+msgid "laptop"
+msgstr "💻Notebook"
+
+#: smth
+msgid "device_other"
+msgstr "Outro dispositivo"
+
+#: smth
+msgid "gifts"
+msgstr "🎉Presentes"
+
+#: smth
+msgid "star1"
+msgstr "::-star-::"
+
+#: smth
+msgid "stars2"
+msgstr "::-star-::::-star-::"
+
+#: smth
+msgid "stars3"
+msgstr "::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars4"
+msgstr "::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "stars5"
+msgstr "::-star-::::-star-::::-star-::::-star-::::-star-::"
+
+#: smth
+msgid "job_white_collar_worker"
+msgstr "👔Trabalhador de colarinho branco\n"
+
+#: smth
+msgid "alphaomega"
+msgstr "AAAlphaomega"
+
+#: smth
+msgid "ao"
+msgstr "AO"
+
+#: smth
+msgid "ba"
+msgstr "بلؤچی"
+
+#: smth
+msgid "id"
+msgstr "Bahasa Indonesia"
+
+#: smth
+msgid "top_level"
+msgstr "TOP Nível"
+
+#: smth
+msgid "top_all"
+msgstr "TOP Mundial"
+
+#: smth
+msgid "age_0_14"
+msgstr "0-14"
+
+#: smth
+msgid "age_15_18"
+msgstr "15-18"
+
+#: smth
+msgid "age_19_21"
+msgstr "19-21"
+
+#: smth
+msgid "age_22_24"
+msgstr "22-24"
+
+#: smth
+msgid "age_25_27"
+msgstr "25-27"
+
+#: smth
+msgid "age_28_30"
+msgstr "28-30"
+
+#: smth
+msgid "age_31_35"
+msgstr "31-35"
+
+#: smth
+msgid "age_36_45"
+msgstr "36-45"
+
+#: smth
+msgid "age_46_"
+msgstr "46+"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 20:55+0000\n"
-"PO-Revision-Date: 2016-05-08 10:05+0000\n"
-"Last-Translator: Lucas Kado <guest@example.com>\n"
+"PO-Revision-Date: 2016-06-17 20:57+0000\n"
+"Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Malay <http://translate.villagegamebot.tgroups.me/projects/vil"
 "lagegamebot/buttons/ms/>\n"
 "Language: ms\n"
@@ -15,26 +15,30 @@ msgstr ""
 "X-Generator: Weblate 2.7-dev\n"
 
 #: smth 
+#, fuzzy
 msgid "help"
 msgstr "Bantuan"
 
 #: smth
 msgid "top"
-msgstr "Tertangga teratas"
+msgstr "Tangga teratas"
 
 #: smth
 msgid "chooselanguage"
 msgstr "Sila pilih bahasa"
 
 #: smth
+#, fuzzy
 msgid "feedback"
 msgstr "Maklum balas"
 
 #: smth
+#, fuzzy
 msgid "chatlink"
 msgstr "Sembang"
 
 #: smth
+#, fuzzy
 msgid "mainmenu"
 msgstr "Menu utama"
 
@@ -44,10 +48,12 @@ msgid "ratebot"
 msgstr "Nilaikan saya ::-suka-::"
 
 #: smth
+#, fuzzy
 msgid "cancel"
 msgstr "Batal"
 
 #: smth
+#, fuzzy
 msgid "work"
 msgstr "Kerja!"
 
@@ -62,74 +68,83 @@ msgid "quest_accept"
 msgstr "Jalankan tugasan"
 
 #: smth
+#, fuzzy
 msgid "quest_reject"
 msgstr "Bukan sekarang"
 
 #: smth
+#, fuzzy
 msgid "battles"
 msgstr "Perlawanan"
 
 #: smth
-#, fuzzy
 msgid "search_opponent"
-msgstr "Mencari lawan"
+msgstr "Cari pihak lawan"
+
+#: smth
+msgid "battle_no_power"
+msgstr "Kekurangan emas"
 
 #: smth
 #, fuzzy
-msgid "battle_no_power"
-msgstr "Beberapa emas"
-
-#: smth
 msgid "reject"
 msgstr "Tolak"
 
 #: smth
+#, fuzzy
 msgid "battle_add_power"
 msgstr "Hantar bantuan"
 
 #: smth
+#, fuzzy
 msgid "battle_start"
 msgstr "Serang"
 
 #: smth
+#, fuzzy
 msgid "quest_3"
 msgstr "Serigala"
 
 #: smth
+#, fuzzy
 msgid "village"
 msgstr "Kampung"
 
 #: smth
+#, fuzzy
 msgid "refresh_data"
 msgstr "Kemaskini info"
 
 #: smth
-#, fuzzy
 msgid "tutorial_1"
-msgstr "Ambil duit syiling"
+msgstr "Ambil syiling"
 
 #: smth
+#, fuzzy
 msgid "return_to_village"
 msgstr "Kembali ke kampung"
 
 #: smth
-#, fuzzy
 msgid "tutorial_2"
-msgstr "Kampung dijumpai."
+msgstr "Kampung dijumpai"
 
 #: smth
+#, fuzzy
 msgid "invite_friends"
 msgstr "Dapatkan pekerja::-pekerja-::"
 
 #: smth
+#, fuzzy
 msgid "harvest"
 msgstr "Jual roti"
 
 #: smth
+#, fuzzy
 msgid "quest_add_power"
 msgstr "Hantar pasukan bantuan"
 
 #: smth
+#, fuzzy
 msgid "quest_no_power"
 msgstr "Tiada sumber"
 
@@ -139,17 +154,17 @@ msgid "quest_1"
 msgstr "Lindungi Karavan"
 
 #: smth
+#, fuzzy
 msgid "quest_2"
 msgstr "Selamatkan kampung"
 
 #: smth
 msgid "swords_10"
-msgstr "Pasukan kecil 10::-pedang-::"
+msgstr "Angkatan kecil 10::-pedang-::"
 
 #: smth
-#, fuzzy
 msgid "swords_100"
-msgstr "Pasukan besar 100::-pedang-::"
+msgstr "Angkatan besar 100::-pedang-::"
 
 #: smth
 #, fuzzy
@@ -157,9 +172,20 @@ msgid "war_quest"
 msgstr "Tugasan perang"
 
 #: smth
+#, fuzzy
 msgid "shop"
 msgstr "::-berlian-::Kedai"
 
 #: smth
 msgid "buy_50_gold"
 msgstr "Beli 50::-begduit-:: dengan 5::-berlian-::"
+
+#: smth
+#, fuzzy
+msgid "next"
+msgstr "Gambar seterusnya"
+
+#: smth
+#, fuzzy
+msgid "revenge"
+msgstr "Balas dendam"
