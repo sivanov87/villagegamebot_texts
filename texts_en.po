@@ -412,16 +412,16 @@ msgstr "This person has not yet played the game. Invite him to link %reflink% an
 
 #: smth
 msgid "gift_self"
-msgstr "You are trying to give a gift to yourself ... Do you have any friends? :("
+msgstr "You are trying to give a gift::-gift-:: to yourself ... Do you have any friends? :("
 
 #: smth
 msgid "gift_player_sended"
-msgstr "You have received a gift that player. Choose another one, please."
+msgstr "You have received a gift::-gift-:: that player. Choose another one, please."
 
 #: smth
 msgid "buildings"
-msgstr "You can build some buildings to improve your village.\n\nFarm(Level %farm_level%) +%farm_bread%::-bread-:: per minute\nUpgrade: %farm_cost%::-moneybag-:: +%farm_bread_update%::-bread-::\n\nGranary(Level %granary_level%) +%granary_max_bread%::-bread-:: increase max bread\nUpgrade: %granary_cost%::-moneybag-:: +%granary_max_bread_update%::-bread-::\n\nWall(Level %wall_level%) +%wall_defense%::-sword-:: add defense power\nUpgrade: %wall_cost%::-moneybag-:: +%wall_defense_update%::-sword-::"
+msgstr "You can build some buildings to improve your village.\n\n::-farm-::Farm (Level %farm_level%) produce bread::-bread-:: every minute\nNow: +%farm_bread%::-bread-:: Upgrade: +%farm_bread_update%::-bread-:: Cost:%farm_cost%::-moneybag-::\n\n::-granary-::Granary (Level %granary_level%) increase max bread\nNow: +%granary_max_bread%::-bread-:: Upgrade: +%granary_max_bread_update%::-bread-:: Cost:%granary_cost%::-moneybag-::\n\n::-wall-::Wall (Level %wall_level%)  add power at each defense\nNow: +%wall_defense%::-sword-:: Upgrade: +%wall_defense_update%::-sword-:: Cost:%wall_cost%::-moneybag-::"
 
 #: smth
 msgid "building_created"
-msgstr "Building is created!"
+msgstr "::-building-::Building is created!"
