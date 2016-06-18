@@ -420,7 +420,7 @@ msgstr "You have received a gift::-gift-:: that player. Choose another one, plea
 
 #: smth
 msgid "buildings"
-msgstr "You can build some buildings to improve your village.\n\n::-farm-::Farm (Level %farm_level%) produce bread::-bread-:: every minute\nNow: +%farm_bread%::-bread-:: Upgrade: +%farm_bread_update%::-bread-:: Cost:%farm_cost%::-moneybag-::\n\n::-granary-::Granary (Level %granary_level%) increase max bread\nNow: +%granary_max_bread%::-bread-:: Upgrade: +%granary_max_bread_update%::-bread-:: Cost:%granary_cost%::-moneybag-::\n\n::-wall-::Wall (Level %wall_level%)  add power at each defense\nNow: +%wall_defense%::-sword-:: Upgrade: +%wall_defense_update%::-sword-:: Cost:%wall_cost%::-moneybag-::"
+msgstr "You can build some buildings to improve your village.\n\n::-farm-::Farm (Level %farm_level%) produce bread::-bread-:: every minute\nNow: +%farm_bread%::-bread-:: Upgrade: +%farm_bread_update%::-bread-:: Cost: %farm_cost%::-moneybag-::\n\n::-granary-::Granary (Level %granary_level%) increase max bread\nNow: +%granary_max_bread%::-bread-:: Upgrade: +%granary_max_bread_update%::-bread-:: Cost: %granary_cost%::-moneybag-::\n\n::-wall-::Wall (Level %wall_level%)  add power at each defense\nNow: +%wall_defense%::-sword-:: Upgrade: +%wall_defense_update%::-sword-:: Cost: %wall_cost%::-moneybag-::"
 
 #: smth
 msgid "building_created"
