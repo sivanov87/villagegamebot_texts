@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-17 05:04+0000\n"
+"PO-Revision-Date: 2016-06-18 06:29+0000\n"
 "Last-Translator: Peter <guest1@example.com>\n"
 "Language-Team: Chinese <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/zh/>\n"
@@ -47,7 +47,9 @@ msgstr ""
 "\n"
 "新聞頻道 - @VillageGameEn\n"
 "\n"
-"/chooselanguage - 選擇語言"
+"/chooselanguage - 選擇語言\n"
+"\n"
+"(本翻譯由南極灰熊提供。)"
 
 #: smth
 msgid "village_description"
@@ -57,13 +59,13 @@ msgstr ""
 "工人: %workers% ::-worker-::\n"
 "麵包: %bread% / %max_bread% ::-bread-:: %bread_action%\n"
 "金錢: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
-"獎牌: %medals% ::-medal-::"
+"勳章: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
 "一位好友接受了您的邀請。您獲贈了 1 位 ::-worker-:: 及 5 袋 ::-moneybag-::\n"
-"請邀請您的朋友 /invite_friends"
+"請邀請更多朋友 /invite_friends"
 
 #: smth
 msgid "working_yet"
@@ -122,12 +124,9 @@ msgstr ""
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
-"您輸入了一個錯誤的秘碼。我們不能為你充值。:(\n"
+"您輸入了一個錯誤的代碼。我們不能為你充值。:(\n"
 "\n"
-"\n"
-"\n"
-"在未來，你可以從各頻道或朋友口中得知秘碼。\n"
-"\n"
+"在未來，你可以從各頻道或朋友口中得知代碼。\n"
 "現在您需要發展您村莊。首先，聘請新的工人會為您的村落增添動力。您可以透過此連結%reflink%邀請親朋戚友加入這個遊戲。每一個好友的加入，都會為您帶來一"
 "個新的工人::-worker-:: 和 5個 ::-moneybag-::。"
 
@@ -163,7 +162,7 @@ msgstr "太好了！那支商旅安全地通過，亦沒有遇上任何麻煩事
 
 #: smth
 msgid "quest_1_question"
-msgstr "那支商旅受到了襲擊，而您的守衛亦疲憊不堪了。請增派%add_power% ::-sword-:: 否則他們會團滅！"
+msgstr "那支商旅受到了襲擊，而您的守衛亦疲憊不堪了。請增派%add_power% ::-sword-:: 否則他們都會死！"
 
 #: smth
 msgid "quest_1_win"
@@ -185,7 +184,7 @@ msgstr "那些山賊只是廢物！他們一看到您的軍隊便逃散無蹤。
 
 #: smth
 msgid "quest_2_question"
-msgstr "那些山賊中臥虎藏龍 - 他們把您的隊伍都壓制著。為了反制他們，你需要額外徵募%add_power% ::-sword-::。"
+msgstr "那些山賊中臥虎藏龍 - 他們把您的隊伍都壓制住。為了反制他們，你需要額外徵募%add_power% ::-sword-::。"
 
 #: smth
 msgid "quest_2_win"
@@ -201,7 +200,7 @@ msgstr ""
 "您可以選擇一項任務，任一項都會花費金錢。\n"
 "招募1 ::-sword-:: 需要 1 ::-moneybag-::。\n"
 "\n"
-"您的財政狀況: %gold%::-moneybag-:: (未破產)"
+"您的財政狀況: %gold%::-moneybag-::"
 
 #: smth
 msgid "quest_no_money"
@@ -215,7 +214,7 @@ msgstr ""
 "您可以透過擊敗其他玩家以贏取獎牌 ::-medal-::。而您需要尋找合適的對手並擊倒他。\n"
 "不論您的選擇與否，每一次搜索敵人都會花費 1 ::-moneybag-::。\n"
 "\n"
-"您的財政狀況: %gold%::-moneybag-:: (未破產)"
+"您的財政狀況: %gold%::-moneybag-::"
 
 #: smth
 msgid "battle_start"
@@ -395,8 +394,7 @@ msgstr ""
 "\n"
 "現在開賣了:\n"
 "%gold_count% 金錢::-moneybag-:: 可以用 %gold_diamonds% 鑽石::-diamond-:: 換取\n"
-"%worker_count%個 工人::-worker-:: 可以用 %worker_diamonds% diamonds::-diamond-:: "
-"換取\n"
+"%worker_count%個 工人::-worker-:: 可以用 %worker_diamonds% 鑽石::-diamond-:: 換取\n"
 "\n"
 "現在您有 %diamonds%::-diamond-::"
 
@@ -406,7 +404,7 @@ msgstr "你以%diamonds_diff%顆::-diamond-::購買了 %gold_diff%::-moneybag-::
 
 #: smth
 msgid "no_diamonds"
-msgstr "你沒有足夠的鑽石 ::-diamonds-:: 去完成是次交易 :(\n"
+msgstr "你沒有足夠的鑽石 ::-diamonds-:: :(\n"
 
 #: smth
 msgid "it"
@@ -423,7 +421,7 @@ msgstr "德文"
 #: smth
 msgid "rateonstorebot"
 msgstr ""
-"喜歡本遊戲吧？請幫助我們提升人氣！在Storebot上投票。\n"
+"喜歡本遊戲吧？請助我們提升人氣！在Storebot上投下神聖一票。\n"
 "\n"
 "流程:\n"
 "1. 點擊以下連結\n"
@@ -466,7 +464,7 @@ msgstr ""
 
 #: smth
 msgid "questionary_2"
-msgstr "好的！你住在哪一個城市？傳送您的位置，或輸入您所居住的城市名字。"
+msgstr "好的！你住在哪一個城市？傳送您的位置，或輸入城市的名字。"
 
 #: smth
 msgid "questionary_3"
@@ -489,7 +487,7 @@ msgstr "謝謝！您對這遊戲有什麼感受 - 有什麼您會想新增或改
 #: smth
 msgid "questionary_finish_first"
 msgstr ""
-"感謝您的回答，我們會考慮這些意見並改進本遊戲！\n"
+"感謝您的回答，我們會好好考慮這些意見並改進本遊戲！\n"
 "感謝您肯抽空完成本問卷，獎勵 - %gold%::-moneybag-::"
 
 #: smth
@@ -508,7 +506,7 @@ msgstr "感謝您的回答，我們會考慮這些意見並改進本遊戲！"
 msgid "gifts"
 msgstr ""
 "現在您可以送禮::-gift-:: 給您的朋友！\n"
-"你需要傳送您朋友的Contact給我 (如圖所示) 然後我們則會為他送上禮物20::-moneybag-::\n"
+"你需要傳送您朋友的Contact給我 (如圖所示) 然後我們則會為他送上禮物 20::-moneybag-::\n"
 "等級愈高，禮物的傳送份數愈多。\n"
 "\n"
 "你已送出: %gifts% / %max_gifts% ::-gift-::\n"
