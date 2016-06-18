@@ -284,7 +284,7 @@ msgstr "Best players lvl %level%::-medal-::"
 
 #: smth
 msgid "no_money"
-msgstr "Unfortunately, you have no money::-moneybag-::...\nTo receive them - wait bread ::-bread-:: won't ripen yet::"
+msgstr "Unfortunately, you have no money::-moneybag-::...\n\nInvite your friends(/invite_friends), look for promotional codes(@VillageGameEn), harvest your crops - you need money!"
 
 #: smth
 msgid "no_revenge"
