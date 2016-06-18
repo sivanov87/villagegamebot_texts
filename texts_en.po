@@ -33,7 +33,7 @@ msgstr "Thank you!"
 
 #: smth
 msgid "help"
-msgstr "You are playing the first strategy game of Telegram. You can grow crops::-bread-::, change them to gold::-moneybag-::, run quests🚀, fight with other players ⚔, and develop your village.\r\nEnjoy!\r\n\r\nSupport chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\n\r\nNews channel - @VillageGameEn\r\n\r\n/chooselanguage - choose language"
+msgstr "You are playing the first strategy game of Telegram. You can grow crops::-bread-::, change them to gold::-moneybag-::, run quests🚀, fight with other players ⚔, and develop your village.\r\nEnjoy!\r\n\r\nSupport chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\n\r\nNews channel - @VillageGameEn\r\nFB - https://www.facebook.com/groups/1018021724912969/\r\n\r\n/chooselanguage - choose language"
 
 #: smth
 msgid "village_description"
