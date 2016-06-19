@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 11:38+0000\n"
-"PO-Revision-Date: 2016-06-15 13:04+0000\n"
-"Last-Translator: Peter <guest1@example.com>\n"
+"PO-Revision-Date: 2016-06-19 22:04+0000\n"
+"Last-Translator: supportteam <supportteam@example.com>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/de/>\n"
 "Language: de\n"
@@ -33,7 +33,6 @@ msgstr ""
 "/chooselanguage - Sprache wählen"
 
 #: smth
-#, fuzzy
 msgid "village_description"
 msgstr ""
 "%villagename%s Dorf: (Level %level%::-village-::, %level_percents%%)\n"
@@ -44,7 +43,6 @@ msgstr ""
 "Medallien: %medals% ::-medal-::"
 
 #: smth
-#, fuzzy
 msgid "friend_added"
 msgstr ""
 "Ein Freund wurde hinzugefügt. Du hast 1 ::-worker-:: und 5 ::-moneybag-:: "
@@ -60,7 +58,7 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"Du beginnst zu arbeiten und du erntest 60 ::-bread-::! Nun kannst du Quests "
+"Die Arbeit beginnt und du erntest 60 ::-bread-::! Nun kannst du Quests "
 "erledigen /quest"
 
 #: smth
@@ -70,7 +68,7 @@ msgstr "Promocode akzeptiert. Gold: %gold%::-moneybag-:: "
 #: smth
 msgid "promocode_reject"
 msgstr ""
-"Falscher Promocode. du kannst arbeien /work oder Quest /quests bewältigen"
+"Falscher Promocode. Du kannst arbeiten /work oder eine Mission machen /quest"
 
 #: smth
 msgid "work_finished"
@@ -96,7 +94,6 @@ msgstr ""
 "um deine Ernte von 2000 ::-bread-:: für 20 ::-moneybag-:: zu verkaufen."
 
 #: smth
-#, fuzzy
 msgid "tutorial_4"
 msgstr ""
 "Großartig! Die Ernte wächst mit der Zeit, deswegen empfehlen wir, dass du "
@@ -330,17 +327,17 @@ msgstr "Gold ::-moneybag-:: ist die Währung des Spiels. Du verdienst sie indem 
 #: smth
 msgid "feedback"
 msgstr ""
-"Wir würden uns über dein Feedback freuen. Schreibe es in die nächste "
-"Nachricht::-baloon-::\n"
-"Außerdem kannst du hier unserem Chat beitreten:\n"
+"Bitte schreibe dein Feedback zu dem Bot in die nächste Nachricht ::-baloon-::"
+"\n"
+"Außerdem kannst du unserem Chat beitreten:\n"
 "https://telegram.me/joinchat/B31JfT7fWt7AfsIhuMGoZg"
 
 #: smth
-#, fuzzy
 msgid "botisstopped"
 msgstr ""
-"Der Bot wurde nun deaktiviert. Du wirst nun keine Benachrichtigungen mehr "
-"erhalten. Der Bot kann jederzeit wieder mit /start aktiviert werden."
+"Der Bot wurde nun deaktiviert. Du wirst nun keine weiteren "
+"Benachrichtigungen mehr erhalten. Der Bot kann jederzeit wieder mit /start "
+"aktiviert werden."
 
 #: smth
 msgid "ratebot"
