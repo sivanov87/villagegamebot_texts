@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-20 10:52+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-06-20 12:07+0000\n"
+"Last-Translator: supportteam <supportteam@example.com>\n"
 "Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/en/>\n"
 "Language: en\n"
@@ -20,7 +20,7 @@ msgstr "Please, write your feedback about bot in the next message::-baloon-::\nA
 #: smth
 msgid "botisstopped"
 msgstr ""
-"You unsubscribed. Now you will not receive notification of it. You can "
+"You are unsubscribed. You will now stop receiving notifications. You can "
 "always sign up again by typing /start"
 
 #: smth
@@ -33,7 +33,18 @@ msgstr "Thank you!"
 
 #: smth
 msgid "help"
-msgstr "You are playing the first strategy game of Telegram. You can grow crops::-bread-::, change them to gold::-moneybag-::, run quests🚀, fight with other players ⚔, and develop your village.\r\nEnjoy!\r\n\r\nSupport chat: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\r\n\r\nNews channel - @VillageGameEn\r\nFB - https://www.facebook.com/groups/1018021724912969/\r\n\r\n/chooselanguage - choose language"
+msgstr ""
+"You are playing the first strategy game of Telegram. You can grow crops "
+"::-bread-::, change them to gold ::-moneybag-::, run quests 🚀, fight with "
+"other players ⚔, and develop your village.\n"
+"Enjoy!\n"
+"\n"
+"Support group: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"News channel - @VillageGameEn\n"
+"FB - https://www.facebook.com/groups/1018021724912969/\n"
+"\n"
+"/chooselanguage - choose language"
 
 #: smth
 msgid "village_description"
@@ -41,15 +52,19 @@ msgstr "Village %villagename% (Level %level%::-village-::, %level_percents%%)\n\
 
 #: smth
 msgid "friend_added"
-msgstr "A friend was added. You received 1 ::-worker-:: and 5 ::-moneybag-::\nInvite friends /invite_friends"
+msgstr ""
+"A friend was added. You received 1 ::-worker-:: and 5 ::-moneybag-::.\n"
+"Invite friends: /invite_friends"
 
 #: smth
 msgid "working_yet"
-msgstr "You are currently working. Wait a short while. You can run quests /quests"
+msgstr ""
+"You are currently working. Wait a short while. You can run quests with "
+"/quests"
 
 #: smth
 msgid "work_started"
-msgstr "You start to work and harvest 60::-bread-::! And now you can run /quests"
+msgstr "You start to work and harvest 60 ::-bread-::! You can run /quests, too."
 
 #: smth
 msgid "promocode_accept"
