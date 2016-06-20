@@ -28,9 +28,8 @@ msgstr ""
 #: smth
 msgid "botisstopped"
 msgstr ""
-"شما از اشتراک خبرنامه خارج شدید. از این پس هیچ پیامی برای شما ارسال نخواهد "
-"شد ولی اگر دوست داشتید مجدد ثبت نام کنید عبارت /start را بنویسید.\n"
-"لینک گروه پشتیبانی : https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ"
+"You unsubscribed. Now you will not receive notification of it. You can "
+"always sign up again by typing /start"
 
 #: smth
 msgid "ratebot"
@@ -48,21 +47,18 @@ msgstr ""
 "ماجراجویی بروید، با دیگر بازیکنان ⚔ بجنگید،و دهکده خود را گسترش دهید.\n"
 "امیدواریم از بازی لذت ببرید. \n"
 "\n"
-"Support chat:  https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ \n"
+"گروه پشتیبانی:  https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ \n"
 "\n"
-"News channel - @VillageGameEn\n"
-"\n"
-"/chooselanguage  زبان خود را انتخاب کنید :"
+"تنها کانال رسمی - @VillageGameFarsi\n"
 
 #: smth
 msgid "village_description"
 msgstr ""
 "دهکده %villagename% (سطح %level%::-village-::, %level_percents%%)\n"
 "\n"
-"کارگران: %workers% ::-worker-::\n"
-"محصولات: %bread% / %max_bread% ::-bread-::\n"
-"طلاها: %gold% ::-moneybag-::\n"
-"الماس ها %diamonds% ::-diamond-::\n"
+"کارگرها: %workers% ::-worker-::\n"
+"محصولات: %bread% / %max_bread% ::-bread-:: %bread_action%\n"
+"گلدها: %gold% ::-moneybag-:: جم ها: %diamonds% ::-diamond-::\n"
 "مدال ها: %medals% ::-medal-::"
 
 #: smth
@@ -86,7 +82,7 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr "کدتبلیغاتی تایید شد. طلا - %gold%::-moneybag-::"
+msgstr "کدتبلیغاتی تایید شد. گلد - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
@@ -94,7 +90,7 @@ msgstr "متاسفانه کد تبلیغاتی شما تایید نشد. تو م
 
 #: smth
 msgid "work_finished"
-msgstr "کار من تموم شد.سرورم! کار کن - /work"
+msgstr "کار کارگران تموم شد. زراعت مجدد - /work"
 
 #: smth
 msgid "delimeter"
