@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-13 19:05+0000\n"
+"PO-Revision-Date: 2016-06-20 10:52+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/en/>\n"
@@ -360,7 +360,14 @@ msgstr "Thanks for the answers, we will consider them in the development of the 
 
 #: smth
 msgid "gifts"
-msgstr "Now you can give gifts::-gift-:: to your friends!\nTo do this, you must send your friend's contact to bot (as show in the picture) and we will send him a gift 20::-moneybag-:: from game.\nThe higher your level, the more gifts you can send.\n\nYou sended: %gifts% / %max_gifts% ::-gift-::\nYou received: %received_gifts% ::-gift-::"
+msgstr ""
+"Now you can give gifts::-gift-:: to your friends!\n"
+"To do this, you must send your friend's contact to bot (as show in the "
+"picture) and we will send him a gift 20::-moneybag-:: from game.\n"
+"The higher your level, the more gifts you can send.\n"
+"\n"
+"You sent: %gifts% / %max_gifts% ::-gift-::\n"
+"You received: %received_gifts% ::-gift-::"
 
 #: smth
 msgid "message_is_not_contact"
@@ -376,7 +383,9 @@ msgstr "This player is in the game, but the message can not be delivered, becaus
 
 #: smth
 msgid "gift_sended"
-msgstr "The gift::-gift-:: is sent, the recipient will be pleased! Now you can send a contact of another person send him a gift"
+msgstr ""
+"The gift::-gift-:: is sent, the recipient will be pleased! Now you can send "
+"a contact of another person to send him a gift"
 
 #: smth
 msgid "gift_received"
@@ -396,7 +405,26 @@ msgstr "You have received a gift::-gift-:: that player. Choose another one, plea
 
 #: smth
 msgid "buildings"
-msgstr "You can build some buildings::-building-:: to improve your village::-village-::.\n\n::-farm-::Farm (Level %farm_level%) produce bread::-bread-:: every minute\nNow: +%farm_bread%::-bread-:: Upgrade: +%farm_bread_update%::-bread-:: Cost: %farm_cost%::-moneybag-::\n\n::-granary-::Granary (Level %granary_level%) increase max bread\nNow: +%granary_max_bread%::-bread-:: Upgrade: +%granary_max_bread_update%::-bread-:: Cost: %granary_cost%::-moneybag-::\n\n::-wall-::Wall (Level %wall_level%)  add power at each defense\nNow: +%wall_defense%::-sword-:: Upgrade: +%wall_defense_update%::-sword-:: Cost: %wall_cost%::-moneybag-::\n\nYout treasure: %gold%\n\nBuildings is under construction now. Please write to @tgcreator about all problems and mistakes."
+msgstr ""
+"You can build some buildings::-building-:: to improve your "
+"village::-village-::.\n"
+"\n"
+"::-farm-::Farm (Level %farm_level%) produce bread::-bread-:: every minute\n"
+"Now: +%farm_bread%::-bread-:: Upgrade: +%farm_bread_update%::-bread-:: Cost: "
+"%farm_cost%::-moneybag-::\n"
+"\n"
+"::-granary-::Granary (Level %granary_level%) increase max bread\n"
+"Now: +%granary_max_bread%::-bread-:: Upgrade: "
+"+%granary_max_bread_update%::-bread-:: Cost: %granary_cost%::-moneybag-::\n"
+"\n"
+"::-wall-::Wall (Level %wall_level%)  add power at each defense\n"
+"Now: +%wall_defense%::-sword-:: Upgrade: +%wall_defense_update%::-sword-:: "
+"Cost: %wall_cost%::-moneybag-::\n"
+"\n"
+"Your treasure: %gold%\n"
+"\n"
+"Buildings is under construction now. Please write to @tgcreator about all "
+"problems and mistakes."
 
 #: smth
 msgid "building_created"
