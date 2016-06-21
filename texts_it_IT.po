@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-20 11:38+0000\n"
+"PO-Revision-Date: 2016-06-20 11:41+0000\n"
 "Last-Translator: supportteam <supportteam@example.com>\n"
 "Language-Team: Italian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/it/>\n"
@@ -76,8 +76,8 @@ msgstr ""
 #: smth
 msgid "tutorial_3"
 msgstr ""
-"Bene, i contadini sono a lavoro. E' arrivato il momento di vendere il "
-"raccolto di 2000 ::-bread-:: con il quale guadagnerai 20 ::-moneybag-::"
+"Bene, i contadini sono a lavoro. È arrivato il momento di vendere il "
+"raccolto di 2000 ::-bread-:: con il quale guadagnerai 20 ::-moneybag-::."
 
 #: smth
 msgid "tutorial_4"
@@ -94,19 +94,21 @@ msgstr ""
 "Eccellente! Il raccolto maturerà nel tempo, quindi ti consigliamo di entrare "
 "periodicamente nel gioco per raccoglierlo.\n"
 "Adesso pensiamo a sviluppare il villaggio. Prima di iniziare pero', sarebbe "
-"meglio reclutare altri lavoratori. Ecco un modo per farlo - invita i tuoi "
-"amici attraverso questo link %reflink%. Ogni amico che utilizzarà il tuo "
-"link per entrare, ti darà 1 ::-worker-:: e 5 ::-moneybag-::"
+"meglio reclutare altri lavoratori. Un modo per farlo è invitare tuoi amici "
+"attraverso questo link %reflink%. Ogni amico che utilizzerà il tuo link per "
+"entrare, ti darà 1 ::-worker-:: e 5 ::-moneybag-::. Oppure inizia un lavoro "
+"/work"
 
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
 "Hai inserito un codice errato. Non possiamo darti i soldi :(\n"
+"\n"
 "In futuro, potrai trovare i codici nel canale oppure dagli amici.\n"
 "Ora pensiamo alla costruzione del tuo villaggio. Prima di tutto, dovresti "
 "reclutare nuovi lavoratori. Un modo per farlo è invitare i tuoi amici con "
-"questo link %reflink%. Ognuno di loro porterà 1::-worker-:: e 5 "
-"::-moneybag-::"
+"questo link %reflink%. Ognuno di loro ti porterà 1::-worker-:: e 5 "
+"::-moneybag-::."
 
 #: smth
 msgid "harvested"
@@ -168,7 +170,7 @@ msgid "quest_2_description"
 msgstr ""
 "I banditi hanno attaccato il villaggio. Il sindaco ha chiesto aiuto - per "
 "sconfiggere i banditi devi inviare un armata di %start_power% ::-sword-::. "
-"Se vincerai, un bel premio guadagnerai: %gold% ::-moneybag-::"
+"Se vincerai, un bel premio guadagnerai: %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_2_good"
@@ -179,9 +181,9 @@ msgstr ""
 #: smth
 msgid "quest_2_question"
 msgstr ""
-"I banditi sono dei tipacci davvero cattivi: hanno messo all'angolo la tua "
+"I banditi sono dei tipacci davvero cattivi: hanno messo in difficoltà la tua "
 "squadra. Per vincere hai bisogno di inviare una truppa aggiuntiva di "
-"%add_power% ::-sword-::"
+"%add_power% ::-sword-::."
 
 #: smth
 msgid "quest_2_win"
@@ -222,8 +224,8 @@ msgid "battle_start"
 msgstr ""
 "Avversario %villagename%, livello %level%. Per attaccare, hai bisogno di "
 "%start_power% ::-sword-::\n"
-"Potrai guadagnare %gold_diff% ::-moneybag-:: e %medals_diff% ::-medal-::\n"
-"1 ::-sword-:: = 1 ::-moneybag-::"
+"Potrai guadagnare %gold_diff% ::-moneybag-:: e %medals_diff% ::-medal-::.\n"
+"1 ::-sword-:: costa 1 ::-moneybag-::."
 
 #: smth
 msgid "battle_question"
@@ -236,7 +238,7 @@ msgstr ""
 msgid "battle_win"
 msgstr ""
 "Abbiamo vinto la battaglia e ottenuto %gold% ::-moneybag-:: e %medals% "
-"::-medal-::"
+"::-medal-::."
 
 #: smth
 msgid "battle_fail"
@@ -246,7 +248,7 @@ msgstr "Ritirata! Le forze nemiche erano nettamente superiori - davvero una terr
 msgid "battle_good"
 msgstr ""
 "Le nostre milizie sono riuscite ad invadere il villaggio nemico senza "
-"problemi, ottenendo %gold% ::-moneybag-:: e %medals% ::-medal-::"
+"problemi, ottenendo %gold% ::-moneybag-:: e %medals% ::-medal-::."
 
 #: smth
 msgid "battle_no_money"
@@ -263,7 +265,7 @@ msgstr ""
 msgid "quest_3_good"
 msgstr ""
 "Il lupi sono scappati alla tua sola vista. Hai guadagnato il denaro "
-"::-moneybag-::"
+"::-moneybag-::."
 
 #: smth
 msgid "quest_3_question"
@@ -285,7 +287,7 @@ msgstr ""
 msgid "tip_bread"
 msgstr ""
 "Lavoratori ::-worker-:: raccolgono ::-bread-:: per te, e tu lo vendi per "
-"::-moneybag-::"
+"::-moneybag-::."
 
 #: smth
 msgid "tip_worker"

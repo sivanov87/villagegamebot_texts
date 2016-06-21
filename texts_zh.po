@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-18 06:29+0000\n"
-"Last-Translator: Peter <guest1@example.com>\n"
+"PO-Revision-Date: 2016-06-21 13:25+0000\n"
+"Last-Translator: supportteam <supportteam@example.com>\n"
 "Language-Team: Chinese <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/zh/>\n"
 "Language: zh\n"
@@ -26,7 +26,7 @@ msgstr ""
 
 #: smth
 msgid "botisstopped"
-msgstr "您中止了訂閱。你不會再收到任何有關於本遊戲的通知。您可以隨時透過 /start 指令重新加入我們"
+msgstr "您中止了訂閱。你不會再收到任何有關本遊戲的通知。您可以隨時透過 /start 指令重新啟動本遊戲"
 
 #: smth
 msgid "ratebot"
@@ -41,13 +41,15 @@ msgid "help"
 msgstr ""
 "這是Telegram上的首款策略遊戲。你可以耕作 ::-bread-::，以農作物換取金錢::-moneybag-::，完成各款任務🚀，與不同玩家戰鬥 "
 "⚔，以及建設你的村莊。\n"
-"盡情玩吧！\n"
+"盡情發展吧！\n"
 "\n"
 "英語支援小組: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
 "\n"
-"新聞頻道 - @VillageGameEn\n"
+"消息頻道 - @VillageGameEn\n"
+"FB - https://www.facebook.com/groups/1018021724912969/\n"
 "\n"
 "/chooselanguage - 選擇語言\n"
+"\n"
 "\n"
 "(本翻譯由南極灰熊提供。)"
 
@@ -111,24 +113,25 @@ msgstr ""
 msgid "tutorial_4"
 msgstr ""
 "做得好！農作物會隨著時間成熟，所以我們建議您定時回到遊戲收割它們。\n"
-"現在是時候用秘密情報去賺錢了 - 你需要找到那些秘碼然後在遊戲中輸入。你可以由@VillageGameEn 頻道中開始，複製那些寫著「Secret "
+"現在是時候利用秘密情報去賺錢了 - 你需要找到那些代碼然後在遊戲中輸入。你可以由@VillageGameEn 頻道中開始，複製那些寫著「Secret "
 "code: <code>」的訊息，然後傳送給我。"
 
 #: smth
 msgid "tutorial_5"
 msgstr ""
 "做得好！農作物會隨著時間成熟，所以我們建議您定時回到遊戲收割它們。\n"
-"現在您需要發展您村莊。首先，聘請新的工人會為您的村落增添動力。您可以透過此連結%reflink%邀請親朋戚友加入這個遊戲。每一個好友的加入，都會為您帶來一"
-"個新的工人::-worker-:: 和 5袋 ::-moneybag-::。或者您可以先開始工作 /work"
+"現在您需要發展您村莊。首先，聘請新的工人會為您的村落增添動力。您可以透過此連結 %reflink% "
+"邀請親朋戚友加入這個遊戲。每一個好友的加入，都會為您帶來一個新的工人::-worker-:: 和 5袋 ::-moneybag-::。"
+"或者您可以先開始工作 /work"
 
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
-"您輸入了一個錯誤的代碼。我們不能為你充值。:(\n"
+"您輸入了一個錯誤的代碼。我們不能為您充值。:(\n"
 "\n"
-"在未來，你可以從各頻道或朋友口中得知代碼。\n"
-"現在您需要發展您村莊。首先，聘請新的工人會為您的村落增添動力。您可以透過此連結%reflink%邀請親朋戚友加入這個遊戲。每一個好友的加入，都會為您帶來一"
-"個新的工人::-worker-:: 和 5個 ::-moneybag-::。"
+"在不久的將來，您可以從各頻道或朋友口中得知代碼。\n"
+"現在您需要發展您村莊。首先，聘請新的工人會為您的村落增添動力。您可以透過此連結 %reflink% "
+"邀請親朋戚友加入這個遊戲。每一個好友的加入，都會為您帶來一個新的工人::-worker-:: 和 5個 ::-moneybag-::。"
 
 #: smth
 msgid "harvested"
@@ -136,7 +139,7 @@ msgstr "你賣了 %bread_diff%份 ::-bread-:: 以換取%gold_diff%袋 ::-moneyba
 
 #: smth
 msgid "tutorial_3_no"
-msgstr "您要收割您的農作物了，否則它們會變臭的。:( /harvest"
+msgstr "是時候要收割您的農作物了，否則它們會變臭的。:( /harvest"
 
 #: smth
 msgid "top_before"
@@ -176,7 +179,7 @@ msgstr "您沒有再增兵，那支商旅和守衛們都被摧毀了……"
 msgid "quest_2_description"
 msgstr ""
 "山賊們襲擊了一條村落。他們的村長向您請求援助 - 您需要%start_power% "
-"::-sword-::來擊散那些山賊。事成後會有一筆可觀的收入，%gold% ::-moneybag-::。"
+"::-sword-::來擊散那些山賊。事成後會有一筆可觀的收入%gold% ::-moneybag-::。"
 
 #: smth
 msgid "quest_2_good"
@@ -188,7 +191,7 @@ msgstr "那些山賊中臥虎藏龍 - 他們把您的隊伍都壓制住。為了
 
 #: smth
 msgid "quest_2_win"
-msgstr "您的援軍趕到，那些搶匪都被殺得血肉橫飛，而你則得到了一堆金錢！"
+msgstr "您的援軍趕到，那些搶匪都被殺得血肉橫飛，而你則得到了一堆金！"
 
 #: smth
 msgid "quest_2_fail"
@@ -197,7 +200,7 @@ msgstr "你的隊伍被殺得片甲不留..."
 #: smth
 msgid "quests"
 msgstr ""
-"您可以選擇一項任務，任一項都會花費金錢。\n"
+"您可以選擇一項任務，任一項都會耗資金錢。\n"
 "招募1 ::-sword-:: 需要 1 ::-moneybag-::。\n"
 "\n"
 "您的財政狀況: %gold%::-moneybag-::"
@@ -211,7 +214,7 @@ msgstr ""
 #: smth
 msgid "battles"
 msgstr ""
-"您可以透過擊敗其他玩家以贏取獎牌 ::-medal-::。而您需要尋找合適的對手並擊倒他。\n"
+"您可以透過擊敗其他玩家以贏取勳章 ::-medal-::。而您需要尋找合適的對手並擊倒他。\n"
 "不論您的選擇與否，每一次搜索敵人都會花費 1 ::-moneybag-::。\n"
 "\n"
 "您的財政狀況: %gold%::-moneybag-::"
@@ -233,11 +236,11 @@ msgstr "您戰勝歸來，得到了%gold% ::-moneybag-:: 及 %medals% ::-medal-:
 
 #: smth
 msgid "battle_fail"
-msgstr "我們的軍隊被敵軍輾過了，損失慘重！"
+msgstr "我們的軍隊被敵軍輾過了，屍橫遍野，損失慘重！"
 
 #: smth
 msgid "battle_good"
-msgstr "我們的軍隊輕易入侵了他的村落，並搜刮到%gold%::-moneybag-:: 和 %medals%::-medal-::。"
+msgstr "我們的軍隊輕易地入侵了他的村落，並搜刮到%gold%::-moneybag-:: 和 %medals%::-medal-::。"
 
 #: smth
 msgid "battle_no_money"
@@ -251,7 +254,7 @@ msgstr ""
 
 #: smth
 msgid "quest_3_good"
-msgstr "野狼一看到您便落荒而逃，你輕易地賺到錢::-moneybag-::，亦盡得地方媽媽的歡心。"
+msgstr "野狼一看到您便落荒而逃，您輕易地獲得到賞金::-moneybag-::，亦盡得地方媽媽的歡心。"
 
 #: smth
 msgid "quest_3_question"
@@ -275,7 +278,7 @@ msgstr "工人::-worker-::會種植::-bread-::。您可以透過邀請朋友 /in
 
 #: smth
 msgid "tip_medal"
-msgstr "獎牌 ::-medal-:: 決定了您的江湖地位。你可以在戰鬥⚔中奪取它們"
+msgstr "勳章::-medal-:: 決定了您的江湖地位。你可以在戰鬥⚔中奪得"
 
 #: smth
 msgid "tip_level"
@@ -289,7 +292,7 @@ msgstr "戰鬥⚔ - 與其他玩家開戰。找到您的對手然後擊斃他們
 
 #: smth
 msgid "tip_quests"
-msgstr "任務🚀 - 是賺錢的好機會 ::-moneybag-::."
+msgstr "任務🚀 - 是賺錢的好途徑::-moneybag-::."
 
 #: smth
 msgid "tip_sword"
@@ -323,7 +326,7 @@ msgstr ""
 msgid "defense_win"
 msgstr ""
 "您被等級%level% ::-village-:: 的 %villagename% 突襲了。他派兵%power% "
-"::-sword-::攻打您，不過失敗了。\n"
+"::-sword-::攻打您，不過他失敗了。\n"
 "您贏了！"
 
 #: smth
@@ -338,7 +341,7 @@ msgstr "金錢::-moneybag-:: 是本遊戲的主要貨幣。您可以透過耕作
 
 #: smth
 msgid "tip_chat"
-msgstr "歡迎加入支援聊天室 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+msgstr "歡迎加入玩家群組 - https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "top_24_before"
@@ -351,8 +354,9 @@ msgstr "最佳玩家 等級 %level%::-medal-::"
 #: smth
 msgid "no_money"
 msgstr ""
-"很可惜，你並沒有任何金錢::-moneybag-::...\n"
-"要得到金錢 - 等待麵包 ::-bread-:: 的成熟吧"
+"很可惜，你並沒有足夠的金錢::-moneybag-::...\n"
+"\n"
+"邀請你的朋友(/invite_friends)、尋找推廣碼(@VillageGameEn)，或收割您的農作物以獲取金錢 - 你需要錢啊！"
 
 #: smth
 msgid "no_revenge"
@@ -373,7 +377,7 @@ msgid "war_quest"
 msgstr ""
 "強大的敵軍壓境了。我們愈快組織好對抗軍，愈快可以擊退敵人。\n"
 "為了戰勝敵軍，我們需要招募 2 500 000::-sword-:: 以及不少於25000 名的成員::-village-::參與戰爭。\n"
-"戰勝歸來後，每人都會獲贈價值120::-moneybag-::的秘碼！ - 立即參戰\n"
+"戰勝歸來後，每人都會獲贈價值120::-moneybag-::的代碼！ - 立即參戰！\n"
 "1::-sword-:: = 1::-moneybag-::\n"
 "\n"
 "對抗軍: %swords%::-sword-:: (%swords_percents%%)\n"
@@ -396,7 +400,7 @@ msgstr ""
 "%gold_count% 金錢::-moneybag-:: 可以用 %gold_diamonds% 鑽石::-diamond-:: 換取\n"
 "%worker_count%個 工人::-worker-:: 可以用 %worker_diamonds% 鑽石::-diamond-:: 換取\n"
 "\n"
-"現在您有 %diamonds%::-diamond-::"
+"現在您擁有 %diamonds%::-diamond-::"
 
 #: smth
 msgid "gold_is_bought"
@@ -460,11 +464,11 @@ msgstr "您以%diamonds_diff%顆::-diamond-::賺買了%worker_diff%位::-worker-
 msgid "questionary_1"
 msgstr ""
 "您好！\n"
-"您玩這遊戲真有一手，讓我認識一下您吧。第一件事，你是男還是女的？"
+"您很會玩這遊戲呢，讓我認識一下您吧。第一件事，你是男的還是女的？"
 
 #: smth
 msgid "questionary_2"
-msgstr "好的！你住在哪一個城市？傳送您的位置，或輸入城市的名字。"
+msgstr "好的！你住在哪一個城市？傳送您的位置給我，或輸入城市的名字。"
 
 #: smth
 msgid "questionary_3"
@@ -522,7 +526,7 @@ msgstr "您已經達到了送禮上限。請等到等級上升後再來！"
 
 #: smth
 msgid "gift_player_not_delivery"
-msgstr "他是本遊戲的玩家，不過訊息並不能成功傳遞，因為他已經離開了本遊戲。叫他回來吧，然後您就可以送禮給他！"
+msgstr "他雖是本遊戲的玩家，不過訊息並不能成功傳達，因為他已經離開了本遊戲。叫他回來吧，然後您就可以送禮給他！"
 
 #: smth
 msgid "gift_sended"
@@ -532,7 +536,7 @@ msgstr "禮物::-gift-:: 成功送出，收禮者一定會很高興的！現在�
 msgid "gift_received"
 msgstr ""
 "%from_villagename% 送了您一份禮物。::-gift-:: 中有 %gold% ::-moneybag-::。"
-"如果您想感謝他或送禮給其他人 - 請用 /gifts"
+"如果您想感謝他或送禮給其他人 - 請輸入 /gifts"
 
 #: smth
 msgid "gift_no_player"
@@ -543,8 +547,33 @@ msgstr ""
 
 #: smth
 msgid "gift_self"
-msgstr "你是想送禮給自己嗎？... 您沒有朋友嗎？ :("
+msgstr "你是想送禮::-gift-::給自己嗎？... 您沒有朋友嗎？ :("
 
 #: smth
 msgid "gift_player_sended"
-msgstr "您已經收到那位玩家送出的禮物。請選擇另一位。"
+msgstr "您已經送過禮物::-gift-::給他了。請選擇另一位。"
+
+#: smth
+msgid "buildings"
+msgstr ""
+"你可以透過興建各種建築::-building-::來增強您的村落::-village-::。\n"
+"\n"
+"::-farm-::農莊 (等級 %farm_level%) 每分鐘額外製作麵包::-bread-::\n"
+"現況: +%farm_bread%::-bread-:: 升級後: +%farm_bread_update%::-bread-:: 造價: "
+"%farm_cost%::-moneybag-::\n"
+"\n"
+"::-granary-::糧倉 (等級 %granary_level%) 增加麵包庫存上限\n"
+"現況: +%granary_max_bread%::-bread-:: 升級後: "
+"+%granary_max_bread_update%::-bread-:: 造價: %granary_cost%::-moneybag-::\n"
+"\n"
+"::-wall-::圍牆 (等級 %wall_level%)  提升被敵人襲擊時的防禦力\n"
+"現況: +%wall_defense%::-sword-:: 升級後: +%wall_defense_update%::-sword-:: 造價: "
+"%wall_cost%::-moneybag-::\n"
+"\n"
+"財政狀況: %gold%\n"
+"\n"
+"本功能正在測試中。如發現任何問題或錯誤請聯絡 @tgcreator。"
+
+#: smth
+msgid "building_created"
+msgstr "::-building-::成功建好了！"

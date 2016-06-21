@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-05-07 17:21+0000\n"
-"Last-Translator: Mossi <guest@example.com>\n"
+"PO-Revision-Date: 2016-06-21 18:43+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Uzbek <http://translate.villagegamebot.tgroups.me/projects/vil"
 "lagegamebot/texts/uz/>\n"
 "Language: uz\n"
@@ -31,7 +31,7 @@ msgstr ""
 msgid "botisstopped"
 msgstr ""
 "Sizning obunangiz o'chirildi. Hozir siz botdan bildirishnimalarni "
-"ololmaysiz. Yana obuna bo'lish uchun /start"
+"ololmaysiz. Yana obuna bo'lish uchun /start buyrug'ini jo'nating"
 
 #: smth
 msgid "ratebot"
@@ -67,13 +67,13 @@ msgstr ""
 #: smth
 msgid "working_yet"
 msgstr ""
-"Siz hozir ishlayabsiz. Biroz kuting. Siz topshiriqlar bajarishingiz mumkin "
-"/quests"
+"Siz hozirham ishlayabsiz. Biroz kuting. Hozircha topshiriqlar bajarishingiz "
+"mumkin /quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
-"Siz ishlashni boshladingiz va 60::-bread-:: hosil oldingiz! Endi siz "
+"Siz ishlashni boshladingiz va %bread%::-bread-:: hosil oldingiz! Endi siz "
 "topshiriqlar bajarishingiz mumkin /quests"
 
 #: smth
@@ -82,11 +82,13 @@ msgstr "Promokod qabul qilindi. Oltin - %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr "Hato promokod."
+msgstr ""
+"Hato promokod. Siz ishlashingiz(/work) yoki vazifalarni bajarishingiz "
+"(/quests) mumkin"
 
 #: smth
 msgid "work_finished"
-msgstr "Ish tugadi, lord! Ishlash - /work"
+msgstr "Ish tugadi, lord! Yana ishlash - /work"
 
 #: smth
 msgid "delimeter"
@@ -129,7 +131,7 @@ msgstr ""
 "o'yinga kirib, hosilni yig'ishni tavfsiya etamiz.\n"
 "Endi hozir siz qishloqni rivojlantirishingiz kerak. Birinchidan, yangi "
 "ishchilar olsangiz yaxshi bo'lardi. Buning uchun do'stlaringizga ushbu "
-"havolani %reflink% jo'nating. Har bir do'stingiz uchun siz 2ta "
+"havolani %reflink% jo'nating. Har bir do'stingiz uchun siz 1 ta "
 "ishchi::-worker-:: va 5 ::-moneybag-:: olasiz. Yoki ishlashni boshlang /work"
 
 #: smth
@@ -151,7 +153,7 @@ msgstr ""
 
 #: smth
 msgid "tutorial_3_no"
-msgstr "Hosilni yig'ish kerak, aks holda u chirib qoladi. :("
+msgstr "Hosilni yig'ish kerak, aks holda u chirib qoladi. :( /harvest"
 
 #: smth
 msgid "top_before"
@@ -208,21 +210,21 @@ msgstr ""
 #: smth
 msgid "quest_2_good"
 msgstr ""
-"Bu banditlar qo'rqoq ekan! Ular sizning armiyangizni ko\\'rishi bilan, "
-"qochib qoldi.Bu juda oson ish bo\\'ldi, lekin oqsoqollar va\\'da qilgan "
+"Bu bezorilar qo'rqoq ekan! Ular sizning armiyangizni ko\\'rishi bilan, "
+"qochib qoldi.Bu juda oson ish bo\\'ldi, va oqsoqollar va\\'da qilgan "
 "pullarini berishdi."
 
 #: smth
 msgid "quest_2_question"
 msgstr ""
-"Banditlar ancha baquvvat ekan - ular sizni o'rab olishdi. Yutish uchun "
+"Bezorilar ancha baquvvat ekan - ular sizni o'rab olishdi. Yutish uchun "
 "%add_power%::-sword-:: jo'natishingiz kerak."
 
 #: smth
 msgid "quest_2_win"
 msgstr ""
-"Sizning qo'shiningiz yordamga keldi,  banditlar hammasi yo'q qilindi, va siz "
-"bir qancha pul toldiz!"
+"Sizning qo'shiningiz yordamga keldi,  bezorilar hammasi yo'q qilindi, va siz "
+"bir qancha pul oldingiz!"
 
 #: smth
 msgid "quest_2_fail"

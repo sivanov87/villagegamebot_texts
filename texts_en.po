@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-20 12:07+0000\n"
-"Last-Translator: supportteam <supportteam@example.com>\n"
+"PO-Revision-Date: 2016-06-21 11:12+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: English <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/en/>\n"
 "Language: en\n"
@@ -64,7 +64,8 @@ msgstr ""
 
 #: smth
 msgid "work_started"
-msgstr "You start to work and harvest 60 ::-bread-::! You can run /quests, too."
+msgstr ""
+"You start to work and harvest %bread% ::-bread-::! You can run /quests, too."
 
 #: smth
 msgid "promocode_accept"

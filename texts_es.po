@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-19 00:45+0000\n"
+"PO-Revision-Date: 2016-06-19 00:50+0000\n"
 "Last-Translator: keijodputt <keijodputt@example.com>\n"
 "Language-Team: Spanish <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/es/>\n"
@@ -144,7 +144,7 @@ msgstr ""
 #: smth
 msgid "tutorial_4_no"
 msgstr ""
-"Has introducido un código incorrecto. Desafortunadamente, no podemos darte "
+"Has introducido un código incorrecto. Lamentablemente, no podemos darte "
 "dinero :(.\n"
 "\n"
 "En el futuro, puedes encontrar códigos en los canales del juego o pueden "
@@ -570,7 +570,7 @@ msgstr ""
 
 #: smth
 msgid "questionary_6"
-msgstr "¿Qué estás haciendo?"
+msgstr "¿A qué te dedicas?"
 
 #: smth
 msgid "questionary_7"

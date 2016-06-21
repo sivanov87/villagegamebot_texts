@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-14 20:53+0000\n"
-"Last-Translator: guest <guest1@example.com>\n"
+"PO-Revision-Date: 2016-06-21 19:47+0000\n"
+"Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Polish <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/pl/>\n"
 "Language: pl\n"
@@ -44,6 +44,7 @@ msgstr ""
 "Baw się dobrze!\n"
 "\n"
 "Wsparcie: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"FB - https://www.facebook.com/groups/1018021724912969/\n"
 "\n"
 "Nowości  - @VillageGameEn\n"
 "\n"
@@ -73,7 +74,7 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"Rozpocząłeś prace i uzbierałaś  60::-bread-::! A teraz możesz ukończyć "
+"Rozpocząłeś prace i uzbierałaś  %bread%::-bread-::! A teraz możesz ukończyć "
 "zadanie: /quests"
 
 #: smth
@@ -641,8 +642,9 @@ msgstr ""
 #: smth
 msgid "gift_self"
 msgstr ""
-"Próbujesz wysłać prezent samemu sobie... Nie masz żadnych znajomych ? :("
+"Próbujesz wysłać prezent::-gift-:: samemu sobie... Nie masz żadnych "
+"znajomych ? :("
 
 #: smth
 msgid "gift_player_sended"
-msgstr "Otrzymałeś już prezent od tego gracza. Wybierz proszę innego."
+msgstr "Otrzymałeś już prezent::-gift-:: od tego gracza. Wybierz proszę innego."

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-29 12:41+0000\n"
-"PO-Revision-Date: 2016-06-20 11:44+0000\n"
+"PO-Revision-Date: 2016-06-21 20:18+0000\n"
 "Last-Translator: Game Over <gameover@example.com>\n"
 "Language-Team: Persian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/fa/>\n"
@@ -77,8 +77,8 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"شما شروع به کار کردید و بدست اوردید60::-bread-::!و حالا میتونی ماجراجویی کنی "
-"/quests"
+"شما شروع به کار کردید و بدست اوردید240::-bread-::!و حالا میتونی ماجراجویی "
+"کنی /quests"
 
 #: smth
 msgid "promocode_accept"
@@ -455,3 +455,83 @@ msgstr ""
 "برای دریافت رایگان الماس به کانال زیر مراجعه نمایید.\n"
 "----------------\n"
 "@VillageGamePersian\n"
+
+#: smth
+msgid "friend_inactive"
+msgstr ""
+"دوست شما %user_name% فرمانده دهکده %villagename% مدتی است که بازی نمی کند و "
+"کارگری که از سمت وی برای کمک به شما فرستاده شده بود از دهکده شما رفته است.\n"
+"برای بازگشت کارگر خود از دوست خود بخواهید به بازی برگردد."
+
+#: smth
+msgid "worker_is_bought"
+msgstr ""
+"شما  %worker_diff% نفر ::-worker-:: کارگر به قیمت %diamonds_diff%: عدد "
+":-diamond-:: الماس خریدید"
+
+#: smth
+msgid "questionary_1"
+msgstr ""
+"سلام!\n"
+"شما در حال بازی کردن یک بازی مهیج هستید لطفا به سوالات زیر پاسخ دهید .شمار "
+"مرد هستید یا زن؟?"
+
+#: smth
+msgid "questionary_2"
+msgstr "عالی! شهر محل سکونت خود را بنویسید لطفا"
+
+#: smth
+msgid "questionary_3"
+msgstr "چه شهر خوبی ! چند سال دارید؟ لطفا از لیست زیر انتخاب کنید:"
+
+#: smth
+msgid "questionary_4"
+msgstr ""
+"خوب تاریخ تولد شما چه روزی است؟ ما قصد داریم به شما هدیه بدهیم!:)\n"
+"تاریخ تولد خود را به صورت روز.ماه.سال وارد کنید مثل 22.3.1365"
+
+#: smth
+msgid "questionary_6"
+msgstr "شغل شما چیست؟"
+
+#: smth
+msgid "questionary_7"
+msgstr "متشکر ! حالا به نظر شما چه چیزی به بازی اضافه کنیم یا کم کنیم؟"
+
+#: smth
+msgid "questionary_finish_first"
+msgstr ""
+"تشکر از وقتی که برای پاسخگویی به سوالات گذاشتیداین هدیه تقدیم به شما - "
+"%gold-::%moneybag-::"
+
+#: smth
+msgid "questionary_error"
+msgstr "مشکلی بوجود آمد ... اگر ممکن هست دوباره پاسخ بدهید"
+
+#: smth
+msgid "questionary_5"
+msgstr "و از چه دستگاهی استفاده می کنید؟"
+
+#: smth
+msgid "questionary_finish"
+msgstr "تشکر از نظرات شما! حتما از آنها در بهبود بازی استفاده خواهیم کرد"
+
+#: smth
+msgid "gift_max"
+msgstr "شما به سقف استفاده از کادو رسیدید! لطفا تا ارتقا سطح صبر کنید"
+
+#: smth
+msgid "gift_player_not_delivery"
+msgstr ""
+"شخص مورد نظر در بازی حضور ندارد! لطفا از ایشان بخواهید که به بازی برگردد تا "
+"کادوی ما به دست ایشان برسد."
+
+#: smth
+msgid "gift_sended"
+msgstr ""
+"کادو ::-gift-:: ارسال شد, گیرنده خوشحال خواهد شد. حالا می توانید مخاطب دیگری "
+"را به اشتراک بگذارید تا به ایشان نیز کادو دهیم"
+
+#: smth
+msgid "gift_self"
+msgstr "شما در تلاشید به خودتان ::-gift-:: هدیه بدهید ... آیا هیچ دوستی ندارید؟"
