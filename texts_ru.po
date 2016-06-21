@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-07 22:50+0000\n"
-"PO-Revision-Date: 2016-06-18 22:04+0000\n"
+"PO-Revision-Date: 2016-06-21 19:08+0000\n"
 "Last-Translator: Weblate Admin <admin@example.com>\n"
 "Language-Team: Russian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/ru/>\n"
@@ -49,7 +49,9 @@ msgstr "Вы еще работаете, подождите немного! А п
 
 #: smth
 msgid "work_started"
-msgstr "Вы начали работать и собрали 60::-bread-::. Вы будете заняты около 3-х минут. А пока что можете выполнить квесты /quests"
+msgstr ""
+"Вы начали работать и собрали %bread%::-bread-::. Вы будете заняты около 12 "
+"минут. А пока что можете выполнить квесты /quests"
 
 #: smth
 msgid "promocode_accept"
@@ -273,7 +275,10 @@ msgstr "Лучшие игроки ур. %level%::-medal-::"
 
 #: smth
 msgid "no_money"
-msgstr "К сожалению, у вас нет денег::-moneybag-::...\nДля того, чтобы получить их - подождите, пока не созреет хлеб ::-bread-::"
+msgstr ""
+"К сожалению, у вас нет денег::-moneybag-::...\n"
+"Для того, чтобы получить их - подождите, пока не созреет хлеб ::-bread-:: "
+"или приглашайте друзей /invite_friends"
 
 #: smth
 msgid "no_revenge"
@@ -397,11 +402,14 @@ msgstr "Этот человек еще не играет в игру. Пригл
 
 #: smth
 msgid "gift_self"
-msgstr "Вы пытаетесь подарить подарок сами себе... Неужели у вас нет друзей? :("
+msgstr ""
+"Вы пытаетесь подарить подарок::-gift-:: сами себе... Неужели у вас нет "
+"друзей? :("
 
 #: smth
 msgid "gift_player_sended"
-msgstr "Вы уже посылали подарок этому игроку. Выберите другого, пожалуйста."
+msgstr ""
+"Вы уже посылали подарок::-gift-:: этому игроку. Выберите другого, пожалуйста."
 
 #: smth
 msgid "delimeter"
