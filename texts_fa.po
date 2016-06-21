@@ -446,7 +446,7 @@ msgstr ""
 
 #: smth
 msgid "gold_is_bought"
-msgstr "شما در حال خرید 50 ::-moneybag-:: برای 5 ::-diamond-::"
+msgstr "شما در حال خرید 50 ::-moneybag-ی 5 ::-diamond-::"
 
 #: smth
 msgid "no_diamonds"
@@ -535,3 +535,11 @@ msgstr ""
 #: smth
 msgid "gift_self"
 msgstr "شما در تلاشید به خودتان ::-gift-:: هدیه بدهید ... آیا هیچ دوستی ندارید؟"
+
+#: smth
+msgid "buildings"
+msgstr "شما می توانید برای ارتقا 🏯 دهکده خود 🏘 ساختمان های بیشتری بسازید.\n\nمزرعه (سطح %farm_level% ) تولید bread::-bread-:: نان  هر دقیقه\nفعلی : +%farm_bread%::-bread-:: ارتقا: +%farm_bread_update%::-bread-:: هزینه: %farm_cost%::-moneybag-::\n\n::-granary-:: انبار  (سطح %granary_level%) افزایش تولید نان\nفعلی: +%granary_max_bread%::-bread-:: ارتقا: +%granary_max_bread_update%::-bread-:: هزینه: %granary_cost%::-moneybag-::\n\n::-wall-::پرچین سطح%wall_level%)  افزایش دفاع\nفعلی: +%wall_defense%::-sword-:: ارتقا: +%wall_defense_update%::-sword-:: هزینه: %wall_cost%::-moneybag-::\n\n گلد شما: %gold%."
+
+#: smth
+msgid "building_created"
+msgstr "::-building-::ساختمان مورد نظر احداث شد!"
