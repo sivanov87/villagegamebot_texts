@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-29 12:41+0000\n"
-"PO-Revision-Date: 2016-06-23 00:39+0000\n"
-"Last-Translator: MatinBeigi <matinbeigi97@yahoo.com>\n"
+"PO-Revision-Date: 2016-06-23 00:46+0000\n"
+"Last-Translator: Game Over <gameover@example.com>\n"
 "Language-Team: Persian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/fa/>\n"
 "Language: fa\n"
@@ -21,15 +21,15 @@ msgstr "زبان خود را انتخاب فرمایید"
 #: smth
 msgid "feedback"
 msgstr ""
-"لطفا،نظر خود را در رابطه با ربات در پیام بعدی ارسال کنید::-baloon-::\n"
-"همچنین می توانید در گروه مت عضو شوید - "
-"https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ"
+"Please, write your feedback about bot in the next message::-baloon-::\n"
+"Also you can write to chat - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
-"عضو اطلاع رسان نیستید.درحال حاضر شما اطلاع رسانی دریافت نمی کنید.شما همیشه "
-"می تونید مجددا ثبت نام کنید با تایپ /start"
+"You unsubscribed. Now you will not receive notification of it. You can "
+"always sign up again by typing /start"
 
 #: smth
 msgid "ratebot"
@@ -37,7 +37,7 @@ msgstr "لطفا،به این ربات امتیاز بدید"
 
 #: smth
 msgid "thanks"
-msgstr "از شما متشکریم!"
+msgstr "سپاسگذاریم!"
 
 #: smth
 msgid "help"
@@ -47,9 +47,9 @@ msgstr ""
 "ماجراجویی بروید، با دیگر بازیکنان ⚔ بجنگید،و دهکده خود را گسترش دهید.\n"
 "امیدواریم از بازی لذت ببرید. \n"
 "\n"
-"گروه پشتیبانی:  https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ \n"
+"گروه پشتیبانی:  https://telegram.me/joinchat/B31JfT7keZA7wmhTG2QM2g \n"
 "\n"
-"تنها کانال رسمی - @VillageGamePersian"
+"تنها کانال رسمی - @VillageGameFarsi\n"
 
 #: smth
 msgid "village_description"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr "کدتبلیغاتی تایید شد. طلا - %gold% "
+msgstr "کدتبلیغاتی تایید شد. گلد - %gold%::-moneybag-::"
 
 #: smth
 msgid "promocode_reject"
