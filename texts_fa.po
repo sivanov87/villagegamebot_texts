@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-29 12:41+0000\n"
-"PO-Revision-Date: 2016-06-21 20:18+0000\n"
-"Last-Translator: Game Over <gameover@example.com>\n"
+"PO-Revision-Date: 2016-06-23 00:39+0000\n"
+"Last-Translator: MatinBeigi <matinbeigi97@yahoo.com>\n"
 "Language-Team: Persian <http://translate.villagegamebot.tgroups.me/projects/v"
 "illagegamebot/texts/fa/>\n"
 "Language: fa\n"
@@ -21,15 +21,15 @@ msgstr "زبان خود را انتخاب فرمایید"
 #: smth
 msgid "feedback"
 msgstr ""
-"Please, write your feedback about bot in the next message::-baloon-::\n"
-"Also you can write to chat - "
-"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
+"لطفا،نظر خود را در رابطه با ربات در پیام بعدی ارسال کنید::-baloon-::\n"
+"همچنین می توانید در گروه مت عضو شوید - "
+"https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
-"You unsubscribed. Now you will not receive notification of it. You can "
-"always sign up again by typing /start"
+"عضو اطلاع رسان نیستید.درحال حاضر شما اطلاع رسانی دریافت نمی کنید.شما همیشه "
+"می تونید مجددا ثبت نام کنید با تایپ /start"
 
 #: smth
 msgid "ratebot"
@@ -37,7 +37,7 @@ msgstr "لطفا،به این ربات امتیاز بدید"
 
 #: smth
 msgid "thanks"
-msgstr "سپاسگذاریم!"
+msgstr "از شما متشکریم!"
 
 #: smth
 msgid "help"
@@ -49,7 +49,7 @@ msgstr ""
 "\n"
 "گروه پشتیبانی:  https://telegram.me/joinchat/C66suT9fscz4xNKHPgUWFQ \n"
 "\n"
-"تنها کانال رسمی - @VillageGameFarsi\n"
+"تنها کانال رسمی - @VillageGamePersian"
 
 #: smth
 msgid "village_description"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: smth
 msgid "promocode_accept"
-msgstr "کدتبلیغاتی تایید شد. گلد - %gold%::-moneybag-::"
+msgstr "کدتبلیغاتی تایید شد. طلا - %gold% "
 
 #: smth
 msgid "promocode_reject"
@@ -430,19 +430,19 @@ msgstr ""
 "توانید ::-worker-:: کارگر یا ::-moneybag-:: طلا اضافه کنید.\n"
 "1 ::-worker-:: کارگر = 5 ::-diamond-:: الماس\n"
 "50 ::-moneybag-:: طلا = 2 ::-diamond-:: الماس\n"
-"هزینه هر ::-diamond-:: الماس برابر 200 تومان است.\n"
+"هزینه هر ::-diamond-:: الماس برابر 100 تومان است.\n"
 "\n"
 "ولی با خرید بیشتر تخفیف خواهید گرفت: \n"
-"10 ::-diamond-:: الماس : 900 تومان با 55% تخفیف\n"
-"- %donate_link_kish_10%\n"
+"20 ::-diamond-:: الماس : 1000 تومان با 55% تخفیف\n"
+"http://panel.azadpay.com/startpay/paylink/4FFEE2E03A\n"
 "=========\n"
-"50 ::-diamond-:: الماس : 4300 تومان با 57% تخفیف\n"
-"- %donate_link_kish_50%\n"
+"50 ::-diamond-:: الماس : 2,000 تومان با 57% تخفیف\n"
+"http://panel.azadpay.com/startpay/paylink/D974409588\n"
 "=========\n"
-"1000 ::-diamond-:: الماس : 80,000 تومان با 61% تخفیف\n"
-"- %donate_link_kish_1000%\n"
+"1000 ::-diamond-:: الماس : 5,000 تومان با 61% تخفیف\n"
+"http://panel.azadpay.com/startpay/paylink/EBF493820B\n"
 "\n"
-"در صورت وجود هر گونه مشکل در پرداخت لطفا با @GameO7er تماس حاصل فرمایید!"
+"در صورت وجود هر گونه مشکل در پرداخت لطفا با @MatinBeigi97 تماس حاصل فرمایید!"
 
 #: smth
 msgid "gold_is_bought"
@@ -488,7 +488,7 @@ msgstr "چه شهر خوبی ! چند سال دارید؟ لطفا از لیست
 msgid "questionary_4"
 msgstr ""
 "خوب تاریخ تولد شما چه روزی است؟ ما قصد داریم به شما هدیه بدهیم!:)\n"
-"تاریخ تولد خود را به صورت روز.ماه.سال وارد کنید مثل 22.3.1365"
+"تاریخ تولد خود را به صورت روز.ماه.سال وارد کنید مثل 29.4.1376"
 
 #: smth
 msgid "questionary_6"
@@ -543,3 +543,24 @@ msgstr "شما می توانید برای ارتقا 🏯 دهکده خود 🏘
 #: smth
 msgid "building_created"
 msgstr "::-building-::ساختمان مورد نظر احداث شد!"
+
+#: smth
+msgid "gift_player_sended"
+msgstr ""
+"شما یک هدیه ::-gift-:: از دوستان دریافت کردید. برای دریافت هدیه یکی دیگرو "
+"انتخاب کنید, لطفا."
+
+#: smth
+msgid "gift_no_player"
+msgstr ""
+"اين شخص تاحالا بازى نکرده گيم رو.دعوتش کن با لينک ٪ reflink٪ و تو مى تونى "
+"بهش يه کادو بفرستى!\n"
+"\n"
+"يا شمارش رو به بقيه دوستات بفرستى."
+
+#: smth
+msgid "gift_received"
+msgstr ""
+"به شما يک هديه رسيده است::-gift-:: در %gold% ::-moneybag-:: از "
+"%from_villagename%. اگر ميخواين تشکرکنين ازش يا به کس ديگرى هديه بفرستين - "
+"استفاده کنيد از /gifts"
