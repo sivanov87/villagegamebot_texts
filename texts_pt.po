@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-06-19 03:03+0000\n"
+"PO-Revision-Date: 2016-06-24 13:18+0000\n"
 "Last-Translator: Gabriel <gsupremaster@hotmail.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
@@ -24,8 +24,8 @@ msgstr ""
 #: smth
 msgid "botisstopped"
 msgstr ""
-"Você cancelou sua inscrição e não receberá mais mensagens do bot. Mas você "
-"sempre pode voltar, basta enviar /start"
+"Você cancelou sua inscrição e não receberá mais mensagens do bot. Você "
+"poderá sempre voltar, basta enviar /start"
 
 #: smth
 msgid "ratebot"
@@ -55,8 +55,8 @@ msgstr ""
 #: smth
 msgid "friend_added"
 msgstr ""
-"Um amigo foi adicionado. Você recebeu 1 ::-worker-:: e 5 ::-moneybag-::\n"
-"Convide mais amigos /invite_friends"
+"Um amigo foi adicionado. Você recebeu 1 ::-worker-:: e 5 ::-moneybag-::.\n"
+"Convide mais amigos: /invite_friends"
 
 #: smth
 msgid "working_yet"
@@ -67,8 +67,8 @@ msgstr ""
 #: smth
 msgid "work_started"
 msgstr ""
-"Você começou a trabalhar e colheu 60 ::-bread-::! Agora você pode fazer "
-"missões /quests"
+"Você começou a trabalhar e conseguiu %bread%  ::-bread-::! Enquanto isso, "
+"você pode ir fazer missões em /quests."
 
 #: smth
 msgid "promocode_accept"
