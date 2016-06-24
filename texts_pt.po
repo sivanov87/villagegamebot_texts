@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 00:03+0000\n"
-"PO-Revision-Date: 2016-06-24 13:18+0000\n"
+"PO-Revision-Date: 2016-06-24 13:43+0000\n"
 "Last-Translator: Gabriel <gsupremaster@hotmail.com>\n"
 "Language-Team: Portuguese <http://translate.villagegamebot.tgroups.me/project"
 "s/villagegamebot/texts/pt/>\n"
@@ -160,7 +160,10 @@ msgstr ""
 
 #: smth
 msgid "quest_1_description"
-msgstr "Uma caravana passa perto de sua vila. Ela pede sua proteção. É necessário %start_power% ::-sword-::. Pela sua defesa, você ganha %gold% ::-moneybag-::."
+msgstr ""
+"Uma caravana passa perto de sua vila. Ela pede sua proteção. É necessário "
+"%start_power% ::-sword-::. Pela sua defesa, você ganhará %gold% "
+"::-moneybag-::."
 
 #: smth
 msgid "quest_1_good"
@@ -177,14 +180,14 @@ msgstr "Sua tropa protegeu a caravana e você conseguiu o ouro."
 #: smth
 msgid "quest_1_fail"
 msgstr ""
-"Você não enviou reforços, a caravana e os defensores foram destruídos...."
+"Você não enviou reforços, a caravana e os defensores foram destruídos..."
 
 #: smth
 msgid "quest_2_description"
 msgstr ""
-"Bandidos atacaram a vila. O prefeito pediu ajuda — para debandar os "
+"Bandidos atacaram a vila. O prefeito pediu ajuda — para derrotar os "
 "bandidos, você precisa enviar uma frota de  %start_power% ::-sword-::. Uma "
-"vitória promete uma bela recompensa de  %gold% ::-moneybag-::."
+"vitória promete uma bela recompensa de %gold% ::-moneybag-::."
 
 #: smth
 msgid "quest_2_good"
@@ -196,11 +199,13 @@ msgstr "Os bandidos eram uns caras fortes — eles enfrentaram seu time. Para ga
 
 #: smth
 msgid "quest_2_win"
-msgstr "Sua tropa veio para o resgate, destruiu todos os assaltantes, e você ganha uma pilha de ouro!"
+msgstr ""
+"Sua tropa veio para o resgate, destruiu todos os assaltantes, e você ganhou "
+"uma pilha de ouro!"
 
 #: smth
 msgid "quest_2_fail"
-msgstr "Sua tropa foi destruída...."
+msgstr "Sua tropa foi destruída..."
 
 #: smth
 msgid "quests"
@@ -208,7 +213,7 @@ msgstr ""
 "Você pode escolher uma missão, que custa uma taxa para ser realizada.\n"
 "Para recrutar 1 ::-sword-:: você gasta 1 ::-moneybag-::.\n"
 "\n"
-"Seu tesouro: %gold%::-moneybag-::"
+"Seu ouro: %gold%::-moneybag-::"
 
 #: smth
 msgid "quest_no_money"
@@ -219,7 +224,7 @@ msgid "battles"
 msgstr ""
 "Você pode lutar contra outros jogadores e ganhar medalhas ::-medal-::. Para "
 "fazer isso, você precisa achar o inimigo e atacá-lo.\n"
-"Para cara procura você paga 1 ::-moneybag-:: independente do resultado.\n"
+"Para cada procura você paga 1 ::-moneybag-:: independente do resultado.\n"
 "\n"
 "Seu tesouro: %gold%::-moneybag-::"
 
@@ -228,14 +233,15 @@ msgid "battle_start"
 msgstr ""
 "Seu inimigo é %villagename%, nível %level%. Para atacar, você precisa de "
 "%start_power% ::-sword-::\n"
-"\n"
 "Você poderá ganhar %gold_diff% ::-moneybag-:: e %medals_diff% ::-medal-::.\n"
-"\n"
 "1 ::-sword-:: custa 1 ::-moneybag-::."
 
 #: smth
 msgid "battle_question"
-msgstr "Durante a batalha, o inimigo levantou uma milícia, que rodeou nossos soldados. Para nos salvar, você precisa enviar reforços de %add_power% ::-sword-::, ou você e seus homens morrerão!"
+msgstr ""
+"Durante a batalha, o inimigo levantou uma milícia, que cercou nossos "
+"soldados. Para salvá-los, você precisa enviar reforços de %add_power% "
+"::-sword-::, ou seus homens morrerão!"
 
 #: smth
 msgid "battle_win"
@@ -243,23 +249,32 @@ msgstr "Você venceu a batalha e ganhou %gold% ::-moneybag-:: e %medals% ::-meda
 
 #: smth
 msgid "battle_fail"
-msgstr "Nossas tropas se retiraram devido a força superior do inimigo — é uma perda horrível!"
+msgstr ""
+"Nossas tropas se retiraram devido a força superior do inimigo — foi uma "
+"perda horrível!"
 
 #: smth
 msgid "battle_good"
-msgstr "Nossas tropas, sem problemas, invadiu a vila e pilhou %gold% ::-moneybag-:: e conseguiu %medals% ::-medal-::."
+msgstr ""
+"Nossas tropas, sem problemas, invadiram a vila e pilharam %gold% "
+"::-moneybag-:: e conseguiram %medals% ::-medal-::."
 
 #: smth
 msgid "battle_no_money"
-msgstr "Você não pode enviar uma frota, já que você não tem dinheiro suficiente. :C"
+msgstr ""
+"Você não pode enviar uma frota, já que você não tem dinheiro suficiente. :("
 
 #: smth
 msgid "quest_3_description"
-msgstr "O morador de uma fazenda distante está sendo atormentado por lobos — eles roubam de seu castelo. Ele ofereceu o pagamento de %gold% ::-moneybag-:: por sua ajuda de %start_power% ::-sword-::."
+msgstr ""
+"O morador de uma fazenda distante está sendo atormentado por lobos — eles "
+"roubam de seu castelo. Ele ofereceu um pagamento de %gold% ::-moneybag-:: "
+"por sua ajuda de %start_power% ::-sword-::."
 
 #: smth
 msgid "quest_3_good"
-msgstr "Lobos fogem só por ver você. Você ganhou o dinheiro facilmente ::-moneybag-::."
+msgstr ""
+"Lobos fogem só de ver você. Você ganhou o dinheiro facilmente ::-moneybag-::."
 
 #: smth
 msgid "quest_3_question"
@@ -269,7 +284,7 @@ msgstr ""
 
 #: smth
 msgid "quest_3_fail"
-msgstr "Você não foi capaz de ajudar o fazendeiro... desculpa."
+msgstr "Você não foi capaz de ajudar o fazendeiro... desculpe."
 
 #: smth
 msgid "quest_3_win"
@@ -277,7 +292,9 @@ msgstr "Os reforços foram capazes de derrotar os loboss. O morador agradecido t
 
 #: smth
 msgid "tip_bread"
-msgstr "Trabalhadores ::-worker-:: colheita ::-bread-:: para você, e você pode vender por ::-moneybag-::."
+msgstr ""
+"Trabalhadores ::-worker-:: colhem ::-bread-:: para você, e você pode vender "
+"por ::-moneybag-::."
 
 #: smth
 msgid "tip_worker"
@@ -372,7 +389,7 @@ msgstr ""
 
 #: smth
 msgid "top_24_before"
-msgstr "Melhores jogadores nas últimas 24 horas::-medal-::"
+msgstr "Melhores jogadores das últimas 24 horas::-medal-::"
 
 #: smth
 msgid "top_level"
@@ -505,8 +522,8 @@ msgstr "Você comprou %worker_diff%::-worker-:: por %diamonds_diff%::-diamond-::
 msgid "questionary_1"
 msgstr ""
 "Olá!\n"
-"Você está jogando um jogo legal e eu espero que possamos nos conhecer "
-"melhor. Primeiramente, você é um homem ou uma mulher?"
+"Você está jogando esse jogo muito legal e eu espero que possamos nos "
+"conhecer melhor. Primeiramente, você é um homem ou uma mulher?"
 
 #: smth
 msgid "questionary_2"
@@ -550,7 +567,7 @@ msgstr "Algo deu errado... Você poderia responder novamente?"
 
 #: smth
 msgid "questionary_5"
-msgstr "Qual dispositivo (celular, Tablet, PC) você está usando agora?"
+msgstr "Qual dispositivo você está usando agora?"
 
 #: smth
 msgid "questionary_finish"
@@ -565,7 +582,7 @@ msgstr ""
 "Para fazer isso, você deve enviar o contato do seu amigo para o bot (como "
 "mostra a figura) e nós iremos enviá-lo um presente 20::-moneybag-:: no jogo."
 "\n"
-"Quanto maior o seu level, mais presentes você pode enviar.\n"
+"Quanto maior o seu nível, mais presentes você pode enviar.\n"
 "\n"
 "Você enviou: %gifts% / %max_gifts% ::-gift-::\n"
 "Você recebeu: %received_gifts% ::-gift-::"
@@ -574,7 +591,7 @@ msgstr ""
 msgid "message_is_not_contact"
 msgstr ""
 "Sua mensagem - não é o contato da pessoa. É necessário compartilhar o "
-"contato com o bot como mostra a image. Tente novamente."
+"contato com o bot como mostra a imagem. Tente novamente."
 
 #: smth
 msgid "gift_max"
@@ -586,14 +603,14 @@ msgstr ""
 msgid "gift_player_not_delivery"
 msgstr ""
 "Este jogador está no jogo, mas a mensagem não pode ser entregue, porque ele "
-"desistiu do jogo. Peça a ele para entrar, e você poderá lhe envilheum "
+"desistiu do jogo. Peça a ele para entrar, e você poderá lhe enviar um "
 "presente!"
 
 #: smth
 msgid "gift_sended"
 msgstr ""
 "O presente::-gift-:: foi enviado, seu amigo deve ter adorado! Agora você "
-"pode enviar o contato de outro amigo para enviá-lo um presente"
+"pode enviar o contato de outro amigo para enviá-lo outro presente"
 
 #: smth
 msgid "gift_received"
