@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 11:38+0000\n"
-"PO-Revision-Date: 2016-06-27 12:31+0000\n"
+"PO-Revision-Date: 2016-06-27 12:37+0000\n"
 "Last-Translator: Bergiu <bergiub@yahoo.de>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/de/>\n"
@@ -640,3 +640,9 @@ msgstr ""
 #: smth
 msgid "building_created"
 msgstr "::-building-::Gebäude wurde gebaut!"
+
+#: smth
+msgid "gift_player_sended"
+msgstr ""
+"Du hast diesem Spieler ein Geschenk::-gift-:: geschickt. Wähle bitte einen "
+"anderen aus."
