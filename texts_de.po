@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-05-06 11:38+0000\n"
-"PO-Revision-Date: 2016-06-21 19:35+0000\n"
-"Last-Translator: Weblate Admin <admin@example.com>\n"
+"PO-Revision-Date: 2016-06-27 12:31+0000\n"
+"Last-Translator: Bergiu <bergiub@yahoo.de>\n"
 "Language-Team: German <http://translate.villagegamebot.tgroups.me/projects/vi"
 "llagegamebot/texts/de/>\n"
 "Language: de\n"
@@ -297,7 +297,7 @@ msgstr "Quests🚀 - deine Möglichkeit Geld ::-moneybag-:: zu verdienen."
 msgid "tip_sword"
 msgstr ""
 "Für Schlachten und Quests heuerst du Söldner an: ::-sword-::.\n"
-"1 ::-sword-:: kostet 1 ::-moneybag-::."
+"1 ::-sword-:: kostet 1 ::-moneybag-::"
 
 #: smth
 msgid "tip_promocode"
@@ -389,8 +389,9 @@ msgstr "Deutsch"
 #: smth
 msgid "no_money"
 msgstr ""
-"Leider hast du nicht genug Geld::-moneybag-::\n"
-"Um welches zu erhalten, warte auf Brot::-bread-::"
+"Leider hast du nicht genug Geld::-moneybag-::...\n"
+"Um welches zu erhalten, lade Freunde ein, suche Geschenk-Codes oder warte "
+"auf Brot::-bread-:: - du brauchst Geld!"
 
 #: smth
 msgid "no_revenge"
@@ -435,7 +436,7 @@ msgstr ""
 #: smth
 msgid "gold_is_bought"
 msgstr ""
-"Du hast %gold_diff%::-moneybag-:: für %diamonds_diff% Diamanten::-diamomd-:: "
+"Du hast %gold_diff%::-moneybag-:: für %diamonds_diff% Diamanten::-diamond-:: "
 "gekauft"
 
 #: smth
@@ -477,3 +478,165 @@ msgstr ""
 "Dies ist das beste Spiel in Telegram!\n"
 "\n"
 "Wähle deine Sprache\n"
+
+#: smth
+msgid "rateonstorebot"
+msgstr ""
+"Wir haben ein gutes Spiel gemacht, bitte hilf uns es Populärer zu machen - "
+"Bewerte und auf storebot.\n"
+"\n"
+"Dafür:\n"
+"1. Gehe auf den Link:\n"
+"https://telegram.me/storebot?start=villagegamebot\n"
+"2. Wähle ⭐️⭐️⭐️⭐️⭐️\n"
+"3. Hinterlasse einen Kommentar\n"
+"4. And expect development of the game!\n"
+"4. Und freue dich über kommende Entwicklungen des Spies!"
+
+#: smth
+msgid "worker_is_bought"
+msgstr ""
+"Du hast %worker_diff%::-worker-:: für %diamonds_diff%::-diamond-:: gekauft"
+
+#: smth
+msgid "questionary_1"
+msgstr ""
+"Hallo!\n"
+"Du spielst dieses coole Spiel.\n"
+"Um zu beginnen sage mir, ob du männlich oder weiblich bist."
+
+#: smth
+msgid "questionary_2"
+msgstr ""
+"Gut! Wo lebst du? Sende mir einfach deinen Standort oder den Namen der Stadt"
+
+#: smth
+msgid "questionary_3"
+msgstr ""
+"Eine schöne Stadt! Nun, sage mir, wie alt bist du? Bitte wähle aus der unten "
+"stehenden Liste"
+
+#: smth
+msgid "questionary_4"
+msgstr ""
+"Gut!, aber würdest du uns auch deinen Geburtstag schreiben? Du musst diese "
+"Frage nicht beantworten, aber vielleicht bekommst du dann ein kleines "
+"Geburtstagsgeschenk :)\n"
+"Format: TT.MM.JJJJ\n"
+"Beispiel: 25.02.1991"
+
+#: smth
+msgid "questionary_6"
+msgstr "Was tust du?"
+
+#: smth
+msgid "questionary_7"
+msgstr ""
+"Danke! Bitte schließe die Umfrage ab, indem du uns einen Kommentar da lässt -"
+" was ist zu verbessern oder was hättest du gerne zum Spiel hinzugefügt?"
+
+#: smth
+msgid "questionary_finish_first"
+msgstr ""
+"Danke für deine Antworten, wir werden sie in der Entwicklung des Spiels "
+"berücksichtigen.\n"
+"Für deinen Zeitaufwand bekommst du eine kleine Entschädigung von "
+"%gold%::-moneybag-::"
+
+#: smth
+msgid "questionary_error"
+msgstr "Irgendwas ging schief...Kannst du noch mal antworten?"
+
+#: smth
+msgid "questionary_5"
+msgstr "Und welches Gerät benutzt du gerade?"
+
+#: smth
+msgid "questionary_finish"
+msgstr ""
+"Danke für deine Antworten, wir werden sie in der Entwicklung des Spiels "
+"berücksichtigen!"
+
+#: smth
+msgid "gifts"
+msgstr ""
+"Jetzt kannst du Freunden Geschenke::-Gift-:: machen\n"
+"Du musst einfach den Kontakt deines Freundes an den Bot teilen (siehe Bild), "
+"und er wird ein Geschenk über 20::-moneybag-:: erhalten.\n"
+"Je höher dein Level ist, um so mehr Geschenke kannst du versenden.\n"
+"\n"
+"Gesendete Geschenke: %gifts% / %max_gifts%::-gift-::\n"
+"Erhaltene Geschenke: %received_gifts% ::-gift-::"
+
+#: smth
+msgid "message_is_not_contact"
+msgstr ""
+"Deine Nachricht ist kein Kontakt. Es ist wichtig, den Kontakt, wie im Bild "
+"gezeigt, zu TEILEN."
+
+#: smth
+msgid "gift_max"
+msgstr ""
+"Du hast die maximale Anzahl an Geschenken, die du verschicken kannst, "
+"erreicht. Warte bis zum nächsten Level!"
+
+#: smth
+msgid "gift_player_not_delivery"
+msgstr ""
+"Der Spieler hat das Spiel aufgegeben, das Geschenk konnte nicht ausgeliefert "
+"werden. Frage ihn, ob er nicht doch weiterspielen möchte!"
+
+#: smth
+msgid "gift_sended"
+msgstr ""
+"Das Geschenk::-gift-:: wurde verschickt. Du kannst jetzt einen anderen "
+"Kontakt teilen, um ihm auch ein Geschenk::-gift-:: zu machen."
+
+#: smth
+msgid "gift_received"
+msgstr ""
+"Du hast ein Geschenk:--gift-:: von %from_villagename% über %gold% "
+"::-moneybag-:: erhalten. Wenn du ihm danken möchtest, oder einem anderen "
+"Spieler ein Geschenk::-gift-:: machen möchtest, drücke /gifts ."
+
+#: smth
+msgid "gift_no_player"
+msgstr ""
+"Diese Person hat das Spiel noch nie gespielt. Lade sie über den Link "
+"%reflink% ein, dann kannst du ihr ein Geschenk::-gift-:: machen.\n"
+"\n"
+"Oder teile einen anderen Kontakt."
+
+#: smth
+msgid "gift_self"
+msgstr ""
+"Du versuchst dir selbst ein Geschenk::-gift-:: zu machen... Hast du "
+"überhaupt Freunde? :("
+
+#: smth
+msgid "buildings"
+msgstr ""
+"Du kannst einige Gebäude::-building-:: bauen um deine Stadt::-village-:: zu "
+"verbessern.\n"
+"\n"
+"::-farm-::Farm (Level %farm_level%) Produziert jede Minute Brot::-bread-::\n"
+"Jetzt: +%farm_bread%::-bread-:: Upgrade: +%farm_bread_update%::-bread-:: "
+"Kosten: %farm_cost%::-moneybag-::\n"
+"\n"
+"::-granary-::Scheune (Level %granary_level%) Du kannst mehr Brot lagern\n"
+"Jetzt: +%granary_max_bread%::-bread-:: Upgrade: "
+"+%granary_max_bread_update%::-bread-:: Kosten: %granary_cost%::-moneybag-::\n"
+"\n"
+"::-wall-::Mauer (Level %wall_level%)  erhöht deine Verteidigung bei einem "
+"Angriff\n"
+"Jetzt: +%wall_defense%::-sword-:: Upgrade: +%wall_defense_update%::-sword-:: "
+"Kosten: %wall_cost%::-moneybag-::\n"
+"\n"
+"Deine Truhe: %gold%\n"
+"\n"
+"Gebäude sind gerade noch in der Entwicklung. Bitte schreibe @tgcreator über "
+"alle Probleme und Fehler."
+
+#: smth
+msgid "building_created"
+msgstr "::-building-::Gebäude wurde gebaut!"
