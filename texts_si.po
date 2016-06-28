@@ -1,8 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-06-21 11:12+0000\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2016-06-28 17:34+0000\n"
+"Last-Translator: Adithya Narasinghe <adithya@rccsonline.com>\n"
+"Language-Team: Sinhala <http://translate.villagegamebot.tgroups.me/projects/v"
+"illagegamebot/texts/si/>\n"
 "Language: si\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,50 +16,76 @@ msgstr ""
 #: smth
 msgid "feedback"
 msgstr ""
+"මේ පිළිබඳ ඔබේ අදහස් ඊළඟ පණිවිඩයේ ලියන්න::-baloon-::\n"
+"නැත්නම් මේ සංවාදයේ ලියන්න - "
+"https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA"
 
 #: smth
 msgid "botisstopped"
 msgstr ""
+"ඔබව විසන්ධි කරා. ඔබට නිවේදන ලැබීම නතර වේවි. /start ලෙස එවීමෙන් නැවත සම්බන්ද "
+"විය හැක"
 
 #: smth
 msgid "ratebot"
-msgstr ""
+msgstr "කරුණාකර මෙය අගයන්න"
 
 #: smth
 msgid "thanks"
-msgstr ""
+msgstr "ස්තූතියි!"
 
 #: smth
 msgid "help"
 msgstr ""
+"ඔබ ක්‍රීඩා කරන්නේ Telegramහි ප්‍රථම උපාය ක්‍රීඩාවයි. ඔබට වගා කිරීම "
+"::-bread-::, ඒවා මුදල් වලට හුවමාරු කිරීම ::-moneybag-::, අභියොා්ග බාරගැනීම 🚀"
+", අනෙක් ක්‍රීඩකයන් සමඟ සටන් කිරීම ⚔, හා ඔබේ ගම්මානය දියුණු කිරීම කළ හැක.\n"
+"විදින්න!\n"
+"\n"
+"ආධාරක කණ්ඩායම: https://telegram.me/joinchat/B31JfT9EAAjciWBlkhmEKA\n"
+"\n"
+"පුවත් නාළිකාව - @VillageGameEn\n"
+"මුහුණුපොත - https://www.facebook.com/groups/1018021724912969/\n"
+"\n"
+"/chooselanguage - භාෂාව තෝරන්න"
 
 #: smth
 msgid "village_description"
 msgstr ""
+"%villagename% ගම්මානය (%level%:වන තලය:-village-::, %level_percents%%)\n"
+"\n"
+"සේවකයන්: %workers% ::-worker-::\n"
+"පාන්: %bread% / %max_bread% ::-bread-:: %bread_action%\n"
+"මුදල්: %gold% ::-moneybag-::   %diamonds% ::-diamond-::\n"
+"පදක්කම්: %medals% ::-medal-::"
 
 #: smth
 msgid "friend_added"
 msgstr ""
+"යහළුවා එකතු කරන ලදී. ඔබට ::-worker-:: 1ක් හා ::-moneybag-:: 5ක් ලැබුනි.\n"
+"යහළුවන්ට අරාධනා කරන්න: /invite_friends"
 
 #: smth
 msgid "working_yet"
-msgstr ""
+msgstr "ඔබ වැඩ කරමින් සිටී. මඳ වේලාවක් සිටින්න. නැත්නම් අභියෝග කරන්න /quests"
 
 #: smth
 msgid "work_started"
 msgstr ""
+"ඔබ ::-bread-:: %bread% වෙනුවෙන් වැඩ කිරීම ඇරඹුවා! ඔබට අභියෝගද, /quests, කල "
+"හැක."
 
 #: smth
 msgid "promocode_accept"
-msgstr ""
+msgstr "ප්‍රවර්ධන කේතය නිවැරදි. මුදල් -  %gold% "
 
 #: smth
 msgid "promocode_reject"
-msgstr ""
+msgstr "ප්‍රවර්ධන කේතය වැරදියි. ඔබට වැඩ කිරීම /work හෝ අභියෝග කළ හැක /quests"
 
 #: smth
 msgid "work_finished"
-msgstr ""
+msgstr "වැඩ ඉවරයි, මගෙ හාමු! වැඩ කරන්න - /work"
 
 #: smth
 msgid "tutorial_1"
