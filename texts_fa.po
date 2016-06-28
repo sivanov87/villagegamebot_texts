@@ -1,6 +1,3 @@
-"Please, write your feedback about bot in the next message: :-baloon-::\n"
-"Also you can write to chat - https: https://telegram.me/joinchat/B31JfT7keZA7wmhTG2QM2g \n"
-
 #: smth
 msgid "feedback"
 msgstr "Please, write your feedback about bot in the next message::-baloon-::\nAlso you can write to chat - https://telegram.me/joinchat/B31JfT7keZA7wmhTG2QM2g"
