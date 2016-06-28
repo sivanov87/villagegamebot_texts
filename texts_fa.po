@@ -321,7 +321,7 @@ msgid "tip_money"
 #: smth
 msgid "tip_chat"
 msgstr ""
-"به گروه پشتیبانی بازی خوش آمدید - https://telegram.me/joinchat/CVnFQz-lNCcp4zdtGbE9PQ"
+"به گروه پشتیبانی بازی خوش آمدید - https: https://telegram.me/joinchat/B31JfT7keZA7wmhTG2QM2g"
 
 #: smth
 msgid "top_24_before"
